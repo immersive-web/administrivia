@@ -1,5 +1,7 @@
 ### Immersive Web Working Group Teleconference - [DATE]
 
+[Timezone table]
+
 ### Call Agenda
 
 > == DELETE ME ==  
