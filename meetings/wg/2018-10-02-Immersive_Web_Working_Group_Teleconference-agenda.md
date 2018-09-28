@@ -12,6 +12,10 @@
 
 ### Call Agenda
 
+Note we are adding IRC alongside the regular call to help with participation and minute taking for the Working Group meetings, Chris recently sent out an email with [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md) on how to join.
+
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2018-10-02-Immersive_Web_Working_Group_Teleconference-agenda.md).
+
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [Address confusion regarding XRFrameOfReference types](https://github.com/immersive-web/webxr/issues/396) - NellWaliczek - Address the ambiguity around the terms "eye-level", "stage", and "head-model"
