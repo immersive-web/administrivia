@@ -25,5 +25,5 @@ Chair: Ada Rose Cannon
 
 Scribe:
 
-IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web
+IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
           
