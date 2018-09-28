@@ -15,11 +15,9 @@
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [Address confusion regarding XRFrameOfReference types](https://github.com/immersive-web/webxr/issues/396) - NellWaliczek - Address the ambiguity around the terms "eye-level", "stage", and "head-model"
-* [Add "local" XRFrameOfReference](https://github.com/immersive-web/webxr/issues/389) - NellWaliczek - related to 396
-* [WebXR Modes](https://github.com/immersive-web/webxr/issues/394) - toji - I suggest reading the issue, interesting but very detailed.
+* [Add "local" XRFrameOfReference](https://github.com/immersive-web/webxr/issues/389) - NellWaliczek - related to [Address confusion regarding XRFrameOfReference types](https://github.com/immersive-web/webxr/issues/396)
+* [Is XRDevice still necessary?](https://github.com/immersive-web/webxr/issues/385) - toji - PR coming, will description soon.
 * [Unified Render Paths: Poseless XRSessions](https://github.com/immersive-web/webxr/issues/367) - toji - [Summary](https://github.com/immersive-web/webxr/issues/367#issuecomment-421252422)
-* [Is XRDevice still necessary?](https://github.com/immersive-web/webxr/issues/385) - toji - I think I'll leave this off the agenda since I'm not sure a productive discussion can happen around it.
-* [Revisit session creation options and flow](https://github.com/immersive-web/webxr/issues/330) - toji - I think I'll leave this off the agenda, it's had lots of discussion recently and I'm not sure a productive discussion can happen around it.
 
 ### Logistics
 
