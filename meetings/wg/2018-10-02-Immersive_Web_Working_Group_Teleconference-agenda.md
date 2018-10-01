@@ -18,6 +18,7 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
+* NellWaliczek to give a brief update on the Privacy workshop from last week.
 * [Address confusion regarding XRFrameOfReference types](https://github.com/immersive-web/webxr/issues/396) - NellWaliczek - Address the ambiguity around the terms "eye-level", "stage", and "head-model"
 * [Add "local" XRFrameOfReference](https://github.com/immersive-web/webxr/issues/389) - NellWaliczek - related to [Address confusion regarding XRFrameOfReference types](https://github.com/immersive-web/webxr/issues/396)
 * [Is XRDevice still necessary?](https://github.com/immersive-web/webxr/issues/385) - toji - PR coming, will description soon.
