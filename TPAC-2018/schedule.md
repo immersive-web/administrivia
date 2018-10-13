@@ -11,7 +11,7 @@
 <tr><td>10:00<td>Coordinate systems fallout topics (includes #243) [Nell]<td>Web Audio x-sync [Chris]
 <tr><td>10:30<td>Break<td>break
 <tr><td>11:00<td>Declarative models [Chris+Rik]<td>DOM overlays (#400) [Nell]
-<tr><td>11:30<td>(cont)<td>[what did we forget here?]
+<tr><td>11:30<td>(cont)<td>
 <tr><td>12:00<td>lunch<td>lunch
 <tr><td>12:30<td>lunch<td>lunch
 <tr><td>13:00<td>Lightning talks round 1<td>Lightning talks round 2
