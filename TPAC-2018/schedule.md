@@ -1,3 +1,7 @@
+### IRC Notes/Back Channel
+
+IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
+
 ### TPAC Schedule
 
 <table>
