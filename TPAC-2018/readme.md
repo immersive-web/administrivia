@@ -12,7 +12,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>08:30<td><td>
 <tr><td>09:00<td>Working Group logistics [Chris+Ada]<td>CG overview: review of current incubations [Trevor]
 <tr><td>09:30<td>Overview of recent changes [Brandon]<td>3dfavicons [Rik+Chris]
-<tr><td>10:00<td>Coordinate systems fallout topics (includes #243) [Nell]<td>Web Audio visits us [Chris]
+<tr><td>10:00<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics</a> [Nell]<td>Web Audio visits us [Chris]
 <tr><td>10:30<td>Break<td>break
 <tr><td>11:00<td>Multiview/WebGL2 (issue #317) 30m: [Nell]<td>DOM overlays (#400) [Nell]
 <tr><td>11:30<td>(cont)<td>(cont)
