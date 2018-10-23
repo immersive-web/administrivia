@@ -21,7 +21,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>13:00<td>Lightning talks round 1<td>Lightning talks round 2
 <tr><td>13:30<td><a target="_blank" href="https://github.com/immersive-web/webxr/issues?q=is%3Aissue+is%3Aopen+label%3A%22FTF+discussion+requested%22">Walk through issues marked for short updates  (60m)</a><td><a target="_blank" href="https://github.com/immersive-web/webxr/issues?q=is%3Aissue+is%3Aopen+label%3A%22FTF+discussion+requested%22">Walk through issues marked for short updates  (60m)</a>
 <tr><td>14:00<td>(cont)<td>Gamepad API with the Web Platform WG
-<tr><td>14:30<td>Anchors and Hit Testing (also includes #403 and #384)  [Nell]<td>Declarative models [Chris+Rik]
+<tr><td>14:30<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/anchors-topics.md">Anchors and Hit Testing</a> [Nell]<td>Declarative models [Chris+Rik]
 <tr><td>15:00<td>(cont)<td>Privacy IG visits us for discussion [John]
 <tr><td>15:30<td>break<td>break
 <tr><td>16:00<td>Input #392 and #336 [Brandon]<td>continue declarative discussion if not done [Rik/Chris]
