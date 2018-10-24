@@ -31,3 +31,14 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>18:00<td>unconference<td>
 <tr><td>18:30<td>unconference<td>
 </table>
+
+Lightning Talks
+---------------
+- Artem (Oculus)	Multi-view: opaque FBO vs texture array. Correspondence with WEBGL_multiview extension.
+- Anqing (Alibaba) WebAR use cases and requirement
+- Michal (Google) Content/Semantic Anchoring - connecting meaning to objects in the real world
+- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
+- Artem (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
+
+
+ 
