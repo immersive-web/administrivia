@@ -12,9 +12,9 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>08:30<td><td>
 <tr><td>09:00<td>Working Group logistics [Chris+Ada]<td>CG overview: review of current incubations [Trevor]
   <tr><td>09:30<td><a target="_blank" href="https://docs.google.com/presentation/d/1K_6QI5XI5beF4Pum9BqCgbjvi_mWWYPd-SEbkoNHEn4/edit?usp=sharing">Overview of recent changes</a> [Brandon]<td>3dfavicons [Rik+Chris]
-<tr><td>10:00<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics</a> [Nell]<td>Web Audio visits us [Chris]
+<tr><td>10:00<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics (90m)[Nell]</a><td>Web Audio visits us [Chris]
 <tr><td>10:30<td>Break<td>break
-<tr><td>11:00<td>Multiview/WebGL2 (issue #317) 30m: [Nell]<td>DOM overlays (#400) [Nell]
+<tr><td>11:00<td>(cont)<td>DOM overlays (#400) [Nell]
 <tr><td>11:30<td>(cont)<td>(cont)
 <tr><td>12:00<td>lunch<td>lunch
 <tr><td>12:30<td>lunch<td>lunch
@@ -24,7 +24,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>14:30<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/anchors-topics.md">Anchors and Hit Testing</a> [Nell]<td>Declarative models [Chris+Rik]
 <tr><td>15:00<td>(cont)<td>Privacy IG visits us for discussion [John]
 <tr><td>15:30<td>break<td>break
-<tr><td>16:00<td>Input #392 and #336 [Brandon]<td>continue declarative discussion if not done [Rik/Chris]
+<tr><td>16:00<td>Multiview/WebGL2 (issue #317) (60min) [Nell]<td>continue declarative discussion if not done [Rik/Chris]
 <tr><td>16:30<td>(cont)<td>Wrap Up [Ada+Chris]
 <tr><td>17:00<td>unconference<td>&lt;END AT 5PM&gt;
 <tr><td>17:30<td>unconference<td>
