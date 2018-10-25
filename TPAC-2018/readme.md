@@ -34,7 +34,6 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 
 Lightning Talks
 ---------------
-- Artem Bolgar (Oculus)	Multi-view: opaque FBO vs texture array. Correspondence with WEBGL_multiview extension.
 - Qing An (Alibaba) WebAR use cases and requirement
 - Michal Mochny (Google) Content/Semantic Anchoring - connecting meaning to objects in the real world
 - Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
