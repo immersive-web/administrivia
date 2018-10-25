@@ -35,7 +35,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 Lightning Talks
 ---------------
 - Qing An (Alibaba) WebAR use cases and requirement
-- Michal Mochny (Google) [https://docs.google.com/presentation/d/1rzcpyFuffPefXPAO0_t89RyGu3yS35xDydIS1n8lt9Y/edit?usp=sharing Content/Semantic Anchoring - connecting meaning to objects in the real world]
+- Michal Mochny (Google) [Content/Semantic Anchoring - connecting meaning to objects in the real world](https://docs.google.com/presentation/d/1rzcpyFuffPefXPAO0_t89RyGu3yS35xDydIS1n8lt9Y/edit?usp=sharing)
 - Artem Bolgar (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
 
 Friday Lightning
