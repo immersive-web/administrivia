@@ -36,8 +36,10 @@ Lightning Talks
 ---------------
 - Qing An (Alibaba) WebAR use cases and requirement
 - Michal Mochny (Google) Content/Semantic Anchoring - connecting meaning to objects in the real world
-- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
 - Artem Bolgar (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
 
+Friday Lightning
+----------------
 
+- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
  
