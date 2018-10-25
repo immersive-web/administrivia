@@ -6,7 +6,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 
 <table>
 <thead>
-<tr><td><td>Thursday<td>Friday</tr>
+<tr><td><td>Thursday <a target="_blank" href="https://www.w3.org/2018/10/25-immersive-web-minutes.html">(IRC Minutes)</a><td>Friday</tr>
 <tbody>
 <tr><td>08:00<td><td>
 <tr><td>08:30<td><td>
