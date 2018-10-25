@@ -12,8 +12,8 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>08:30<td><td>
 <tr><td>09:00<td>Working Group logistics [Chris+Ada]<td>CG overview: review of current incubations [Trevor]
   <tr><td>09:30<td><a target="_blank" href="https://docs.google.com/presentation/d/1K_6QI5XI5beF4Pum9BqCgbjvi_mWWYPd-SEbkoNHEn4/edit?usp=sharing">Overview of recent changes</a> [Brandon]<td>3dfavicons [Rik+Chris]
-<tr><td>10:00<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics (90m)[Nell]</a><td>Web Audio visits us [Chris]
-<tr><td>10:30<td>Break<td>break
+<tr><td>10:00<td>Break<td>Web Audio visits us [Chris]
+<tr><td>10:30<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics (90m)[Nell]</a><td>break
 <tr><td>11:00<td>(cont)<td>DOM overlays (#400) [Nell]
 <tr><td>11:30<td>(cont)<td>(cont)
 <tr><td>12:00<td>lunch<td>lunch
