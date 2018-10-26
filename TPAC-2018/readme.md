@@ -14,7 +14,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
   <tr><td>09:30<td><a target="_blank" href="https://docs.google.com/presentation/d/1K_6QI5XI5beF4Pum9BqCgbjvi_mWWYPd-SEbkoNHEn4/edit?usp=sharing">Overview of recent changes</a> [Brandon]<td>3dfavicons [Rik+Chris]
 <tr><td>10:00<td>Break<td>Web Audio visits us [Chris]
 <tr><td>10:30<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/cs-fallout-topics.md">Coordinate systems fallout topics (90m)[Nell]</a><td>break
-<tr><td>11:00<td>(cont)<td><a target="_blank" href="https://docs.google.com/presentation/d/1bPe6ACRY87APioeeN8pDSfFF6NrBqwm3lNaMXDOZx5s/edit?usp=sharing">DOM overlays (#400)</a>  [Jill]
+<tr><td>11:00<td>(cont)<td>DOM overlays (#400) [Nell]
 <tr><td>11:30<td>(cont)<td>(cont)
 <tr><td>12:00<td>lunch<td>lunch
 <tr><td>12:30<td>lunch<td>lunch
@@ -22,9 +22,9 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <tr><td>13:30<td><a target="_blank" href="https://github.com/immersive-web/webxr/issues?q=is%3Aissue+is%3Aopen+label%3A%22FTF+discussion+requested%22">Walk through issues marked for short updates  (60m)</a><td><a target="_blank" href="https://github.com/immersive-web/webxr/issues?q=is%3Aissue+is%3Aopen+label%3A%22FTF+discussion+requested%22">Walk through issues marked for short updates  (30m)</a>
 <tr><td>14:00<td>(cont)<td>Gamepad API discussion in the Web Platform WG
 <tr><td>14:30<td><a target="_blank" href="https://github.com/immersive-web/administrivia/blob/master/TPAC-2018/anchors-topics.md">Anchors and Hit Testing</a> [Nell]<td>Declarative models [Chris+Rik]
-<tr><td>15:00<td>(cont)<td>Privacy IG visits us for discussion [John]
+<tr><td>15:00<td>(cont)<td><a target="_blank" href="https://docs.google.com/presentation/d/1U6P2-9xZQHQt3XWW6wFnebIuz6aBf_fPCoMsLpeIQYQ/edit?usp=sharing">Privacy IG visits us for discussion [John]</a>
 <tr><td>15:30<td>break<td>break
-<tr><td>16:00<td><a href="https://docs.google.com/presentation/d/1OVWg6qb1B8b_sHnG4hDdveUrzXlwsAgsYpbqjoPYT_0/edit#slide=id.g465f769066_2_75">Multiview/WebGL2</a> (issue #317) (60min) [Daniel]<td>continue declarative discussion if not done [Rik/Chris]
+<tr><td>16:00<td><a href="https://docs.google.com/presentation/d/1OVWg6qb1B8b_sHnG4hDdveUrzXlwsAgsYpbqjoPYT_0/edit#slide=id.g465f769066_2_75">Multiview/WebGL2</a> (issue #317) (60min) [Nell]<td>continue declarative discussion if not done [Rik/Chris]
 <tr><td>16:30<td>(cont)<td>Wrap Up [Ada+Chris]
 <tr><td>17:00<td>unconference<td>&lt;END AT 5PM&gt;
 <tr><td>17:30<td>unconference<td>
@@ -36,9 +36,10 @@ Lightning Talks
 ---------------
 - Qing An (Alibaba) WebAR use cases and requirement
 - Michal Mochny (Google) [Content/Semantic Anchoring - connecting meaning to objects in the real world](https://docs.google.com/presentation/d/1rzcpyFuffPefXPAO0_t89RyGu3yS35xDydIS1n8lt9Y/edit?usp=sharing)
+- Artem Bolgar (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
 
 Friday Lightning
 ----------------
-- Boaz from Bocoup wanted to discuss testing of/for XR
-- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15) [slides](lists.w3.org/Archives/Public/www-archive/2018Oct/att-0010/2018.10.26-Multitasking-Guiod-Grassel.pptx)
-- Artem Bolgar (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
+
+- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
+ 
