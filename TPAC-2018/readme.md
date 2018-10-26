@@ -40,5 +40,5 @@ Lightning Talks
 Friday Lightning
 ----------------
 - Boaz from Bocoup wanted to discuss testing of/for XR
-- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15)
+- Guido Grassel (Huawei) - comments on the [Multitasking proposal](https://github.com/immersive-web/proposals/issues/15) [slides](lists.w3.org/Archives/Public/www-archive/2018Oct/att-0010/2018.10.26-Multitasking-Guiod-Grassel.pptx)
 - Artem Bolgar (Oculus) Demo of timewarp layers using Oculus Go and Oculus Browser
