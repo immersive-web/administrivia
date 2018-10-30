@@ -16,7 +16,6 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [The Great Bikeshedding II: XRFrameOfReference and XRCoordinateSystem](https://github.com/immersive-web/webxr/issues/418) - NellWaliczek - Bike Shedding
 * [XRFrameOfReference needed for Projection Matrices on some backends?](https://github.com/immersive-web/webxr/issues/412) - toji - [description]
 * [WebXR Modes](https://github.com/immersive-web/webxr/issues/394) - toji - [description]
 * [XRPresentationContext attachment lifetime](https://github.com/immersive-web/webxr/issues/375) - toji - [description]
