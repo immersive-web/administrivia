@@ -16,8 +16,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [XRFrameOfReference needed for Projection Matrices on some backends?](https://github.com/immersive-web/webxr/issues/412) - toji - [description]
-* [WebXR Modes](https://github.com/immersive-web/webxr/issues/394) - toji - [description]
+* [XRFrameOfReference needed for Projection Matrices on some backends?](https://github.com/immersive-web/webxr/issues/412) ([Pull Request](https://github.com/immersive-web/webxr/pull/422)) - toji - [description]
+* [WebXR Modes](https://github.com/immersive-web/webxr/issues/394) ([Pull Request](https://github.com/immersive-web/webxr/pull/419)) - toji - [description]
 * [XRPresentationContext attachment lifetime](https://github.com/immersive-web/webxr/issues/375) - toji - [description]
 * [Trying to avoid additional canvas when mirroring](https://github.com/immersive-web/webxr/issues/341) - toji - [description]
 
