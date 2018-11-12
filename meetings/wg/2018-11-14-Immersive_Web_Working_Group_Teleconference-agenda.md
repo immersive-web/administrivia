@@ -19,9 +19,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * Toward a First Public Working Draft for WebXR Device API: [FPWD-targeted issues](https://github.com/immersive-web/webxr/milestone/6) [Definition of First Public Working Draft in W3C Process](https://www.w3.org/2018/Process-20180201/#first-wd)
-* Show and tell: [description]
 * [Define how to request features which require user consent](https://github.com/immersive-web/webxr/issues/424) - toji - [description]
-* [Allow session creation to be blocked on required features](https://github.com/immersive-web/webxr/issues/423) - toji - [description]
+* [Allow session creation to be blocked on required features](https://github.com/immersive-web/webxr/issues/423) - toji - Is the inability to enumerate dictionary keys in native code a Chrome-only limitation (in which case we'll just deal with it) or is that a common limit in other browser as well?
 * [Default FoV for magic window canvases](https://github.com/immersive-web/webxr/issues/272) - toji - [description]
 * [The Great Bikeshedding II: XRFrameOfReference and XRCoordinateSystem](https://github.com/immersive-web/webxr/issues/418) - NellWaliczek - [description]
 
