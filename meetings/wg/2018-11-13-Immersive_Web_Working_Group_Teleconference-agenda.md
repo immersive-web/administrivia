@@ -4,12 +4,12 @@
 Meeting is at the new time of 10am
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Wednesday 14 November, 10:00 GMT-8
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday 14 November, 13:00 GMT-5
-<tr><td> London (United Kingdom - England) <td> Wednesday 14 November, 18:00 GMT
-<tr><td> Paris (France) <td> Wednesday 14 November, 19:00 CET
-<tr><td> Tokyo (Japan) <td> Thursday 15 November, 03:00 GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Wednesday 14 November, 18:00 UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday 13 November, 10:00 GMT-8
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday 13 November, 13:00 GMT-5
+<tr><td> London (United Kingdom - England) <td> Tuesday 13 November, 18:00 GMT
+<tr><td> Paris (France) <td> Tuesday 13 November, 19:00 CET
+<tr><td> Tokyo (Japan) <td> Wednesday 14 November, 03:00 GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday 13 November, 18:00 UTC
 </table>
 
 ### Call Agenda
