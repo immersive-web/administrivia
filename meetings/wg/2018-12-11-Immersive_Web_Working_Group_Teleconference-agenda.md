@@ -16,8 +16,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [Define how to request features which require user consent](https://github.com/immersive-web/webxr/issues/424) - toji - [description]
-* [Allow session creation to be blocked on required features](https://github.com/immersive-web/webxr/issues/423) - toji - [description]
+* [Discuss PR, check for incompatibilities](https://github.com/immersive-web/webxr/pull/439) - toj - Makes the frame lifetime more explicit and explains what session data is captured and when. 
+* Chat around teleportation, no WebXR issue yet.
 
 ### Logistics
 
