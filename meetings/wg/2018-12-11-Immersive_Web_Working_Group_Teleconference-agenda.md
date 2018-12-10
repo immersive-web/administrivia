@@ -16,7 +16,7 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [Discuss PR, check for incompatibilities](https://github.com/immersive-web/webxr/pull/439) - toj - Makes the frame lifetime more explicit and explains what session data is captured and when. 
+* [Discuss PR, check for incompatibilities](https://github.com/immersive-web/webxr/pull/439) - toji - Makes the frame lifetime more explicit and explains what session data is captured and when. 
 * Chat around teleportation, no WebXR issue yet.
 
 ### Logistics
