@@ -16,11 +16,11 @@ The repository for a proposal enables issue tracking, and branching.  In particu
 
 The best place to start with any new proposal is **[an explainer](https://w3ctag.github.io/explainers)** to provide a quick introduction to why the feature is needed and what it does. It should be written for a non-technical audience to provide a fast introduction for non-experts to understand.
 
-At this stage it's still okay for their just to be a single contributor managing and controlling the contents of the proposal. It is also okay to push changes straight to master without needing peer review.
+At this stage it's still okay for there just to be a single contributor managing and controlling the contents of the proposal. It is also okay to push changes straight to master without needing peer review.
 
 ## 3. Incubate the idea in the Community Group
 
-The goal here is to develop the idea further to ensure it is viable and won't present issues. Putting together tests, polyfills, demos or implementations is incredibly valuable to this effort because they can be used to prove that the change is wanted.
+The goal here is to develop the idea further to ensure it is viable and to work through issues with the idea. Putting together tests, polyfills, demos or implementations is incredibly valuable to this effort because they can be used to prove that the change is wanted.
 
 Gaining feedback from the community and developers to inform the development is very valuable here because the API surface can be radically changed with little impact on the rest of the standard and without needing buy in from the rest of the group or the editors.
 
@@ -34,5 +34,4 @@ proposal is baked enough to move to the Working Group to lock down and ship. Hav
 For features that should move to the Immersive Web Working Group, the IWWG will need to vote to adopt this.  The Community Group chair can help connect with the WG chairs, and the WG will need to vote to adopt the work.
 
 If the proposed change is within the scope of the working group charter then it shouldn't be a problem; but if the proposed feature is outside the scope of the charter, the working group may need to be re-chartered to adopt a broader scope. 
-
 Work performed in the Working Group will have to include clear consensus and appropriate peer review.  Once the core design has been settled, if the work is not being adopted as a separate specification deliverable from the WG, the text can move into the core WebXR Device API specification and the feature design docs from the repo should be marked as of historical interest only.
