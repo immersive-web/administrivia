@@ -6,10 +6,10 @@ Draft, subject to change.
 |:-----:|:----------------------------------------------------------------------------------------------------------:|:---------------------------:|
 |  9.00 |                                           Doors Open                                                       |       Doors Open        |
 |  9.15 |                                                      ⇊                                                     |              ⇊              |
-|  9.30 |                               Introduction by Chris and Ada                                                |      Long lived XR Apps     |
+|  9.30 |                               Introduction by Chris and Ada                                                |      Request Animation Frame (Lead by Kip)     |
 |  9.45 |              Input and Controllers #336, #392 Pull #462                                                    |              ⇊              |
 | 10.00 |                                                      ⇊                                                     |              ⇊               |
-| 10.15 |                                                      ⇊                                                     |              ⇊         |
+| 10.15 |                                                      ⇊                                                     |     Long lived XR Apps         |
 | 10.30 | FoV / ViewMatrix (461/447)        Expose combined frustrum(203)        Default FoV for Magic Window (#272) |              ⇊              |
 | 10.45 |                                                      ⇊                                                     |              ⇊              |
 | 11.00 |                                                      ⇊                                                     |         FOV Stencils        |
@@ -31,16 +31,16 @@ Draft, subject to change.
 | 15.00 |                                                      ⇊                                                     |              ⇊              |
 | 15.15 |                                                      ⇊                                                     |                             |
 | 15.30 |                                                      ⇊                                                     |                             |
-| 15.45 |                                    Request Animation Frame (Lead by Kip)                                   |                             |
+| 15.45 |                                                 Unconference                |                             |
 | 16.00 |                                                      ⇊                                                     |                             |
-| 16.15 |                                                      ⇊                                                     |                             |
-| 16.30 |                                                Unconference                                                |                             |
-| 16.45 |                                                      ⇊                                                     |                             |
-| 17.00 |                                                Unconference                                                |                             |
-| 17.15 |                                                      ⇊                                                     |                             |
-| 17.30 |                                                Unconference                                                |                             |
-| 17.45 |                                                      ⇊                                                     |                             |
-| 18.00 |                                                   Wrap up                                                  |                             |
+| 16.15 |                                                 Unconference                                                     |                             |
+| 16.30 |                                                      ⇊                                         |                             |
+| 16.45 |                                                 Unconference                                                     |                             |
+| 17.00 |                                                      ⇊                                               |                             |
+| 17.15 |                                                   Wrap up                                                     |                             |
+| 17.30 |                                                                                                |                             |
+| 17.45 |                                                                                                         |                             |
+| 18.00 |                                                                                                     |                             |
 
 
 
