@@ -4,12 +4,12 @@ Draft, subject to change.
 
 |       |                                                29/1  TUESDAY                                               |        30/1 WEDNESDAY       |
 |:-----:|:----------------------------------------------------------------------------------------------------------:|:---------------------------:|
-|  9.00 |                                        Introduction by Chris and Ada                                       |      Long lived XR Apps     |
+|  9.00 |                                           Doors Open                                                       |       Doors Open        |
 |  9.15 |                                                      ⇊                                                     |              ⇊              |
-|  9.30 |                                                      ⇊                                                     |              ⇊              |
+|  9.30 |                               Introduction by Chris and Ada                                                |      Long lived XR Apps     |
 |  9.45 |              Input and Controllers #336, #392 Pull #462                                                    |              ⇊              |
-| 10.00 |                                                      ⇊                                                     | Declarative 3D Scene Graphs |
-| 10.15 |                                                      ⇊                                                     |              ⇊              |
+| 10.00 |                                                      ⇊                                                     |              ⇊               |
+| 10.15 |                                                      ⇊                                                     |              ⇊         |
 | 10.30 | FoV / ViewMatrix (461/447)        Expose combined frustrum(203)        Default FoV for Magic Window (#272) |              ⇊              |
 | 10.45 |                                                      ⇊                                                     |              ⇊              |
 | 11.00 |                                                      ⇊                                                     |         FOV Stencils        |
@@ -41,3 +41,9 @@ Draft, subject to change.
 | 17.30 |                                                Unconference                                                |                             |
 | 17.45 |                                                      ⇊                                                     |                             |
 | 18.00 |                                                   Wrap up                                                  |                             |
+
+
+
+# Unconference Topics
+
+Declarative 3D Scene Graphs
