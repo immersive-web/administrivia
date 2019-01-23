@@ -31,8 +31,8 @@ Draft, subject to change.
 | 15.00 |                                                      ⇊                                                     |              ⇊              |
 | 15.15 |                                                      ⇊                                                     |                             |
 | 15.30 |                                                      ⇊                                                     |                             |
-| 15.45 |                                                 Unconference                |                             |
-| 16.00 |                                                      ⇊                                                     |                             |
+| 15.45 |                                                      Lightning talk           |                             |
+| 16.00 |                                                 Unconference Organisation                                                     |                             |
 | 16.15 |                                                 Unconference                                                     |                             |
 | 16.30 |                                                      ⇊                                         |                             |
 | 16.45 |                                                 Unconference                                                     |                             |
