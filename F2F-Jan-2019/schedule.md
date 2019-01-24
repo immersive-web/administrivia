@@ -7,11 +7,11 @@ Draft, subject to change.
 |  9.00 |                                           Doors Open                                                       |       Doors Open        |
 |  9.15 |                                                      ⇊                                                     |              ⇊              |
 |  9.30 |                               Introduction by Chris and Ada                                                |      Request Animation Frame (Lead by Kip)     |
-|  9.45 |                         Input and Controllers #336, #392 Pull #462                                         |              ⇊              |
-| 10.00 |                                                      ⇊                                                     |    Tracking Loss (#243)      |
+|  9.45 |                         Input and Controllers [#336](https://github.com/immersive-web/webxr/issues/336), [#392](https://github.com/immersive-web/webxr/issues/392) Pull [#462](https://github.com/immersive-web/webxr/issues/462)                                         |              ⇊              |
+| 10.00 |                                                      ⇊                                                     |    Tracking Loss ([#243](https://github.com/immersive-web/webxr/issues/243))      |
 | 10.15 |                                                      ⇊                                                     |              ⇊             |
 | 10.30 |                                                     Break                                                  |             Break              |
-| 10.45 | FoV / ViewMatrix (461/447)        Expose combined frustrum(203)        Default FoV for Magic Window (#272) |         FOV Stencils        |
+| 10.45 | FoV / ViewMatrix ([#461](https://github.com/immersive-web/webxr/issues/461)/[#447](https://github.com/immersive-web/webxr/issues/447))        Expose combined frustrum([#203](https://github.com/immersive-web/webxr/issues/203))        Default FoV for Magic Window ([#272](https://github.com/immersive-web/webxr/issues/272)) |         FOV Stencils        |
 | 11.00 |                                                      ⇊                                                     |              ⇊            |
 | 11.15 |                                                      ⇊                                                     |              ⇊              |
 | 11.30 |                                                    Lunch                                                   |            Lunch            |
@@ -20,8 +20,8 @@ Draft, subject to change.
 | 12.15 |                                                      ⇊                                                     |              ⇊              |
 | 12.30 |                                                      ⇊                                                     |              ⇊              |
 | 12.45 |                                                      ⇊                                                     |              ⇊              |
-| 13.00 |                                        originOffset behaviour #477                                          |          Quad Layer         |
-| 13.15 |                                     Session creation (#423,#424,#433)                                        |              ⇊              |
+| 13.00 |                                        originOffset behaviour [#477](https://github.com/immersive-web/webxr/issues/477)                                          |          Quad Layer         |
+| 13.15 |                                     Session creation ([#423](https://github.com/immersive-web/webxr/issues/423),[#424](https://github.com/immersive-web/webxr/issues/424),[#433](https://github.com/immersive-web/webxr/issues/433))                                        |              ⇊              |
 | 13.30 |                                                      ⇊                                                     |              ⇊              |
 | 13.45 |                                                      ⇊                                                     |      Long lived XR Apps      |
 | 14.00 |                                           Hit Testing and Anchors                                          |              ⇊              |
