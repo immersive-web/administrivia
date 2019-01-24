@@ -20,8 +20,8 @@ Draft, subject to change.
 | 12.15 |                                                      ⇊                                                     |              ⇊              |
 | 12.30 |                                                      ⇊                                                     |              ⇊              |
 | 12.45 |                                                      ⇊                                                     |              ⇊              |
-| 13.00 |                                      Session creation (#423,#424,#433)                                     |          Quad Layer         |
-| 13.15 |                                                      ⇊                                                     |              ⇊              |
+| 13.00 |                                        originOffset behaviour #477                                          |          Quad Layer         |
+| 13.15 |                                     Session creation (#423,#424,#433)                                        |              ⇊              |
 | 13.30 |                                                      ⇊                                                     |              ⇊              |
 | 13.45 |                                                      ⇊                                                     |      Long lived XR Apps      |
 | 14.00 |                                           Hit Testing and Anchors                                          |              ⇊              |
