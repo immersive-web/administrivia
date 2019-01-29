@@ -21,23 +21,23 @@ Draft, subject to change.
 | 12.30 |                                                      ⇊                                                     |              ⇊              |
 | 12.45 |                                                      ⇊                                                     |              ⇊              |
 | 13.00 |                                        originOffset behaviour [#477](https://github.com/immersive-web/webxr/issues/477)                                          |          Quad Layer         |
-| 13.15 |                                     Session creation ([#423](https://github.com/immersive-web/webxr/issues/423),[#424](https://github.com/immersive-web/webxr/issues/424),[#433](https://github.com/immersive-web/webxr/issues/433))                                        |              ⇊              |
+| 13.15 |                                            Hit Testing and Anchors                                         |              ⇊              |
 | 13.30 |                                                      ⇊                                                     |              ⇊              |
-| 13.45 |                                                      ⇊                                                     |      Long lived XR Apps      |
-| 14.00 |                                           Hit Testing and Anchors                                          |              ⇊              |
-| 14.15 |                                                      ⇊                                                     |              ⇊              |
-| 14.30 |                                                      ⇊                                                     |              ⇊              |
-| 14.45 |                                                    Break                                                   |            break            |
-| 15.00 |                                               Lightning talks                                             |         Lightning talks     |
-| 15.15 |                                                      ⇊                                                    |               ⇊            |
-| 15.30 |                                                      ⇊                                                     |             ⇊               |
-| 15.45 |                                               Unconference Organisation                                    |      Unconference Organisation |
-| 16.00 |                                                 Unconference                                               |           Unconference          |
+| 13.45 |                                                   Privacy                                                  |      Long lived XR Apps      |
+| 14.00 |                                                      ⇊                                                     |              ⇊              |
+| 14.15 |                                                    Break                                                   |              ⇊              |
+| 14.30 |      Session creation ([#423](https://github.com/immersive-web/webxr/issues/423),[#424](https://github.com/immersive-web/webxr/issues/424),[#433](https://github.com/immersive-web/webxr/issues/433))                                                     |              ⇊              |
+| 14.45 |                                                      ⇊                                                    |            break            |
+| 15.00 |                                                      ⇊                                             |         Lightning talks     |
+| 15.15 |                                                      ⇊                                                     |               ⇊            |
+| 15.30 |                                                Lightning talks                                             |             ⇊               |
+| 15.45 |                                         Unconference Organisation                                          |      Unconference Organisation |
+| 16.00 |                                                Unconference                                                |           Unconference          |
 | 16.15 |                                                      ⇊                                                     |             ⇊           |
-| 16.30 |                                                  Unconference                                               |           Unconference           |
-| 16.45 |                                                      ⇊                                                      |          ⇊              |
-| 17.00 |                                                   Wrap up                                                   |        Wrap up            |
-| 17.15 |                                                                                                             |                             |
+| 16.30 |                                                Unconference                                                |           Unconference           |
+| 16.45 |                                                      ⇊                                                     |          ⇊              |
+| 17.00 |                                                   Wrap up                                                  |        Wrap up            |
+| 17.15 |                                                                                                            |                             |
 | 17.30 |                                                                                                            |                             |
 | 17.45 |                                                                                                            |                             |
 | 18.00 |                                                                                                            |                             |
