@@ -4,7 +4,7 @@ Please note that we don't want this to be overwhelming, and it doesn't mean that
 
 We'll be using the** irc.w3.org server, in the channel #immersive-web.**  If you have your own IRC client (I'm a big fan of IRCCloud, personally) point it at irc.w3.org:6667.  If you want to use the W3C's basic IRC web client, head over to [http://irc.w3.org/](http://irc.w3.org/), enter a nickname for yourself (please use something identifiable as you!) and the channel name #immersive-web.
 
-**Quick Guide to Queue management in IRC: **
+**Quick Guide to Queue management in IRC:**
 
 *   When you want to get a chance to speak, type **"q+"** in the IRC channel, and hit enter. 
 *   If you want to get fancy - or like me, you're worried you will forget what you had to say before it's your turn - you can say something like **"q+ to say I want to suggest an approach based on quantum mechanics"**.  Note that others in the channel *will* see this comment when you queue up (i.e. before it's your turn).
