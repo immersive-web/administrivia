@@ -49,4 +49,3 @@ Draft, subject to change.
 * Declarative WebXR & Declarative 3D Scene Graphs
 * Output Context
 * Camera Alignment
-* Privacy
