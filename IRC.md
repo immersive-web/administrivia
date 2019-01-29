@@ -7,7 +7,7 @@ We'll be using the** irc.w3.org server, in the channel #immersive-web.**  If you
 **Quick Guide to Queue management in IRC:**
 
 *   When you want to get a chance to speak, type **"q+"** in the IRC channel, and hit enter. 
-*   If you want to get fancy - or like me, you're worried you will forget what you had to say before it's your turn - you can say something like **"q+ to say I want to suggest an approach based on quantum mechanics"**.  Note that others in the channel *will* see this comment when you queue up (i.e. before it's your turn).
+*   If you want to get fancy - or like me, you're worried you will forget what you had to say before it's your turn - you can say something like **"q+ to say _I want to suggest an approach based on quantum mechanics_"**. The **"q+ to say"** prefix is required verbatim, followed by freeform text. Note that others in the channel *will* see this comment when you queue up (i.e. before it's your turn).
 *   You can ask who is on the queue by typing **"q?"**
 *   If you decide you no longer need to be on the queue, you can simply type **"q-"**.  (For example, if people saw your statement above and it's already been incorporated in the conversation and you had nothing more to say.)
 *   You'll see the chairs using **"ack x"** when someone is at the head of the queue - that means it's your turn to speak (we'll acknowledge you in person too).  
