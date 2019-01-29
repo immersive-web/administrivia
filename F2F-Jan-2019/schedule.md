@@ -28,14 +28,14 @@ Draft, subject to change.
 | 14.15 |                                                    Break                                                   |              ⇊              |
 | 14.30 |      FoV / ViewMatrix ([#461](https://github.com/immersive-web/webxr/issues/461)/[#447](https://github.com/immersive-web/webxr/issues/447))        Expose combined frustrum([#203](https://github.com/immersive-web/webxr/issues/203))        Default FoV for Magic Window ([#272](https://github.com/immersive-web/webxr/issues/272))  |            Break            |
 | 14.45 |                                                      ⇊                                                     |              ⇊              |
-| 15.00 |                                                      ⇊                                                     |  Unconference Organisation  |
-| 15.15 |                                                FOV Stencils                                                |         Unconference        |
-| 15.30 |                                                Lightning talks                                             |              ⇊              |
+| 15.00 |                                                      ⇊                                                     |         FOV Stencils        |
+| 15.15 |                                                      ⇊                                                     |              ⇊              |
+| 15.30 |                                                Lightning talks                                             |  Unconference Organisation  |
 | 15.45 |                                         Unconference Organisation                                          |         Unconference        |
 | 16.00 |                                                Unconference                                                |              ⇊              |
-| 16.15 |                                                      ⇊                                                     |           Wrap up           |
-| 16.30 |                                                Unconference                                                |                             |
-| 16.45 |                                                      ⇊                                                     |                             |
+| 16.15 |                                                      ⇊                                                     |        Unconference         |
+| 16.30 |                                                Unconference                                                |              ⇊              |
+| 16.45 |                                                      ⇊                                                     |           Wrap up           |
 | 17.00 |                                                   Wrap up                                                  |                             |
 | 17.15 |                                                                                                            |                             |
 | 17.30 |                                                                                                            |                             |
