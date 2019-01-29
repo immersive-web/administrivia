@@ -46,6 +46,6 @@ Draft, subject to change.
 
 # Unconference Topics
 
-* Declarative 3D Scene Graphs
+* Declarative WebXR & Declarative 3D Scene Graphs
 * Output Context
 * Camera Alignment
