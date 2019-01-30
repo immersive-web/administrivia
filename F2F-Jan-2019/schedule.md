@@ -10,10 +10,10 @@ Draft, subject to change.
 |  9.45 |                         Input and Controllers [#336](https://github.com/immersive-web/webxr/issues/336), [#392](https://github.com/immersive-web/webxr/issues/392) Pull [#462](https://github.com/immersive-web/webxr/issues/462)                                         |              ⇊              |
 | 10.00 |                                                      ⇊                                                     |              ⇊              |
 | 10.15 |                                                      ⇊                                                     |              ⇊              |
-| 10.30 |                                                     Break                                                  |            Break            |
-| 10.45 |                                                      ⇊                                                     |  Request Animation Frame (Led by Kip)|
-| 11.00 |                                                      ⇊                                                     |              ⇊              |
-| 11.15 |                                                      ⇊                                                     |         Quad Layer          |
+| 10.30 |                                                     Break                                                  |              ⇊              |
+| 10.45 |                                                      ⇊                                                     |              ⇊              |
+| 11.00 |                                                      ⇊                                                     |            Break            |
+| 11.15 |                                                      ⇊                                                     | Request Animation Frame (Led by Kip) |
 | 11.30 |                                                    Lunch                                                   |              ⇊              |
 | 11.45 |                                                      ⇊                                                     |            Lunch            |
 | 12.00 |                                                      ⇊                                                     |              ⇊              |
@@ -22,8 +22,8 @@ Draft, subject to change.
 | 12.45 |                                                      ⇊                                                     |              ⇊              |
 | 13.00 |               originOffset behaviour [#477](https://github.com/immersive-web/webxr/issues/477)             |              ⇊              |
 | 13.15 |                                            Hit Testing and Anchors                                         |              ⇊              |
-| 13.30 |                                                      ⇊                                                     |      Long lived XR Apps     |
-| 13.45 |                                                   Privacy                                                  |              ⇊              |
+| 13.30 |                                                      ⇊                                                     |          Quad Layer         |
+| 13.45 |                                                   Privacy                                                  |      Long lived XR Apps     |
 | 14.00 |                                                      ⇊                                                     |              ⇊              |
 | 14.15 |                                                    Break                                                   |              ⇊              |
 | 14.30 |      FoV / ViewMatrix ([#461](https://github.com/immersive-web/webxr/issues/461)/[#447](https://github.com/immersive-web/webxr/issues/447))        Expose combined frustrum([#203](https://github.com/immersive-web/webxr/issues/203))        Default FoV for Magic Window ([#272](https://github.com/immersive-web/webxr/issues/272))  |            Break            |
