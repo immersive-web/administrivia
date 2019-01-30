@@ -6,14 +6,14 @@ Draft, subject to change.
 |:-----:|:----------------------------------------------------------------------------------------------------------:|:---------------------------:|
 |  9.00 |                                           Doors Open                                                       |       Doors Open            |
 |  9.15 |                                                      ⇊                                                     |              ⇊              |
-|  9.30 |                               Introduction by Chris and Ada                                                |         Quad Layer          |
+|  9.30 |                               Introduction by Chris and Ada                                                | Tracking Loss ([#243](https://github.com/immersive-web/webxr/issues/243)) |
 |  9.45 |                         Input and Controllers [#336](https://github.com/immersive-web/webxr/issues/336), [#392](https://github.com/immersive-web/webxr/issues/392) Pull [#462](https://github.com/immersive-web/webxr/issues/462)                                         |              ⇊              |
 | 10.00 |                                                      ⇊                                                     |              ⇊              |
 | 10.15 |                                                      ⇊                                                     |              ⇊              |
 | 10.30 |                                                     Break                                                  |            Break            |
 | 10.45 |                                                      ⇊                                                     |  Request Animation Frame (Led by Kip)|
 | 11.00 |                                                      ⇊                                                     |              ⇊              |
-| 11.15 |                                                      ⇊                                                     |    Tracking Loss ([#243](https://github.com/immersive-web/webxr/issues/243))                |
+| 11.15 |                                                      ⇊                                                     |         Quad Layer          |
 | 11.30 |                                                    Lunch                                                   |              ⇊              |
 | 11.45 |                                                      ⇊                                                     |            Lunch            |
 | 12.00 |                                                      ⇊                                                     |              ⇊              |
