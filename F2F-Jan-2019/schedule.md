@@ -44,9 +44,13 @@ Draft, subject to change.
 
 
 
-# Unconference Topics
+# Unconference Topics - Tue
 
 * Declarative WebXR & Declarative 3D Scene Graphs
 * Output Context
+
+# Unconference Topics - Wed
+
+* Occlusion
 * Camera Alignment
 * Future of AR
