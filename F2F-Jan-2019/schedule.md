@@ -27,7 +27,7 @@ Draft, subject to change.
 | 14.00 |                                                      ⇊                                                     |              ⇊              |
 | 14.15 |                                                    Break                                                   |              ⇊              |
 | 14.30 |      FoV / ViewMatrix ([#461](https://github.com/immersive-web/webxr/issues/461)/[#447](https://github.com/immersive-web/webxr/issues/447))        Expose combined frustrum([#203](https://github.com/immersive-web/webxr/issues/203))        Default FoV for Magic Window ([#272](https://github.com/immersive-web/webxr/issues/272))  |            Break            |
-| 14.45 |                                                      ⇊                                                     |              ⇊              |
+| 14.45 |                                                      ⇊                                                     |        Lightning talk       |
 | 15.00 |                                                      ⇊                                                     |         FOV Stencils        |
 | 15.15 |                                                      ⇊                                                     |              ⇊              |
 | 15.30 |                                                Lightning talks                                             |  Unconference Organisation  |
