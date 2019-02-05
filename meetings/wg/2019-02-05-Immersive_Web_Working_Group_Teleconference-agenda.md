@@ -5,7 +5,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * Announce FPWD
-* [Specify when we enter/exit immersive mode and what the baseLayer setter does](https://github.com/immersive-web/webxr/issues/453) - toji - [description]
+* [Specify when we enter/exit immersive mode and what the baseLayer setter does](https://github.com/immersive-web/webxr/issues/453) - toji
+* [Clarify which frame `requestAsyncHitTestResult()` should return results for](https://github.com/immersive-web/webxr/issues/506) - Klaus, Rafael & Max
 
 ### Immersive Web Working Group Teleconference - 2019-02-05
 
