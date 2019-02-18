@@ -32,12 +32,9 @@ Scribe:
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
 
-Call Details:
+Call Details can be found here: https://lists.w3.org/Archives/Member/internal-immersive-web/2019Feb/0002.html
 
-1. [Click here to join the WebEX video call](https://mit.webex.com/mit/j.php?MTID=mfb8383ef0796cd6999844e1626d7fee6)
-2. If requested, enter your name and email address.
-3. If a password is required, enter the meeting password: webxr
-4. Click "Join".
+If you are unable to login to view the call details they will be in the IRC topic.
 
 To join the audio conference only: 
 
