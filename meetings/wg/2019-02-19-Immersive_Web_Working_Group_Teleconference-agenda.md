@@ -40,8 +40,6 @@ To join the audio conference only:
 
 To receive a call back, provide your phone number when you join the meeting, or call the number below and enter the access code.
 US Toll Number: +1-617-324-0000  
-Access code:648 697 067  
-Mobile Auto Dial:+1-617-324-0000,,,648697067#
 
 For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
           
