@@ -2,8 +2,6 @@
 
 Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-01-01-Recent_Spec_Changes-agenda.md).
 
-14 Matching Merged PRs
-
 * [Add XRRenderState to the spec](https://github.com/immersive-web/webxr/pull/458) - spec
 > Also fixed a minor inconsistency in the explainer regarding the name of the associated dictionary.
 * [ Describe the identity reference space](https://github.com/immersive-web/webxr/pull/459) - explainer
