@@ -15,30 +15,7 @@ Nell is putting together a [repository](https://github.com/immersive-web/xr-game
 
 ## originOffset behaviour [#477](https://github.com/immersive-web/webxr/issues/477)
 
-This issue highlights the fact that there's actually two valid ways to think about this, and we need to:
-
-1. Make sure everyone agrees on which interpretation is desired.
-2. State which way the spec intends much more clearly.
-
-And in order sort that out I'm going to subject you all to my scribbles. 😁
-
-![Diagram of scene with zero offset](https://user-images.githubusercontent.com/805273/51562472-bed5d080-1e3e-11e9-8d19-93816a397c99.png)
-
-This is, I hope we can all agree, the default state of things. No `originOffset` has been applied, so the virtual scene's origin is aligned with the tracking system's origin, which in this case considers the center of the room at the floor to be `(0,0,0)`. Very typical `bounded` scenario.
-
-My assumption when writing the `originOffset` text, and subsequently the `identity` reference space text, was that if you set it's `position` to, say, `(1, 0, -3)` you'd get an effect like this, which we'll call **Interpretation A**:
-
-![Offset caused user to appear moved forward and right](https://user-images.githubusercontent.com/805273/51565661-6c4ce200-1e47-11e9-859e-3bad28df1ca9.png)
-
-Specifically, in this case the `originOffset` is interpreted to be a value that is added to the native tracking space values, such that setting the `originOffset` effectively makes that point in the virtual scene align with the tracking origin of your physical space. This seemed intuitive to me, since developers using it as a teleport mechanism would say, for instance "I want the player to be warped to (x, y, z) in the virtual scene" and so `(x, y, z)` is what you would set the `originOffset.position` to.
-
-Alex's interpretation (or at least my interpretation of his interpretation) is the inverse, which is also a valid reading of it. In this world view the same `position` of `(1, 0, -3)` would yield something like this, which we'll call **Interpretation B**:
-
-![Offset caused user to appear moved  backward and left](https://user-images.githubusercontent.com/805273/51562988-04df6400-1e40-11e9-92e2-4017cfb5e1d7.png)
-
-In this scenario the origin of the virtual space is offset from the origin of the tracking space by the `originOffset`, which has the practical effect of "moving" the user through the scene by the inverse amount. This felt backwards to me because of it, but when looking at it from a perspective that views the user's environment as immutable (because, as far as our software is concerned, it is) this approach makes a lot of sense.
-
-The TL;DR of the above is:
+View the issue for more detail and wonderful handdrawn diagrams!
 
 **Interpretation A** thinks of the `originOffset` as applying to the *tracking* origin.
 **Interpretation B** thinks of the `originOffset` as applying to the *virtual scene's* origin.
@@ -95,22 +72,13 @@ No resolutions were proposed during the session but it's an interesting issue to
 
 ## Quadlayer - DOM content in XR
 
-Nell: 
+Nell gives a great summary of this issue which you can [read in the minutes](https://www.w3.org/2019/01/30-immersive-web-minutes.html#item05)
 
-The traditional ways people use 2d APIs don't work if there's no way to draw them to the screen.
-The idea that you can create 2d uis in world space in html/css is one of the things that we hear frequently -- back at tpac we spent a bunch of time talking about the problem space.
+The idea that you can create 2d uis in world space in html/css is one of the things that we hear frequently -- back at tpac we spent a bunch of time talking about the problem space. The traditional ways people use 2d APIs don't work if there's no way to draw them to the screen.
 
-Recapping: One of the big things that we were asking was: what does it mean to meet both of our requirements the first most obvious thing we'd need to support is interactive content e.g. having a button -- what that means in the context of XR with aiming, etc is somethinng we need to answer a related question: what do we do about cross-origin content? there's a big security rabbit hole here this is why we don't have APIs like dom-to-texture. So aside from the issues with respect to input there are security concerns about letting someone know about what's in the DOM.
+This is solvable in the context of XR if the actual composition is done by the UA and not the user, this is the concept of a quad layer.
 
-Interestingly this is solvable in the context of XR since the actual composition is done by the UA and not the user, this is the concept of a quad layer, the ability to have a "quad" in space which you can back with something from the dom, which can be then rendered and composited by the UA. The webpage never sees this this also opens the door for refresh rate stuff we can play around with because they're independent from each other there are things we need to discuss what that structure looks like -- is it just a subelement of the dom?
-
-It's a bit trickier with multidisplay situations too we were also playing with having a different document root instead it's something like a different DOM layer, or an iframe or something key thing: when you talk about hosting cross-origin content in a quadlayer in XR, you get gnarly stuff about *input* in that origin to render things you need pose data which the parent document can control so for cross-origin content by its very nature we can't let input events reach it, even when it's in the same origin with embedded cross-origin info there's no secure way to do this without letting the parent document eavesdrop on what's going on.
-
-The plumbing code for input in terms of UAs is something we need to look into that's roughly high level, we also explored one big problem: how can we create a pit of success for people who create experiences thinking about handheld which we want to work on headworn devices.
-
-If we put a quadlayer in xr that's a world space thing and that can work in handheld AR but it can break down too what would be an easy way to help folks who wish to optimize for handheld we need to take this first round of work and turn it into a more concrete proposal
-
-The main benefit of quadlayer is that text on a texture looks really blurry but a seperate layer can be able to do reprojection for the final pose without any per-pixel warping.
+The main benefit of quadlayer is that putting text content on a texture looks really blurry but a seperate layer can be able to do reprojection for the final pose without any per-pixel warping.
 
 ## Long lived XR Apps (proposals/[#43](https://github.com/immersive-web/proposals/issues/43))
 
