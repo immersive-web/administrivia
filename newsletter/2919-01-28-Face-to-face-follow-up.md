@@ -15,7 +15,7 @@ Nell is putting together a [repository](https://github.com/immersive-web/xr-game
 
 ## originOffset behaviour [#477](https://github.com/immersive-web/webxr/issues/477)
 
-View the issue for more detail and wonderful handdrawn diagrams!
+[View the issue](https://github.com/immersive-web/webxr/issues/477#issuecomment-456565794) for more detail and wonderful handdrawn diagrams!
 
 **Interpretation A** thinks of the `originOffset` as applying to the *tracking* origin.
 **Interpretation B** thinks of the `originOffset` as applying to the *virtual scene's* origin.
