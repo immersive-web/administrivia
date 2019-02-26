@@ -1,8 +1,9 @@
 # January 2019 F2F Follow Up
 
-The aims of this are to summarise some of the resolutions from the face to face in January in California. Firstly I would like to thank Samsung Research America for hosting the event. 
+The aims of this document are to summarise some of the topics discussed and the resolutions reached at the face to face in January in California. Firstly I would like to thank Samsung Research America for hosting the event. 
 
-This was large put together from the minutes: 
+This document was largely put together from the minutes, which can be read at these URLs: 
+
 [https://www.w3.org/2019/01/29-immersive-web-minutes.html](https://www.w3.org/2019/01/29-immersive-web-minutes.html)
 
 [https://www.w3.org/2019/01/30-immersive-web-minutes.html](https://www.w3.org/2019/01/30-immersive-web-minutes.html)
