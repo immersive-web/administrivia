@@ -5,6 +5,9 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [Gamepad Mappings](https://github.com/immersive-web/xr-gamepad-mappings) - Nell
+* [Add ignoreDepthValues attribute to the XRWebGLLayer](https://github.com/immersive-web/webxr/pull/548) - Brandon
+* [Should we keep the requestReferenceSpace signature that takes an array](https://github.com/immersive-web/webxr/pull/554) - Brandon
+* [Format of Gamepad identifiers](https://github.com/immersive-web/webxr/issues/550) - Brandon
 
 ### Immersive Web Working Group Teleconference - 2019-03-05
 
