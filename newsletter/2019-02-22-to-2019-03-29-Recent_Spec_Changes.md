@@ -1,9 +1,9 @@
 ## Recent Spec Changes - from 2019-02-22 to 2019-03-29
 
 Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-02-22-to-2019-03-29-Recent_Spec_Changes.md).
-### [Gamepad-based button/axis state](undefined)
+### [Gamepad-based button/axis state](https://github.com/immersive-web/webxr/pull/499)
 
-Merged Fri Mar 01 2019 - <i>ed:explainer</i>, <i>ed:feature</i> - Closed T18:10:01Z
+Merged Fri Mar 01 2019 - <i>ed:explainer</i>, <i>ed:feature</i>
 
 Gamepad-based button/axis state (#499)
 
@@ -11,9 +11,9 @@ This commit describes how to access to controller button and axis state for `XRI
 
 
 
-### [Spec text for the identity reference space](undefined)
+### [Spec text for the identity reference space](https://github.com/immersive-web/webxr/pull/520)
 
-Merged Tue Mar 05 2019 - <i>ed:spec</i> - Closed T19:07:18Z
+Merged Tue Mar 05 2019 - <i>ed:spec</i>
 
 Spec text for the identity reference space (#520)
 
@@ -21,17 +21,17 @@ Adds text and algortihms detailing the creation of the `identity` reference spac
 
 
 
-### [Indicate the preferred ergonomics of a tracked-pointer ray](undefined)
+### [Indicate the preferred ergonomics of a tracked-pointer ray](https://github.com/immersive-web/webxr/pull/524)
 
-Merged Mon Feb 25 2019 - <i>ed:spec</i> - Closed T23:07:48Z
+Merged Mon Feb 25 2019 - <i>ed:spec</i>
 
 Indicate the preferred ergonomics of a tracked-pointer ray (#524)
 
 
 
-### [Remove viewMatrix and add XRTransform.inverse()](undefined)
+### [Remove viewMatrix and add XRTransform.inverse()](https://github.com/immersive-web/webxr/pull/531)
 
-Merged Fri Mar 08 2019 - <i>ed:explainer</i>, <i>ed:spec</i> - Closed T00:07:55Z
+Merged Fri Mar 08 2019 - <i>ed:explainer</i>, <i>ed:spec</i>
 
 Remove viewMatrix and add XRRigidTransform.inverse() (#531)
 
@@ -39,17 +39,17 @@ Long-requested API cleanup to get rid of the explicit `viewMatrix` attribute, pa
 
 
 
-### [Specify that getViewerPose throws an error for non-rAF XRFrames](undefined)
+### [Specify that getViewerPose throws an error for non-rAF XRFrames](https://github.com/immersive-web/webxr/pull/535)
 
-Merged Fri Feb 22 2019 - <i>ed:explainer</i>, <i>ed:spec</i> - Closed T23:42:36Z
+Merged Fri Feb 22 2019 - <i>ed:explainer</i>, <i>ed:spec</i>
 
 Specify that getViewerPose throws an error unless the frame come from a rAF call.
 
 
 
-### [Spec: Move outputContext to XRRenderState](undefined)
+### [Spec: Move outputContext to XRRenderState](https://github.com/immersive-web/webxr/pull/536)
 
-Merged Tue Mar 19 2019 - <i>ed:spec</i> - Closed T20:27:45Z
+Merged Tue Mar 19 2019 - <i>ed:spec</i>
 
 Spec: Move outputContext to XRRenderState (#536)
 
@@ -57,25 +57,25 @@ This change makes the outputContext part of the Session's render state, as is ou
 
 
 
-### [Spec: Stationary subtype support is all-or-nothing](undefined)
+### [Spec: Stationary subtype support is all-or-nothing](https://github.com/immersive-web/webxr/pull/537)
 
-Merged Mon Feb 25 2019 - <i>ed:spec</i> - Closed T21:13:04Z
+Merged Mon Feb 25 2019 - <i>ed:spec</i>
 
 Spec: Stationary subtype support is all-or-nothing (#537)
 
 
 
-### [added a few AR device examples](undefined)
+### [added a few AR device examples](https://github.com/immersive-web/webxr/pull/538)
 
-Merged Mon Feb 25 2019 - <i>ed:explainer</i> - Closed T18:10:23Z
+Merged Mon Feb 25 2019 - <i>ed:explainer</i>
 
 added a few AR device examples
 
 
 
-### [Add ignoreDepthValues attribute to the XRWebGLLayer](undefined)
+### [Add ignoreDepthValues attribute to the XRWebGLLayer](https://github.com/immersive-web/webxr/pull/548)
 
-Merged Thu Mar 07 2019 - <i>ed:explainer</i>, <i>ed:feature</i>, <i>ed:spec</i> - Closed T23:44:37Z
+Merged Thu Mar 07 2019 - <i>ed:explainer</i>, <i>ed:feature</i>, <i>ed:spec</i>
 
 Add ignoreDepthValues attribute to the XRWebGLLayer (#548)
 
@@ -89,9 +89,9 @@ interpreted and indicating that reverse-Z projection is acceptable.
 
 
 
-### [Explainer: requestReferenceSpace no longer takes an array](undefined)
+### [Explainer: requestReferenceSpace no longer takes an array](https://github.com/immersive-web/webxr/pull/554)
 
-Merged Thu Mar 07 2019 - <i>ed:spec</i> - Closed T23:06:54Z
+Merged Thu Mar 07 2019 - <i>ed:spec</i>
 
 requestReferenceSpace no longer takes an array
 
@@ -104,17 +104,17 @@ explicitly showing the fallback behavior, was actually using the
 
 
 
-### [Validate position DOMPointInit](undefined)
+### [Validate position DOMPointInit](https://github.com/immersive-web/webxr/pull/568)
 
-Merged Mon Mar 25 2019 - <i>ed:spec</i> - Closed T18:29:38Z
+Merged Mon Mar 25 2019 - <i>ed:spec</i>
 
 Validate position DOMPointInit
 
 
 
-### [Allow flexible depth for screen-based ray input](undefined)
+### [Allow flexible depth for screen-based ray input](https://github.com/immersive-web/webxr/pull/573)
 
-Merged Tue Mar 26 2019 - <i>ed:explainer</i> - Closed T22:26:45Z
+Merged Tue Mar 26 2019 - <i>ed:explainer</i>
 
 Allow flexible depth for screen-based ray input
 
