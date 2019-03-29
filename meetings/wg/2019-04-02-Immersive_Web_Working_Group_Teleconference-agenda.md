@@ -27,7 +27,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 ### Logistics
 
-Chair: Ada Rose Cannon
+Chair: Chris Wilson
 
 Scribe:
 
