@@ -4,7 +4,17 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
+The meta-topic for the call is XRSpace and XRReferenceSpace.  This touches on the following issues:
+
 * [Should origin offset be a new reference space instead?](https://github.com/immersive-web/webxr/issues/580) - See: https://github.com/immersive-web/webxr/pull/569#issuecomment-475823936
+* [Clarify what originOffset is applied to · Issue #567 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/567)
+* [Clarify assumptions about stationary reference space movement · Issue #579 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/579)
+* [getViewerPose()s use of XRSpace doesn’t quite specify how views work · Issue #565 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/565)
+* [Update spec and explainer to clarify pose and transform semantics by klausw · Pull Request #569 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/pull/569)
+* [Does originOffset behave differently for identity reference space? · Issue #477 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/477)
+* [How does the identity reference space relate to any other space? · Issue #478 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/478)
+* [Expand the last two steps of the getViewerPose() and getInputPose() algorithms · Issue #483 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/483)
+* [We should distinguish viewerSpace from other XRSpaces · Issue #581 · immersive-web/webxr · GitHub](https://github.com/immersive-web/webxr/issues/581)
 
 ### Immersive Web Working Group Teleconference - 2019-04-16
 
