@@ -67,4 +67,4 @@ We use labels in the WebXR repos to assist with automation or bring issues for a
 
 -   The Agenda label is for issues which should be discussed in the next Working Group Call.
 -   Labels which being 'ed:' are for automated generation of the newsletter.
--   You may add the 'editor triage' label to bring it to the focus of editors please add a note to state why this is important to you. You can add this label by adding a comment tagging...
+-   You may add the 'editor triage' label to bring it to the focus of editors please add a note to state why this is important to you. You can add this label by adding a comment containing ‘/triage’.
