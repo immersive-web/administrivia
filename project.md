@@ -40,7 +40,7 @@ If you enter an issue comment with “/agenda” as the start of the comment, th
 
 We use labels on Github issues to help with triage, and to provide better insight into the issues.  Issues have been triaged if the milestone has been set.  The [defined labels we use](https://github.com/immersive-web/webxr/labels) are:
 
-*   **agenda: **This issue is on [the agenda](https://github.com/immersive-web/webxr/labels/agenda) for discussion in the next WG telecon/FTF.  
+*   **agenda:** This issue is on [the agenda](https://github.com/immersive-web/webxr/labels/agenda) for discussion in the next WG telecon/FTF.  
 *   **ed:explainer:** Include in newsletter, explainer change
 *   **ed:feature:** Include in newsletter, adds a feature
 *   **ed:spec:** Include in newsletter, spec change
