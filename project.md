@@ -20,7 +20,7 @@ We will organize the work into monthly sprints, each of which is a Milestone in 
 2. **May 2019**
 3. **June 2019** - End of this milestone is the **“VR-complete” Working Draft**. All breaking changes affecting “the replacement of WebVR” should be resolved.   There may be additional detail or spec text necessary within this scope, but implementers are encouraged to implement that scope, and issues that might destabilize that part of the spec will be prioritized after this point.
 4. **July 2019**
-5. **August 2019** - End of this milestone is the last **Working Draft **before TPAC, where we will assess and ensure we’re on track to land.
+5. **August 2019** - End of this milestone is the last **Working Draft** before TPAC, where we will assess and ensure we’re on track to land.
 6. **September 2019**
 7. **October 2019** - **Final Working Draft**
 8. **November 2019/Candidate Recommendation** - At the end of this milestone, we plan to issue a call for consensus on a **Candidate Recommendation**.
