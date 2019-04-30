@@ -1,6 +1,9 @@
 # administrivia
 A repo for managing the adminstrative tasks of the Immersive Web Group
 
+# Want to know how we're managing the Web XR Device API?
+Check out the [project doc](project.md).
+
 ## Agenda Creation Instructions
 
 This needs to be done by end of day on the Friday before the call so that we can decide if the call is going ahead and notify attendees.
