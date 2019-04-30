@@ -45,7 +45,7 @@ We use labels on Github issues to help with triage, and to provide better insigh
 *   **ed:feature:** Include in newsletter, adds a feature
 *   **ed:spec:** Include in newsletter, spec change
 *   **editor triage:** This issue needs triage attention.  You can trigger this label being added with a comment containing “/triage”, and the chairs/editors will triage weekly.  (Once it has been re-triaged, comments will be put in the issue, and the label will be removed.)
-*   **fixed by pending PR: **A PR that is in review will resolve this issue.  This will help understand what work is currently in flight vs. unaddressed.
+*   **fixed by pending PR:** A PR that is in review will resolve this issue.  This will help understand what work is currently in flight vs. unaddressed.
 *   **feature request:** This is a request for a new feature.
 *   **good starter bug:** This label is used to mark issues that are relatively minor and well-contained, and are available for others to pick up and contribute fixes.  If you want to contribute to the spec directly, these are good bugs to start with.  If you have some time to work on it, and think you can complete it within a week or two, select one of these issues, assign it to yourself and assign the milestone to when you can have it completed. 
 *   **potential breaking change:** Issues that may affect the core design structure and affect backward compatibility.  These issues are naturally more important for us to resolve sooner rather than later.
