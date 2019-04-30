@@ -22,7 +22,7 @@ We will organize the work into monthly sprints, each of which is a Milestone in 
 4. **July 2019**
 5. **August 2019** - End of this milestone is the last **Working Draft **before TPAC, where we will assess and ensure we’re on track to land.
 6. **September 2019**
-7. **October 2019** - **Final Working Draft **
+7. **October 2019** - **Final Working Draft**
 8. **November 2019/Candidate Recommendation** - At the end of this milestone, we plan to issue a call for consensus on a **Candidate Recommendation**.
 9. **REC** - Any followup needed for our final Recommendation.  Note that issues are NOT to be pushed into this milestone prior to issuing our CR.
 10. **Future** - this is the generic bucket for “this won’t make v1”. 
