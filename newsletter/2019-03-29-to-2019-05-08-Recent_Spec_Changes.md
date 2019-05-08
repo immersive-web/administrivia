@@ -1,9 +1,9 @@
 ## Recent Spec Changes - from 2019-03-29 to 2019-05-08
 
-Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-03-29-to-2019-05-08-Recent_Spec_Changes.md).
+Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-03-31-to-2019-05-08-Recent_Spec_Changes.md).
 ### [Remove attribs that only reflect requested values](https://github.com/immersive-web/webxr/pull/574)
 
-Merged Fri Apr 19 2019 - ![ed:explainer](/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7) ![potential breaking change](/svg/?text=potential%20breaking%20change&bgcolor=d32a6b)
+Merged Fri Apr 19 2019 - ![ed:explainer](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7) ![potential breaking change](https://iw-newsletter-generator.glitch.me/svg/?text=potential%20breaking%20change&bgcolor=d32a6b)
 
 Remove attribs that only reflect requested values (#574)
 
@@ -19,7 +19,7 @@ Remove attribs that only echo creation parameters:
 
 ### [Rename supportsSessionMode to supportsSession](https://github.com/immersive-web/webxr/pull/595)
 
-Merged Mon Apr 22 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7) ![potential breaking change](/svg/?text=potential%20breaking%20change&bgcolor=d32a6b)
+Merged Mon Apr 22 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7) ![potential breaking change](https://iw-newsletter-generator.glitch.me/svg/?text=potential%20breaking%20change&bgcolor=d32a6b)
 
 Rename supportsSessionMode to supportsSession (#595)
 
@@ -30,7 +30,7 @@ same arguments.
 
 ### [Explicitly spec out native origins](https://github.com/immersive-web/webxr/pull/621)
 
-Merged Tue May 07 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Tue May 07 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Explicitly spec out native origins (#621)
 
@@ -40,7 +40,7 @@ Adds native origins for input spaces, viewerSpace, identity, and position-disabl
 
 ### [Overhaul XRSpace, get(Viewer)Pose definitions](https://github.com/immersive-web/webxr/pull/609)
 
-Merged Sat Apr 27 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Sat Apr 27 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Overhaul XRSpace, get(Viewer)Pose definitions (#609)
 
@@ -56,7 +56,7 @@ something that much more rigorous.
 
 ### [Consolidate reference space types and interfaces](https://github.com/immersive-web/webxr/pull/587)
 
-Merged Wed May 01 2019 - ![ed:explainer](/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Tue Apr 30 2019 - ![ed:explainer](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Consolidate reference space types and interfaces (#587)
 
@@ -66,7 +66,7 @@ Consolidate the various interfaces that extended XRReferenceSpace, with the exce
 
 ### [Make origin offset immutable](https://github.com/immersive-web/webxr/pull/612)
 
-Merged Wed May 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Wed May 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Make origin offset immutable (#612)
 
@@ -80,7 +80,7 @@ changing the originOffset mid-frame.
 
 ### [Make boundsGeometry work relative to the effective origin](https://github.com/immersive-web/webxr/pull/613)
 
-Merged Wed May 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Wed May 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Make boundsGeometry work relative to the effective origin (#613)
 
@@ -88,7 +88,7 @@ Make boundsGeometry work relative to the effective origin (#613)
 
 ### [Reject outstanding promises on session shut down](https://github.com/immersive-web/webxr/pull/585)
 
-Merged Mon Apr 15 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Mon Apr 15 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Reject outstanding promises on session shut down
 
@@ -100,7 +100,7 @@ reject with when the session shuts down.
 
 ### [Explicitly specify how the views array is populated](https://github.com/immersive-web/webxr/pull/614)
 
-Merged Wed May 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Wed May 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Explicitly specify how the views array is populated (#614)
 
@@ -110,7 +110,7 @@ Explicitly specify how the views array is populated when calling `getViewerPose(
 
 ### [Remove gravity mention](https://github.com/immersive-web/webxr/pull/616)
 
-Merged Wed May 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Wed May 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Remove gravity mention
 
@@ -118,7 +118,7 @@ Remove gravity mention
 
 ### [Specify that projection matrices may include shear](https://github.com/immersive-web/webxr/pull/575)
 
-Merged Mon Apr 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Mon Apr 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Specify that projection matrices may include shear
 
@@ -135,7 +135,7 @@ states that decomposition is a bad idea and gives reasoning as to why.
 
 ### [`inverse` attribute always returns the same object](https://github.com/immersive-web/webxr/pull/586)
 
-Merged Mon Apr 15 2019 - ![ed:explainer](/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Mon Apr 15 2019 - ![ed:explainer](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 `inverse` attribute always returns the same object (#586)
 
@@ -148,7 +148,7 @@ originating transform.
 
 ### [Identify cases where the Gamepad id should be unknown](https://github.com/immersive-web/webxr/pull/615)
 
-Merged Wed May 01 2019 - ![ed:spec](/svg/?text=ed%3Aspec&bgcolor=875fb7)
+Merged Wed May 01 2019 - ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7)
 
 Identify cases where the Gamepad id should be unknown
 
