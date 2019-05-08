@@ -1,6 +1,6 @@
 ## Recent Spec Changes - from 2019-03-29 to 2019-05-08
 
-Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-03-31-to-2019-05-08-Recent_Spec_Changes.md).
+Edit on [Github](https://github.com/immersive-web/administrivia/blob/master/newsletter/2019-03-29-to-2019-05-08-Recent_Spec_Changes.md).
 ### [Remove attribs that only reflect requested values](https://github.com/immersive-web/webxr/pull/574)
 
 Merged Fri Apr 19 2019 - ![ed:explainer](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aexplainer&bgcolor=875fb7) ![ed:spec](https://iw-newsletter-generator.glitch.me/svg/?text=ed%3Aspec&bgcolor=875fb7) ![potential breaking change](https://iw-newsletter-generator.glitch.me/svg/?text=potential%20breaking%20change&bgcolor=d32a6b)
