@@ -4,6 +4,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
+* Earlybird registration for TPAC is now open, register now to get the discounted price.
+* Reminder to RSVP for for the Face to Face at Intel if you have not done so already.
 * [Simplification: Enable single-canvas inline, defer desktop mirroring](https://github.com/immersive-web/webxr/issues/636) - I'd like to propose that we seriously evaluate allowing a single-canvas method of rendering inline content, deferring the mirroring feature on desktop, (and as a result also deferring the `XRPresentationContext` and `XRRenderState.outputContext` attribute) till after the core spec is complete.
 * [Do "eye-level" and "floor-level" fit with "bounded" and "unbounded"?](https://github.com/immersive-web/webxr/issues/633) - When seeing the simpler list of 5 reference spaces proposed in #626, it jumped out at me that `eye-level` and `floor-level` don't really fit as names in the same list with `bounded` and `unbounded`:
 
