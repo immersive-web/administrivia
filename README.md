@@ -22,8 +22,6 @@ Delete the section containing the instructions.
 
 Email a copy of the agenda out to the [mailing list](mailto:public-immersive-web@w3.org) making sure to link back to the agenda markdown file on github.
 
-Minutes should be collected from the IRC channel and used to put together a document in the same folder as the agenda with the file name ending in '-minutes', e.g.
-
-e.g. `/meetings/wg/25-09-2018-telecom-call-minutes.md`
+After the call the Minutes minutes should be added to the Agenda.md by adding a link.
 
 so that there is a permanent record of meetings and their accompanying agendas.
