@@ -1,6 +1,7 @@
 ### Call Agenda
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2019-05-28-Immersive_Web_Working_Group_Teleconference-agenda.md).
+[Minutes](https://www.w3.org/2019/05/28-immersive-web-minutes.html) is avail from irc scribe.
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
@@ -25,7 +26,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 Chair: Ada Rose Cannon
 
-Scribe:
+Scribe: Trevor F. Smith
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
 
