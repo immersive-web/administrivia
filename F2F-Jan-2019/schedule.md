@@ -7,7 +7,7 @@ Draft, subject to change.
 |  9.00 |                                           Doors Open                                                       |       Doors Open            |
 |  9.15 |                                                      ⇊                                                     |              ⇊              |
 |  9.30 |                               Introduction by Chris and Ada                                                | Tracking Loss ([#243](https://github.com/immersive-web/webxr/issues/243)) |
-|  9.45 |                         Input and Controllers [#336](https://github.com/immersive-web/webxr/issues/336), [#392](https://github.com/immersive-web/webxr/issues/392) Pull [#462](https://github.com/immersive-web/webxr/issues/462)                                         |              ⇊              |
+|  9.45 |                         Input and Controllers <br />[#336](https://github.com/immersive-web/webxr/issues/336), [#392](https://github.com/immersive-web/webxr/issues/392) Pull [#462](https://github.com/immersive-web/webxr/issues/462)                                         |              ⇊              |
 | 10.00 |                                                      ⇊                                                     |              ⇊              |
 | 10.15 |                                                      ⇊                                                     |              ⇊              |
 | 10.30 |                                                     Break                                                  |              ⇊              |
