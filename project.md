@@ -10,7 +10,7 @@ CR Draft: December 1, 2019
 
 ## The Project At a Glance
 
-The best top-down view of progress in the WebXR Device API specification is to look at the [issues sorted by milestone](https://github.com/immersive-web/webxr/milestones?direction=asc&sort=due_date&state=open).  This view lets you see the milestones, and progress in the milestones.  Additionally, you can get a [more precise view](https://github.com/immersive-web/webxr/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+milestone%3A%22May+2019+Working+Draft%22+-label%3A%22fixed+by+pending+PR%22) of what remains to be worked on in the current milestone by masking out the issues that are fixed by pending PRs.
+The best top-down view of progress in the WebXR Device API specification is to look at the [issues sorted by milestone](https://github.com/immersive-web/webxr/milestones?direction=asc&sort=due_date&state=open).  This view lets you see the milestones, and progress in the milestones.  Additionally, you can get a [more precise view](https://github.com/immersive-web/webxr/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+milestone%3A%22June+2019%22+-label%3A%22fixed+by+pending+PR%22) of what remains to be worked on in the current milestone by masking out the issues that are fixed by pending PRs.
 
 ## Milestones
 
