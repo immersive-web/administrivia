@@ -9,9 +9,9 @@ Draft, subject to change.
 |  9.00 | Welcome [Ada & Chris],<br />Framing the Roadmap Discussion [Chris]        | Real World Geometry incubation [John]                         |
 |  9.30 | May milestone retrospective [Brandon]<br />June milestone precap [Nell]   | DOM overlay - approaches [John]                            |
 | 10.00 | Input: update on Nell's library [Nell]<br />Input: gamepad ids [Brandon]  | Roadmap for AR in WebXR discussion [Chris]                    |
-| 10.30 | Input: registry for input devices [Brandon]                               | CG topic lightning talks [Trevor]:<br />Ambient Lighting [Kip]<br />Update on Spatial Favicon [Rik] |
-| 11.00 | Layers [Artem & Nell]                                                     |    ⇊                                                          |
-| 11.30 |    ⇊                                                                      | What do you want out of focus/blur events? [Brandon & Nell]   |
+| 10.30 | Input: registry for input devices [Brandon]<br />What do you want out of focus/blur events? [Brandon & Nell] | " |
+| 11.00 | Layers [Artem & Nell]                                                     | CG topic lightning talks [Trevor]:<br />Ambient Lighting [Kip]<br />Update on Spatial Favicon [Rik] |
+| 11.30 |    ⇊                                                                      |  "  |
 | 12.00 | Lunch                                                                     | Lunch                                                         |
 | 12.30 |    ⇊                                                                      |    ⇊                                                          |
 | 13.00 | Polyfill and browser API support [Nell]                                   | Detached Typed Arrays [Brandon]                               |
