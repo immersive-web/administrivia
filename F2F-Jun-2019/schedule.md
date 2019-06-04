@@ -17,7 +17,7 @@ Draft, subject to change.
 | 13.00 | Polyfill and browser API support [Nell]                                   | Detached Typed Arrays [Brandon]                               |
 | 13.30 | XRTest and web-platform-tests [Manish]                                    | Computer Vision [Nick]                                        |
 | 14.00 | Snack                                                                     | Snack                                                         |
-| 14.30 | Privacy [John]                                                            | Lightning talks and unconference                              |
+| 14.30 | [Privacy](https://github.com/immersive-web/webxr/pull/638/files?short_path=472fbcc#diff-472fbcc4786b1b90047b02fd8e7bdc17) [John]                                                            | Lightning talks and unconference                              |
 | 15.00 |    ⇊                                                                      |              ⇊                                                |
 | 15.30 | Coordinating WebXR frameworks [Trevor]                                    |              ⇊                                                |
 | 16.00 | Lightning talks and unconference                                          |              ⇊                                                |
