@@ -27,6 +27,7 @@ Draft, subject to change.
 
 # Lightning Talk requests
   * add your talk request here!
+  * Hypercard for XR: Josh Marinacci
 
 # Unconference Topics
   * add your topic here!
