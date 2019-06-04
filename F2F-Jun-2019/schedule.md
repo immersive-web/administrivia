@@ -7,7 +7,7 @@ Draft, subject to change.
 |  8.00 | Doors Open                                                                | Doors Open                                                    |
 |  8.30 | Get settled in, start promptly at 9:00                                    | Get settled in, start promptly at 9:00                        |
 |  9.00 | Welcome [Ada & Chris],<br />Framing the Roadmap Discussion [Chris]        | Real World Geometry incubation [John]                         |
-|  9.30 | May milestone retrospective [Brandon]<br />June milestone precap [Nell]   | DOM overlay - approaches [Brandon]                            |
+|  9.30 | May milestone retrospective [Brandon]<br />June milestone precap [Nell]   | DOM overlay - approaches [John]                            |
 | 10.00 | Input: update on Nell's library [Nell]<br />Input: gamepad ids [Brandon]  | Roadmap for AR in WebXR discussion [Chris]                    |
 | 10.30 | Input: registry for input devices [Brandon]                               | CG topic lightning talks [Trevor]:<br />Ambient Lighting [Kip]<br />Update on Spatial Favicon [Rik] |
 | 11.00 | Layers [Artem & Nell]                                                     |    ⇊                                                          |
