@@ -14,12 +14,12 @@ Draft, subject to change.
 | 11.30 |    "                                                                      |  "  |
 | 12.00 | Lunch                                                                     | Lunch                                                         |
 | 12.30 |    "                                                                      |  "                                                          |
-| 13.00 | Polyfill and browser API support [Nell]                                   | Detached Typed Arrays [Brandon]                               |
+| 13.00 | Polyfill and browser API support [Nell]                                   | What do you want out of focus/blur events? [Brandon & Nell]<br />Detached Typed Arrays [Brandon]                               |
 | 13.30 | XRTest and web-platform-tests [Manish]                                    | Computer Vision [Nick]                                        |
 | 14.00 | Snack                                                                     | Snack                                                         |
 | 14.30 | [Privacy](https://github.com/immersive-web/webxr/pull/638/files?short_path=472fbcc#diff-472fbcc4786b1b90047b02fd8e7bdc17) [John]                                                            | Lightning talks and unconference                              |
 | 15.00 |    "                                                                      |              "                                                |
-| 15.30 | What do you want out of focus/blur events? [Brandon & Nell]               |              "                                                |
+| 15.30 |    "               |              "                                                |
 | 16.00 | Lightning talks and unconference                                          |              "                                                |
 | 16.30 |    "                                                                      |              "                                                |
 | 17.00 | End for the day                                                           | Wrap up [Ada & Chris]                                         |
