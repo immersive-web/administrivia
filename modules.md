@@ -25,13 +25,11 @@ We should define the following modules from the WebXR Device API as it stands to
 
 
 *   **WebXR Core:** the base layer functionality shared across VR and AR, and VR features
-    *   **Base layer:** Sessions, spaces, transforms, poses, views, etc.
-        *   **_Contentious:_** There’s some contention over XRRay.  Our general feeling is that it belongs here in WebXR Core, as it’s likely to be generally used across multiple modules, and it will be needed in the AR module very quickly.
+    *   **Base layer:** Sessions, spaces, transforms, poses, views, the environmentBlendMode attribute, etc.
     *   **“Immersive-vr” mode:** the VR scenarios
     *   **Input:** XRInputSource, XRInputSourceArray and selection events
-    *   **_Contentious:_** There’s also some contention over envBlendMode and ”immersive-ar”.  Our general belief is that these should be defined in this spec, but other features necessary for AR (e.g. any kind of hit-testing) should not be here; this provides the mode switches, but not the ability to use them.  This is to be discussed.
 *   **Gamepad Input:** the definition of how advanced input controllers are exposed through Gamepad (i.e. the **<code><em>xr-standard</em></code>** mapping, registry, gamepad identifiers, etc.)
-*   **AR:** The core features needed to support ar/environment-blending scenarios (camera alignment, anchors and Real-World-Understanding/hit testing)
+*   **AR:** The core features needed to support ar/environment-blending scenarios (The "immersive-ar" session mode definition, some ability to access the camera aligned with the XR frame (in order to support polyfilling features), anchors and some type of Real-World-Understanding/hit testing API).  XRRay will be placed in this module unless we discover other features that need it outside of AR and need to move it or make it its own module.  It is expected this module will trail the previous two in schedule.
 
 We also envision the possibility of the following future modules.  These will not necessarily be defined immediately, and in fact being listed here is no guarantee these modules will even ever eventually exist: they are listed here more as an illustration of the modularisation principles.
 
