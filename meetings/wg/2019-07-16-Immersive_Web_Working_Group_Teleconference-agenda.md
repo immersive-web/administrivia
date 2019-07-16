@@ -10,12 +10,12 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 ### Immersive Web Working Group Teleconference - 2019-07-16
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, July 16, 10:00 AM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, July 16, 1:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, 16 July, 18:00 BST
-<tr><td> Paris (France) <td> Tuesday, 16 July, 19:00 CEST
-<tr><td> Tokyo (Japan) <td> Wednesday, 17 July, 02:00 GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, 16 July, 17:00 UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, July 16, 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, July 16, 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> Tuesday, 16 July, 21:00 BST
+<tr><td> Paris (France) <td> Tuesday, 16 July, 22:00 CEST
+<tr><td> Tokyo (Japan) <td> Wednesday, 17 July, 05:00 GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, 16 July, 20:00 UTC
 </table>
 
 ### Logistics
