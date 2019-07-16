@@ -4,8 +4,8 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [Discussion about how polyfill can be taken forward](https://github.com/immersive-web/webxr-polyfill/issues/60) - [description]
-* [WebXR 2019](https://github.com/immersive-web/webxr-polyfill/issues/51) - 
+* [Discussion about how polyfill can be taken forward](https://github.com/immersive-web/webxr-polyfill/issues/60), [previous discussion] (https://github.com/immersive-web/webxr-polyfill/issues/51)
+* [For now, block mid-session consent requests for non-xr features: #751] (https://github.com/immersive-web/webxr/issues/751)
 
 ### Immersive Web Working Group Teleconference - 2019-07-16
 
