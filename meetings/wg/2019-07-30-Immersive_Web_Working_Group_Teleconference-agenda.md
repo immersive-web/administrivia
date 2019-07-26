@@ -4,10 +4,9 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [Creating tag to indicate parity with "VR Complete"](https://github.com/immersive-web/webxr-test-api/issues/35) - /agenda
+* [Creating tag to indicate parity with "VR Complete"](https://github.com/immersive-web/webxr-test-api/issues/35)
 * [[Feature Policy] Should (sensorless) "inline" "viewer" sessions be allowed without the XR policy-controlled feature?](https://github.com/immersive-web/webxr/issues/731) - [This is one of the decisions to make as part of resolving #308 and #729.]
 * [[Feature Policy] Should "inline" with sensors ("magic window") be controlled by the same feature policy as immersive VR (headsets)?](https://github.com/immersive-web/webxr/issues/730) - [This is one of the decisions to make as part of resolving #308 and #729.]
-* [Discussion about how polyfill can be taken forward](https://github.com/immersive-web/webxr-polyfill/issues/60) - [description]
 * [WebXR 2019](https://github.com/immersive-web/webxr-polyfill/issues/51) - 
 
 ### Immersive Web Working Group Teleconference - 2019-07-30
