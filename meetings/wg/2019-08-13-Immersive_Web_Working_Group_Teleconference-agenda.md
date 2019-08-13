@@ -4,6 +4,7 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
+* AR core module [Issue #786](https://github.com/immersive-web/webxr/issues/786#), specifically [this proposal](https://github.com/immersive-web/webxr/issues/786#issuecomment-520656458).
 * Review Issue Migrations into New Repos for Modules, and into the 'future' milestone.
 
 ### Immersive Web Working Group Teleconference - 2019-08-13
@@ -19,7 +20,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 ### Logistics
 
-Chair: Ada Rose Cannon
+Chair: Chris Wilson
 
 Scribe:
 
