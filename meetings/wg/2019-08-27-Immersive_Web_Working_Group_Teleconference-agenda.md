@@ -10,15 +10,15 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [Spatial tracking on inline sessions when viewed within an XR headset](https://github.com/immersive-web/webxr/issues/756) - NellWaliczek - First up, I'm not suggesting the core spec include a diorama reference space.  I filed that in proposals a while back, which is absolutely the right place to track it.  (See https://github.com/immersive-web/proposals/issues/31) 
 * [Behavior of window.requestAnimationFrame and window.requestIdleCallback when presenting](https://github.com/immersive-web/webxr/issues/225) - toji - Short and sweet: When we're in WebVR presentation mode on devices without an external display, should the page continue pumping the window rAF and rIC loops?
 
-### Immersive Web Working Group Teleconference - 2019-09-03
+### Immersive Web Working Group Teleconference - 2019-08-27
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, September 3, 12:00 PM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, September 3, 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, 3 September, 20:00 BST
-<tr><td> Paris (France) <td> Tuesday, 3 September, 21:00 CEST
-<tr><td> Tokyo (Japan) <td> Wednesday, 4 September, 04:00 GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, 3 September, 19:00 UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, August 27, 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, August 27, 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> Tuesday, 27 August, 20:00 BST
+<tr><td> Paris (France) <td> Tuesday, 27 August, 21:00 CEST
+<tr><td> Tokyo (Japan) <td> Wednesday, 28 August, 04:00 GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, 27 August, 19:00 UTC
 </table>
 
 ### Logistics
