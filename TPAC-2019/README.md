@@ -2,6 +2,13 @@
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
 
+### Setup Steps
+
+- Check AV
+- Remind that there is a Code of Conduct
+- Introductions
+- Find scribe
+
 ### TPAC Schedule
 
 <table>
