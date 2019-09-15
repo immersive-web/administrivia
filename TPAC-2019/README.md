@@ -19,12 +19,12 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 <th>Thursday
 <th>Friday
 </tr></thead><tbody>
- <tr><td>9:00<td>Meeting logistics and Code of Conduct [Chris and Ada]<td>CG overview: review of current incubations [Trevor]<td><td><td></tr>
- <tr><td>9:30<td>Incubation Process Discussion [Ada, Chris and Trevor]<td>Layers and DOM overlays - demos and discussion of path forward<td><td><td></tr>
- <tr><td>10:00<td>Overview of recent changes/current status [Brandon]<td>(cont)<td><td><td></tr>
+ <tr><td>9:00<td>Meeting logistics and Code of Conduct [Chris and Ada]<td>Incubation Process Discussion [Ada, Chris and Trevor]<td><td><td></tr>
+ <tr><td>9:30<td>Overview of recent changes/current status [Brandon]<td>CG overview: review of current incubations [Trevor]<td><td><td></tr>
+ <tr><td>10:00<td>Feature Policy Discussion [Brandon]<td>Layers and DOM overlays - demos and discussion of path forward<td><td><td></tr>
  <tr><td>10:30<td>break<td>break<td><td><td></tr>
- <tr><td>11:00<td>Feature Policy Discussion [Brandon]<td>Alignment with other standards [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#360video">Standardising 360 Videos</a><td><td></tr>
- <tr><td>11:30<td>Trusted Immersive UI [Brandon]<td>(cont)<td>(cont)<td><td></tr>
+ <tr><td>11:00<td>Trusted Immersive UI [Nell]<td>Alignment with other standards [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#360video">Standardising 360 Videos</a><td><td></tr>
+ <tr><td>11:30<td>(cont)<td>(cont)<td>(cont)<td><td></tr>
  <tr><td>12:00<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>12:30<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>13:00<td>Meeting with the TAG<td>Lightning talks<td>lunch<td><td></tr>
