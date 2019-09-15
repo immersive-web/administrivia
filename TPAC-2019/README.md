@@ -23,20 +23,20 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
  <tr><td>9:30<td>Incubation Process Discussion [Ada, Chris and Trevor]<td>Layers and DOM overlays - demos and discussion of path forward<td><td><td></tr>
  <tr><td>10:00<td>Overview of recent changes/current status [Brandon]<td>(cont)<td><td><td></tr>
  <tr><td>10:30<td>break<td>break<td><td><td></tr>
- <tr><td>11:00<td>Feature Policy Discussion [Brandon]<td>Composition in AR [Manish]<td><td><td></tr>
+ <tr><td>11:00<td>Feature Policy Discussion [Brandon]<td>Alignment with other standards [Nell]<td><td><td></tr>
  <tr><td>11:30<td>Trusted Immersive UI [Brandon]<td>(cont)<td><td><td></tr>
  <tr><td>12:00<td>lunch<td>lunch<td><td><td></tr>
  <tr><td>12:30<td>lunch<td>lunch<td><td><td></tr>
  <tr><td>13:00<td>Meeting with the TAG<td>Lightning talks<td><td><td></tr>
  <tr><td>13:30<td>Walk through issues marked for short updates [Brandon, Nell, Manish]<td>Walk through issues marked for short updates<td><td><td></tr>
  <tr><td>14:00<td>(cont)<td>(cont)<td><td><td></tr>
- <tr><td>14:30<td>AR Alignment with other standards [Manish?]<td>unconference<td><td><td></tr>
+ <tr><td>14:30<td>Composition in AR [Manish]<td>unconference<td><td><td></tr>
  <tr><td>15:00<td>(break)<td>(break)<td><td><td></tr>
- <tr><td>15:30<td>Input profiles - registry layout format/split discussion [Nell]<td>unconference<td><td><td></tr>
+ <tr><td>15:30<td>Breaking Changes<td>Input profiles - registry layout format/split discussion [Nell]<td><td><td></tr>
  <tr><td>16:00<td>Lightning talks<td>unconference<td><td><td></tr>
- <tr><td>16:30<td>Demos<td>Wrap Up [Ada+Chris]<td><td><td></tr>
- <tr><td>17:00<td>unconference<td><END AT 5PM><td><td><td></tr>
- <tr><td>17:30<td>unconference<td><td><td><td></tr>
+ <tr><td>16:30<td>Demos<td>unconference<td><td><td></tr>
+ <tr><td>17:00<td>unconference<td>Wrap Up [Ada+Chris]<td><td><td></tr>
+ <tr><td>17:30<td>unconference<td>END AT 5:30PM<td><td><td></tr>
 </tbody></table>
 
 Lightning Talks
