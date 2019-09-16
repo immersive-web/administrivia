@@ -40,6 +40,10 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
  <td>18:00<td><td><td>(cont)<td><td>
 </tbody></table>
 
+Unconference
+------------
+- WebVR Deprecation and Migration
+
 Lightning Talks
 ---------------
 - 
