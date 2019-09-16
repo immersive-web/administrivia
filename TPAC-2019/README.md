@@ -23,12 +23,12 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
  <tr><td>9:30<td>Overview of recent changes/current status [Brandon]<td>CG overview: review of current incubations [Trevor]<td><td><td></tr>
  <tr><td>10:00<td>Feature Policy Discussion [Brandon]<td>Layers and DOM overlays - demos and discussion of path forward<td><td><td></tr>
  <tr><td>10:30<td>break<td>break<td><td><td></tr>
- <tr><td>11:00<td>Trusted Immersive UI [Nell]<td>Aligning across specs and standards [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#360video">Standardising 360 Videos</a><td><td></tr>
+ <tr><td>11:00<td>Trusted Immersive UI [Nell]<td>Aligning across specs and standards [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#360video">Standardising 360 Videos</a>/<a href="https://w3c.github.io/tpac-breakouts/sessions.html#user-activation">Standardizing user activation behavior </a><td><td></tr>
  <tr><td>11:30<td>(cont)<td>(cont)<td>(cont)<td><td></tr>
  <tr><td>12:00<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>12:30<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>13:00<td>Meeting with the TAG<td>Lightning talks<td>lunch<td><td></tr>
- <tr><td>13:30<td>Walk through issues marked for short updates [Brandon, Nell, Manish]<td>Input profiles - registry layout format/split discussion [Nell]<td>Efficient audio/video processing<td><td></tr>
+ <tr><td>13:30<td>Walk through issues marked for short updates [Brandon, Nell, Manish]<td>Input profiles - registry layout format/split discussion [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#mediaprocessing">Efficient audio/video processing</a><td><td></tr>
  <tr><td>14:00<td>(cont)<td>(cont)<td>(cont)<td><td></tr>
  <tr><td>14:30<td>Composition in AR [Manish]<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#xra11y">XR A11y</a><td><td></tr>
  <tr><td>15:00<td>(break)<td>(break)<td>(cont)<td><td></tr>
