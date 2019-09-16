@@ -33,7 +33,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
  <tr><td>14:30<td>(cont)<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#xra11y">XR A11y</a><td><td></tr>
  <tr><td>15:00<td>(break)<td>(break)<td>(cont)<td><td></tr>
  <tr><td>15:30<td>Composition in AR [Manish]<td>unconference<td>break/demos<td><td></tr>
- <tr><td>16:00<td>Breaking Changes<td>unconference<td>break/demos<td><td></tr>
+ <tr><td>16:00<td>Breaking Changes<td>unconference<td>break/<a href="https://www.w3.org/wiki/TPAC2019/Demos#WebXR">demos</a><td><td></tr>
  <tr><td>16:30<td>Lightning talks<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#html-3d">HTML 3D Element & Native GLTF</a><td><td></tr>
  <tr><td>17:00<td>unconference<td>Wrap Up [Ada+Chris]<td>(cont)<td><td></tr>
  <tr><td>17:30<td>unconference<td>END AT 5:30PM<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#webgpu">WebGPU</a> <td><td></tr>
