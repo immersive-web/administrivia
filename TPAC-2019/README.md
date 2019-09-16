@@ -28,13 +28,13 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
  <tr><td>12:00<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>12:30<td>lunch<td>lunch<td>lunch<td><td></tr>
  <tr><td>13:00<td>Meeting with the TAG<td>Lightning talks<td>lunch<td><td></tr>
- <tr><td>13:30<td>Aligning across specs and standards [Nell]<td>Input profiles - registry layout format/split discussion [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#mediaprocessing">Efficient audio/video processing</a><td><td></tr>
- <tr><td>14:00<td>Trusted Immersive UI<td>(cont)<td>(cont)<td><td></tr>
- <tr><td>14:30<td>(cont)<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#xra11y">XR A11y</a><td><td></tr>
+ <tr><td>13:30<td>(cont)<td>Input profiles - registry layout format/split discussion [Nell]<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#mediaprocessing">Efficient audio/video processing</a><td><td></tr>
+ <tr><td>14:00<td>Aligning across specs and standards [Nell]<td>(cont)<td>(cont)<td><td></tr>
+ <tr><td>14:30<td>Breaking Changes<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#xra11y">XR A11y</a><td><td></tr>
  <tr><td>15:00<td>(break)<td>(break)<td>(cont)<td><td></tr>
  <tr><td>15:30<td>Composition in AR [Manish]<td>unconference<td>break/demos<td><td></tr>
- <tr><td>16:00<td>Breaking Changes<td>unconference<td>break/<a href="https://www.w3.org/wiki/TPAC2019/Demos#WebXR">demos</a><td><td></tr>
- <tr><td>16:30<td>Lightning talks<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#html-3d">HTML 3D Element & Native GLTF</a><td><td></tr>
+ <tr><td>16:00<td>Trusted Immersive UI<td>unconference<td>break/<a href="https://www.w3.org/wiki/TPAC2019/Demos#WebXR">demos</a><td><td></tr>
+ <tr><td>16:30<td>(cont)<td>unconference<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#html-3d">HTML 3D Element & Native GLTF</a><td><td></tr>
  <tr><td>17:00<td>unconference<td>Wrap Up [Ada+Chris]<td>(cont)<td><td></tr>
  <tr><td>17:30<td>unconference<td>END AT 5:30PM<td><a href="https://w3c.github.io/tpac-breakouts/sessions.html#webgpu">WebGPU</a> <td><td></tr>
  <td>18:00<td><td><td>(cont)<td><td>
