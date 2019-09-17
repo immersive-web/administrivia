@@ -43,7 +43,8 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 Unconference
 ------------
 - WebVR Deprecation and Migration
-- Trusted Immersive UI
+- Deferred Consnent
+- Work through AR spec issues
 
 Lightning Talks
 ---------------
