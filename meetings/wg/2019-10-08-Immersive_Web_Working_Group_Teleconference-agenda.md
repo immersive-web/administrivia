@@ -4,7 +4,6 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-> Discuss how we can move forward with the AR specs. Are there any concerns about meshing, planes, hit testing, etc
 * [webxr-ar-module#32 Consider merging `immersive-ar` into WebXR](https://github.com/immersive-web/webxr-ar-module/issues/32) [requested by Manishearth](https://github.com/immersive-web/webxr-ar-module/issues/32#issuecomment-536781058)
 > to figure out what we want to do here
 * [webxr#497 Which globals apply to security policy?](https://github.com/immersive-web/webxr/issues/497) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/497#issuecomment-532515549)
