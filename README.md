@@ -1,4 +1,4 @@
-# administrivia
+# Administrivia
 A repo for managing the adminstrative tasks of the Immersive Web Group
 
 # Want to know how we're managing the Web XR Device API?
