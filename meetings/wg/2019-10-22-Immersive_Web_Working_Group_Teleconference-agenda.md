@@ -5,26 +5,16 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * Check out the bottom of the agenda for issues which are looking for help.
-
-* [dom-overlays#2 DOM Overlays (for Phone AR support and more)](https://github.com/immersive-web/dom-overlays/issues/2) [requested by klausw](https://github.com/immersive-web/dom-overlays/issues/2#issuecomment-541826614)
-> Status update on DOM Overlays experiment, now live in Chrome Canary as described in https://github.com/immersive-web/dom-overlays/blob/master/explainer.md#sample-implementation
-
 * [webxr-gamepads-module#18 Ensure that the returned gamepad object is live](https://github.com/immersive-web/webxr-gamepads-module/issues/18) [requested by NellWaliczek](https://github.com/immersive-web/webxr-gamepads-module/issues/18#issuecomment-540758145)
 > Hold on... I'm a bit unsure this was the conclusion from that conversation.  In fact, from my recollection it was the opposite thing they were asking us to do.  To make sure that the Gamepad object on an XRInputSource was different every time it was requested.  The implication of which would be revisiting if the gamepad should be an attribute or have a getter function.
 >
 > To confirm the expected behavior from the Gamepad folks and get consensus on which approach we intend to take.
-
-* [real-world-geometry#20 [meshing] How should we request normals?](https://github.com/immersive-web/real-world-geometry/issues/20) [requested by rcabanier](https://github.com/immersive-web/real-world-geometry/issues/20#issuecomment-537565769)
-> Discuss how we can move forward with the AR specs. Are there any concerns about meshing, planes, hit testing, etc
-
 * [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) [requested by Manishearth](https://github.com/immersive-web/webxr-ar-module/issues/29#issuecomment-540124329)
 > We should discuss this alongside #9 and #28 as a general discussion about modes
-
 * [webxr-input-profiles#79 Do fallback profiles need to contain only subset of componenents?](https://github.com/immersive-web/webxr-input-profiles/issues/79) [requested by NellWaliczek](https://github.com/immersive-web/webxr-input-profiles/issues/79#issuecomment-540135141)
 > Filed #100 to specifically address the Oculus Touch profile.
 >
 > To gather opinions on what the general guidelines ought to be
-
 * [webxr-input-profiles#82 UA reserved buttons](https://github.com/immersive-web/webxr-input-profiles/issues/82) [requested by NellWaliczek](https://github.com/immersive-web/webxr-input-profiles/issues/82#issuecomment-540136280)
 > I'll take a poke at the right schema changes to support tracking this in the registry.  In the meanwhile...
 >
