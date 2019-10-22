@@ -9,8 +9,11 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > Hold on... I'm a bit unsure this was the conclusion from that conversation.  In fact, from my recollection it was the opposite thing they were asking us to do.  To make sure that the Gamepad object on an XRInputSource was different every time it was requested.  The implication of which would be revisiting if the gamepad should be an attribute or have a getter function.
 >
 > To confirm the expected behavior from the Gamepad folks and get consensus on which approach we intend to take.
-* [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) [requested by Manishearth](https://github.com/immersive-web/webxr-ar-module/issues/29#issuecomment-540124329)
-> We should discuss this alongside #9 and #28 as a general discussion about modes
+
+* Discussion about XRSessionModes: https://github.com/immersive-web/webxr-ar-module/issues/28, https://github.com/immersive-web/webxr-ar-module/pull/38
+> Finalize [the enum move](https://github.com/immersive-web/webxr-ar-module/pull/38), and discuss [Brandon's comment about having two immersive modes](https://github.com/immersive-web/webxr-ar-module/issues/28#issuecomment-540811746)
+* [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) + [webxr-ar-module#9 Enable developers to distinguish between screen-based and head-worn sessions](https://github.com/immersive-web/webxr-ar-module/issues/29) (Manish)
+> Discuss how best to expose that the UI is screen-based vs headworn, and whether or not we should block on DOM overlay.
 * [webxr-input-profiles#79 Do fallback profiles need to contain only subset of componenents?](https://github.com/immersive-web/webxr-input-profiles/issues/79) [requested by NellWaliczek](https://github.com/immersive-web/webxr-input-profiles/issues/79#issuecomment-540135141)
 > Filed #100 to specifically address the Oculus Touch profile.
 >
