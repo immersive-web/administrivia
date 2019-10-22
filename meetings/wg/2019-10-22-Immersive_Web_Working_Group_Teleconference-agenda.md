@@ -57,13 +57,18 @@ Here are some issues which are good issues to get involved in, if you have taken
 
 - [webxr#225 Behavior of window.requestAnimationFrame and window.requestIdleCallback when presenting](https://github.com/immersive-web/webxr/issues/225)
 - [webvr-polyfill-dpdb#34 Create a helper script/web page for generating values for a new device](https://github.com/immersive-web/webvr-polyfill-dpdb/issues/34)
+- [webxr#603 What happens if a canvas with an xrCompatible context is attached to the DOM?](https://github.com/immersive-web/webxr/issues/603)
 - [webxr#679 Consider removing XRWebGLLayer's `context` attribute](https://github.com/immersive-web/webxr/issues/679)
+- [webxr#736 Should calling XRSession.requestAnimationFrame in a Window.animationFrameCallback be banned?](https://github.com/immersive-web/webxr/issues/736)
 - [webxr#776 Remove unnecessary or redundant information from "Security, Privacy, and Comfort Considerations" ](https://github.com/immersive-web/webxr/issues/776)
 - [webxr-input-profiles#69 Resizing the window changes the model viewer's aspect ratio](https://github.com/immersive-web/webxr-input-profiles/issues/69)
 - [webxr-gamepads-module#16 Add link to the registry](https://github.com/immersive-web/webxr-gamepads-module/issues/16)
 - [webxr#854 Result of calling checkFramebufferStatus on an opaque framebuffer](https://github.com/immersive-web/webxr/issues/854)
 - [webxr#856 Do opaque framebuffers have a reference to their XR session?](https://github.com/immersive-web/webxr/issues/856)
 - [webxr#860 What is a "valid feature descriptor"](https://github.com/immersive-web/webxr/issues/860)
+- [webxr#877 Note somewhere that you should be always be queueing up the next rAF within rAF](https://github.com/immersive-web/webxr/issues/877)
+- [webxr#880 Corrections and clarifications for description/steps for updateRenderState()](https://github.com/immersive-web/webxr/issues/880)
+- [webxr#891 Clarify semantics of preserveDrawingBuffer](https://github.com/immersive-web/webxr/issues/891)
 
 
         
