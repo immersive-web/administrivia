@@ -5,15 +5,12 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * Check out the bottom of the agenda for issues which are looking for help.
-* [webxr-gamepads-module#18 Ensure that the returned gamepad object is live](https://github.com/immersive-web/webxr-gamepads-module/issues/18) [requested by NellWaliczek](https://github.com/immersive-web/webxr-gamepads-module/issues/18#issuecomment-540758145)
-> Hold on... I'm a bit unsure this was the conclusion from that conversation.  In fact, from my recollection it was the opposite thing they were asking us to do.  To make sure that the Gamepad object on an XRInputSource was different every time it was requested.  The implication of which would be revisiting if the gamepad should be an attribute or have a getter function.
->
-> To confirm the expected behavior from the Gamepad folks and get consensus on which approach we intend to take.
-
 * Discussion about XRSessionModes: https://github.com/immersive-web/webxr-ar-module/issues/28, https://github.com/immersive-web/webxr-ar-module/pull/38
 > Finalize [the enum move](https://github.com/immersive-web/webxr-ar-module/pull/38), and discuss [Brandon's comment about having two immersive modes](https://github.com/immersive-web/webxr-ar-module/issues/28#issuecomment-540811746)
 * [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) + [webxr-ar-module#9 Enable developers to distinguish between screen-based and head-worn sessions](https://github.com/immersive-web/webxr-ar-module/issues/29) (Manish)
 > Discuss how best to expose that the UI is screen-based vs headworn, and whether or not we should block on DOM overlay.
+* [webxr-gamepads-module#18 Ensure that the returned gamepad object is live](https://github.com/immersive-web/webxr-gamepads-module/issues/18) [requested by NellWaliczek](https://github.com/immersive-web/webxr-gamepads-module/issues/18#issuecomment-540758145)
+> Agenda to confirm the expected behavior from the Gamepad folks and get consensus on which approach we intend to take.
 * [webxr-input-profiles#79 Do fallback profiles need to contain only subset of componenents?](https://github.com/immersive-web/webxr-input-profiles/issues/79) [requested by NellWaliczek](https://github.com/immersive-web/webxr-input-profiles/issues/79#issuecomment-540135141)
 > Filed #100 to specifically address the Oculus Touch profile.
 >
@@ -22,7 +19,13 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > I'll take a poke at the right schema changes to support tracking this in the registry.  In the meanwhile...
 >
 > To learn which buttons should be documented as reserved for each profile
-
+* [webxr-input-profiles#14 Add behavior for unknown gamepads](https://github.com/immersive-web/webxr-input-profiles/issues/14) [requested by NellWaliczek](https://github.com/immersive-web/webxr-input-profiles/issues/14#issuecomment-544731669)
+> When this issue was originally filed, we were still figuring out the details of the `profiles` attribute.  Now that we've gotten further along, a few other things should be considered:
+>1.  In some cases the UA will be unable to identify a vendor-prefixed string.  Should `profiles = []` in that case?  What if a `generic` prefixed string can be identified?
+>1. In some cases the UA will allow users to hide the actual vendor-prefixed information.  Should `profiles=[]` or should a generic be reported? If so, is it up to the UA to decide how specific that generic is (i.e. if `generic-trigger-grip` is valid, should `generic-trigger` ever be returned?)
+>1. If we decide to add `squeeze` events, does the `profiles` array need to indicate that this event can be fired?
+>1. If we allow `profiles` to be an empty array, do we have any concerns about developers falling into a pit of failure?
+>1. Is there any situation in which `""` would be a valid profile id?
 ### Immersive Web Working Group Teleconference - 2019-10-22
 
 <table>
