@@ -7,7 +7,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * Check out the bottom of the agenda for issues which are looking for help.
 * Discussion about XRSessionModes: https://github.com/immersive-web/webxr-ar-module/issues/28, https://github.com/immersive-web/webxr-ar-module/pull/38
 > Finalize [the enum move](https://github.com/immersive-web/webxr-ar-module/pull/38), and discuss [Brandon's comment about having two immersive modes](https://github.com/immersive-web/webxr-ar-module/issues/28#issuecomment-540811746)
-* [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) + [webxr-ar-module#9 Enable developers to distinguish between screen-based and head-worn sessions](https://github.com/immersive-web/webxr-ar-module/issues/29) (Manish)
+* [webxr-ar-module#29 Should handheld and headset AR use the same XRSessionMode?](https://github.com/immersive-web/webxr-ar-module/issues/29) + [webxr-ar-module#9 Enable developers to distinguish between screen-based and head-worn sessions](https://github.com/immersive-web/webxr-ar-module/issues/9) (Manish)
 > Discuss how best to expose that the UI is screen-based vs headworn, and whether or not we should block on DOM overlay.
 * [webxr-gamepads-module#18 Ensure that the returned gamepad object is live](https://github.com/immersive-web/webxr-gamepads-module/issues/18) [requested by NellWaliczek](https://github.com/immersive-web/webxr-gamepads-module/issues/18#issuecomment-540758145)
 > Agenda to confirm the expected behavior from the Gamepad folks and get consensus on which approach we intend to take.
