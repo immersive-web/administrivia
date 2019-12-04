@@ -6,6 +6,7 @@ Ada & Chris
 ### Call Agenda
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2019-12-03-Immersive_Web_Working_Group_Teleconference-agenda.md).
+[Minutes](https://www.w3.org/2019/12/03-immersive-web-minutes.html) are avail from irc scribe.
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
