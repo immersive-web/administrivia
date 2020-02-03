@@ -12,7 +12,7 @@ Seattle, WA 98109
 
 Draft, subject to change.
 
-|       |                       5/2 <br /> WEDNESDAY                      |        6/2 <br /> THURSDAY       |
+|       |                       5/2 <br /> WEDNESDAY                      |        6/2 <br /> THURSDAY                                         |
 |:-----:|:------------------------------------------------------------------------------------------------------------------------------------:|
 |  8.30 | Doors Open                                                      |       Doors Open                                                   |
 |  9.00 | Get started:  Status update from Editors (Brandon & Manish)     | WebXR Layers and Advanced Layer topics (Rik, Brandon)              |
