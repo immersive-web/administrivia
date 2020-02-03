@@ -39,10 +39,9 @@ Draft, subject to change.
 
 # Lightning talks
 
-* Declarative WebXR & Declarative 3D Scene Graphs
-* Output Context
+* 8th Wall and WebXR (Nick)
+* WebXR input profiles (Brandon)
 
-# Unconference Topics - Wed
 
 * Occlusion
 * Camera Alignment
