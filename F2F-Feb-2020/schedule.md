@@ -4,8 +4,8 @@ February 5-6, 2010 (Wednesday and Thursday)
 
 # Location Information
 
-Facebook's Dexter office
-1101 Dexter Ave N
+Facebook's Dexter office:<br />
+1101 Dexter Ave N<br />
 Seattle, WA 98109
 
 # Schedule
