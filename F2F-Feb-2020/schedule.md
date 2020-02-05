@@ -8,6 +8,10 @@ Facebook's Dexter office:<br />
 1101 Dexter Ave N<br />
 Seattle, WA 98109
 
+## Remote access
+
+Refer WebEx link at https://lists.w3.org/Archives/Member/internal-immersive-web/2020Feb/0000.html
+
 # Schedule
 
 Draft, subject to change.
