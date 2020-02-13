@@ -12,6 +12,9 @@ Seattle, WA 98109
 
 Draft, subject to change.
 
+* [minutes 5/Feb](https://www.w3.org/2020/02/05-immersive-web-minutes.html)
+* [minutes 6/Feb](https://www.w3.org/2020/02/06-immersive-web-minutes.html)
+
 |       |                       5/2 <br /> WEDNESDAY                      |        6/2 <br /> THURSDAY                                         | 
 |:-----:|:---------------------------------------------------------------:|:------------------------------------------------------------------:| 
 |  8.30 | Doors Open                                                      |       Doors Open                                                   | 
