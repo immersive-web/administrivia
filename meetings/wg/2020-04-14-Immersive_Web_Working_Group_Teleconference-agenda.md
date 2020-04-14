@@ -1,6 +1,6 @@
 ### Call Agenda
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2020-04-21-Immersive_Web_Working_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2020-04-14-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
@@ -12,15 +12,15 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 >
 >(sorry, forgot to agenda this earlier)
 
-### Immersive Web Working Group Teleconference - 2020-04-21
+### Immersive Web Working Group Teleconference - 2020-04-14
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, April 21, 12:00 PM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, April 21, 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, April 21, 8:00 PM GMT+1
-<tr><td> Paris (France) <td> Tuesday, April 21, 9:00 PM GMT+2
-<tr><td> Tokyo (Japan) <td> Wednesday, April 22, 4:00 AM GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, April 21, 7:00 PM UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, April 14, 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, April 14, 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> Tuesday, April 14, 8:00 PM GMT+1
+<tr><td> Paris (France) <td> Tuesday, April 14, 9:00 PM GMT+2
+<tr><td> Tokyo (Japan) <td> Wednesday, April 14, 4:00 AM GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, April 14, 7:00 PM UTC
 </table>
 
 ### Logistics
