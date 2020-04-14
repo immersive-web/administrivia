@@ -12,6 +12,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 >
 >(sorry, forgot to agenda this earlier)
 
+
+* [webxr#999](https://github.com/immersive-web/webxr/issues/999) requested by Bajones
+
 ### Immersive Web Working Group Teleconference - 2020-04-14
 
 <table>
