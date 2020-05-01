@@ -1,4 +1,4 @@
-For the TPAC meeting, we're going to use IRC to performing minuting and speaker queue management.  Since we'll be doing queue management in IRC, **it is very important that you stay logged in to IRC during the meeting** so you can ask for a turn to speak.  There's a whole [guide to using IRC at the W3C](https://www.w3.org/wiki/IRC), and further details on the[ Zakim](https://www.w3.org/2001/12/zakim-irc-bot) IRC bot, but this mail lays out the key bits. 
+For the TPAC(W3C Technical Plenary / Advisory Committee) meeting, we're going to use IRC to performing minuting and speaker queue management.  Since we'll be doing queue management in IRC, **it is very important that you stay logged in to IRC during the meeting** so you can ask for a turn to speak.  There's a whole [guide to using IRC at the W3C](https://www.w3.org/wiki/IRC), and further details on the[ Zakim](https://www.w3.org/2001/12/zakim-irc-bot) IRC bot, but this documentation lays out the key bits. 
 
 Please note that we don't want this to be overwhelming, and it doesn't mean that you cannot speak without holding the virtual baton - however, we want to ensure that everyone gets an equal chance to make their points, so expect the chairs to discourage long speeches out of turn.
 
@@ -22,4 +22,4 @@ If you want to change the log - for example, you believe the scribe did not capt
 
 Finally, sometimes it's useful to make **comments that you don't want in the minutes**, or that may even be a side-channel conversation that you don't want recorded in the minutes.  You can do this using IRC "action" statements, which are typically entered in most IRC agents by typing "/me " first - for example, when we're in the middle of a conversation but I'm getting hungry, I might type into IRC** "/me thinks it's time we broke for lunch"**, and the IRC channel will see "cwilso thinks it's time we broke for lunch" as an out-of-band comment - and then the RRSAgent bot will omit that entirely when generating the minutes.  In general, your snarky side comments should be in /me statements.  :) 
 
-(There's also a [Quick Start guide](https://dev.w3.org/cvsweb/~checkout~/2002/scribe/scribedoc.htm?content-type=text/html#Quick_Start_Guide) for RRSAgent for scribes.)
+(There's also a [Quick Start guide](https://w3c.github.io/scribe/scribedoc.htm) for RRSAgent for scribes.)
