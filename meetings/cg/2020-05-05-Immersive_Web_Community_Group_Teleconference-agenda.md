@@ -1,6 +1,7 @@
 ### Call Agenda
 
-This agenda has _a lot_ we can try to get through it but will probably need to follow up in next week's call.
+This agenda has _a lot_ we can try to get through it but will probably need to follow up in next week's call. 
+[Minutes](https://www.w3.org/2020/05/05-immersive-web-minutes.html) are avail from irc scribe.
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/cg/2020-05-05-Immersive_Web_Community_Group_Teleconference-agenda.md).
 
