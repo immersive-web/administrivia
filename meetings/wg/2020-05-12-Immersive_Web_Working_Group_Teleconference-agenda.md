@@ -27,9 +27,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 >cc @avadacatavra
 
 * [webxr#980 Add XRInputSourceEvent::{screenX, screenY}](https://github.com/immersive-web/webxr/pull/980) [requested by AdaRoseCannon](https://github.com/immersive-web/webxr/pull/980#issuecomment-625104537)
-> test two (electric boogaloo)
->
->Edit: The issue was new permissions are required for labelling PRs that is now fixed
+> to run by the group again before merging
 
 ### Immersive Web Working Group Teleconference - 2020-05-12
 
