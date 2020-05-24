@@ -7,9 +7,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [administrivia#96 Virtual TPAC???](https://github.com/immersive-web/administrivia/issues/96) - AdaRoseCannon
 > /agenda to work out what we want to do for tpac.
 
-* [layers#134 strawman proposal for layer parameters](https://github.com/immersive-web/layers/pull/134) [requested by cabanier](https://github.com/immersive-web/layers/pull/134#issuecomment-630351805)
-> should we move back to regular attributes and specify how their state is reflected?
-
 * [webxr#1036 "Ensure an immersive device" cannot be run in parallel](https://github.com/immersive-web/webxr/issues/1036) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/1036#issuecomment-629598102)
 > I see four rough options:
 >
