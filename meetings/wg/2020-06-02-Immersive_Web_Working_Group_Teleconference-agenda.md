@@ -23,9 +23,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 >
 >I recall that there was quite a bit of discussion about this timing when we first added `updateRenderState()`, and I don't recall why we landed on the currently pattern aside from a general sense that it would be more intuitive for the users. I think there's ample reason on the implementation side to change when it applies though and would like to reconsider it as a group.
 
-* [webxr#1058 Various changes around null and emulated poses](https://github.com/immersive-web/webxr/pull/1058) [requested by Manishearth](https://github.com/immersive-web/webxr/pull/1058#issuecomment-632927233)
-> to discuss the changes being made here
-
 ### Immersive Web Working Group Teleconference - 2020-06-09
 
 <table>
