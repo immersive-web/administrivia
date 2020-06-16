@@ -2,6 +2,8 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/cg/2020-06-23-Immersive_Web_Community_Group_Teleconference-agenda.md).
 
+[Minutes](https://www.w3.org/2020/06/16-immersive-web-minutes.html)
+
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [layers#163 Should non-projection layers support more than 2 views?](https://github.com/immersive-web/layers/issues/163) [requested by cabanier](https://github.com/immersive-web/layers/issues/163#issuecomment-644182866)
