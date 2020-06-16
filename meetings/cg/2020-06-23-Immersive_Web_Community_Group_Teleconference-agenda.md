@@ -4,14 +4,14 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
+* [layers#163 Should non-projection layers support more than 2 views?](https://github.com/immersive-web/layers/issues/163) [requested by cabanier](https://github.com/immersive-web/layers/issues/163#issuecomment-644182866)
+> Should non-projection layers support more than 2 views?
+
 * [layers#154 first pass at hit testing](https://github.com/immersive-web/layers/pull/154) [requested by cabanier](https://github.com/immersive-web/layers/pull/154#issuecomment-644182131)
 > discuss the current hit test proposal
 
 * [layers#158 Layers on devices with views of different resolutions](https://github.com/immersive-web/layers/issues/158) [requested by cabanier](https://github.com/immersive-web/layers/issues/158#issuecomment-641578218)
 > how should we handle views from different devices (ie eye displays + observer)
-
-* [layers#163 Should non-projection layers support more than 2 views?](https://github.com/immersive-web/layers/issues/163) [requested by cabanier](https://github.com/immersive-web/layers/issues/163#issuecomment-644182866)
-> Should non-projection layers support more than 2 views?
 
 ### Immersive Web Community Group Teleconference - 2020-06-23
 
