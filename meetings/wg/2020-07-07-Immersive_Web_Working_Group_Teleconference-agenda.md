@@ -1,4 +1,4 @@
-Agenda has been copied to clip board, paste here.### Call Agenda
+### Call Agenda
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2020-07-07-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
