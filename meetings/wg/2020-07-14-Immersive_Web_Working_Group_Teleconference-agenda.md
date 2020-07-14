@@ -5,7 +5,6 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * WebXR Working Draft
-
 * [hit-test#66 Can "point" just be subsumed into "mesh"?](https://github.com/immersive-web/hit-test/issues/66) [requested by blairmacintyre](https://github.com/immersive-web/hit-test/issues/66#issuecomment-651376365)
 > need to revisit this, especially as ARKit has again expanded the range of possibilities and this is too restrictive.
 
@@ -14,6 +13,15 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [layers#175 Should spatial audio work in media layers?](https://github.com/immersive-web/layers/issues/175) [requested by cabanier](https://github.com/immersive-web/layers/issues/175#issuecomment-657000220)
 > Should spatial audio work in media layers?
+
+* [webxr#997 What should we do about hand input sources where "select" and "squeeze" are confusable?](https://github.com/immersive-web/webxr/issues/997) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/997#issuecomment-656825335)
+> to discuss this with stakeholders present
+>
+>@mrdoob @RaananW @thetuvix @cabanier @Artyom17 Would y'all be able to make it to next week's call (12PM PST Tuesday). I'd like to discuss this with all of you present. @mrdoob and @RaananW if y'all don't have connection info for the call please email me (manish@mozilla.com) or otherwise contact a group member to share it with you.
+>
+>A thing I do think is worth noting is that while "hand input sources only expose select" is suboptimal it's not _terrible_, code might need to be tweaked to use select for local interaction as well.
+>
+>@thetuvix @cabanier it would also be nice to know if it's at all possible for the platform to expose distinct select/squeeze guestures, as well. I know this might go against platform conventions, but it's worth exploring.
 
 ### Immersive Web Working Group Teleconference - 2020-07-14
 
@@ -47,6 +55,3 @@ Here are some issues which are good issues to get involved in, if you have taken
 - [webvr-polyfill-dpdb#34 Create a helper script/web page for generating values for a new device](https://github.com/immersive-web/webvr-polyfill-dpdb/issues/34)
 - [webxr-input-profiles#69 Resizing the window changes the model viewer's aspect ratio](https://github.com/immersive-web/webxr-input-profiles/issues/69) [<small>[Future]</small>](https://api.github.com/repos/immersive-web/webxr-input-profiles/milestones/4)
 - [webxr-gamepads-module#16 Add link to the registry](https://github.com/immersive-web/webxr-gamepads-module/issues/16) [<small>[Pre-CR]</small>](https://api.github.com/repos/immersive-web/webxr-gamepads-module/milestones/1)
-
-
-              
