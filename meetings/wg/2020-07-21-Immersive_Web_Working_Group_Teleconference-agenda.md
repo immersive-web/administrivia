@@ -2,10 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/master/meetings/wg/2020-07-21-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
-
-* [layers#174 getSubImage / getViewSubImage need to be called every frame](https://github.com/immersive-web/layers/issues/174) [requested by cabanier](https://github.com/immersive-web/layers/issues/174#issuecomment-657000428)
-> What should be the behavior of the color and depth textures?
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request
 
 * [webxr#1098 Allow content to know an upper bound on the number of views?](https://github.com/immersive-web/webxr/issues/1098) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/1098#issuecomment-660233515)
 > To see what folks think about this
