@@ -4,8 +4,7 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [webxr#1091 Bring back requestViewportScaling?](https://github.com/immersive-web/webxr/issues/1091) [requested by klausw](https://github.com/immersive-web/webxr/issues/1091#issuecomment-699153822)
-> PR #1132 is now merged, adding to agenda for visibility and in case anyone has additional feedback.
+[no items]
 
 * [New weekly meeting time](https://doodle.com/poll/p5vatgqdxbyruept) and [TPAC meeting times](https://doodle.com/poll/znr4vwkqabap2bt2). Please fill out the doodles if you already haven't. Thanks!
 ### Immersive Web Working Group Teleconference - 2020-10-13
