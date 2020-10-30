@@ -75,8 +75,8 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                 <tr><td> San Francisco (U.S.A. - California) <td> Thursday, November 5, 10:00 AM - 2:00 PM PST 
                 <td rowspan="6">
                     <ul>
-                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix) (10 AM PST)(45 minutes)
-                        <li>Open for Unconference sessions, demos and lightining talks (11:00 AM - 2:00 PM PST)
+                        <li>Open for Unconference sessions, demos and lightining talks (10:00 AM - 1:00 PM PST)
+                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix) (1:00 PM PST)(45 minutes)
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Thursday, November 5, 1:00 PM EST
@@ -108,7 +108,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
 - Lighting Estimation - Wednesday, November 4th, 9:30 AM PST
 - Layers - Wednesday, November 4th, 10:00 AM PST
 - WebXR WebGPU Binding - Wednesday, November 4th, 11:00 AM PST
-- Hand Input - Thursday, November 5, 10:00 AM
+- Hand Input - Thursday, November 5, 1:00 PM
 - Education
 - Privacy?
 
