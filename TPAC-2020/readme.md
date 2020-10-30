@@ -1,5 +1,7 @@
 ## TPAC 2020
 
+Check out our [Code of Conduct](https://www.w3.org/Consortium/cepc/) for positive work environment for Immersive Web Communities.
+
 ### IRC Notes/Back Channel
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
