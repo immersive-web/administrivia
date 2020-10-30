@@ -4,7 +4,7 @@ Check out our [Code of Conduct](https://www.w3.org/Consortium/cepc/) for positiv
 
 ### IRC Notes/Back Channel
 
-IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
+IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
 
 ### TPAC Schedule
 
@@ -20,7 +20,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                 <tr><td> San Francisco (U.S.A. - California) <td> Monday, November 2, 11:00 AM - 2PM PST 
                 <td rowspan="6">
                     <ul>
-                        <li>Incubations and Specs overviews (110 minutes)
+                        <li>Incubations and Specs overviews (110 minutes)  <b>11:00 AM - 12:50PM PST</b>
                             <ul>
                                 <li>WebXR Device API Specification (@toji, @Manishearth)
                                 <li>WebXR Gamepads Module (@toji, @Manishearth)
@@ -44,8 +44,8 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                                 <li>WebXR Test API (@Manishearth, @alcooper91)
                                 <li>Privacy and Security (@johnpallett, @TTrevorFSmith)
                             </ul>
-                        <li>Break (10 minutes)
-                        <li>XR Accesibility (@Yonet) (45 minutes)
+                        <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
+                        <li>XR Accesibility (@Yonet) (45 minutes) <b>1:00 - 1:45 PM PST</b>
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Monday, November 2, 2:00 - 5:00 PM EST
@@ -58,11 +58,11 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                 <tr><td> San Francisco (U.S.A. - California) <td> Wednesday, November 4, 8:00 AM - 12:00 PM PST
                 <td rowspan="6">
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks(8:00-9-30AM PST)
-                        <li>Lighting Estimation (@toji) (9:30-10:00AM PST)
-                        <li>Layers (@cabanier)(10-10:45 PST)
-                        <li>Break (15 minutes)
-                        <li>WebXR WebGPU Binding (@toji) (45 minutes)
+                        <li>Open for Unconference sessions, demos and lightining talks <b>8:00-9-30AM PST</b>
+                        <li>Lighting Estimation (@toji) <b>9:30-10:00 AM PST</b>
+                        <li>Layers (@cabanier)  <b>10-10:45 AM PST</b>
+                        <li>Break (15 minutes) <b>10:45-11:00 AM PST</b>
+                        <li>WebXR WebGPU Binding (@toji) (45 minutes) <b>11:00-11:45 AM PST</b>
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday, November 4, 11:00 AM - 3:00 PM EST
@@ -75,8 +75,8 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                 <tr><td> San Francisco (U.S.A. - California) <td> Thursday, November 5, 10:00 AM - 2:00 PM PST 
                 <td rowspan="6">
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks (10:00 AM - 1:00 PM PST)
-                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix) (1:00 PM PST)(45 minutes)
+                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 1:00 PM PST</b>
+                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(45 minutes) <b>1:00-1:45 PM PST</b>
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Thursday, November 5, 1:00 PM EST
@@ -89,7 +89,7 @@ IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https:/
                 <tr><td> San Francisco (U.S.A. - California) <td> Friday, November 6, 10:00 AM PST 
                 <td rowspan="6">
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks (10:00 AM - 2:00 PM PST)
+                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 2:00 PM PST</b>
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Friday, November 6, 1:00 PM EST
