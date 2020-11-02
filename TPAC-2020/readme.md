@@ -98,7 +98,7 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
               <td>
                     <ul>
                         <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 12:00 PM PST</b>
-                        <li>XR Accesibility (@Yonet) (50 minutes) <b>12:00 - 12:50 PM PST</b>
+                        <li>XR Accesibility (@Yonet) (30 minutes) <b>12:20 - 12:50 PM PST</b>
                         <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
                         <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(45 minutes) <b>1:00-1:45 PM PST</b>
                     </ul>
