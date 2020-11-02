@@ -40,7 +40,7 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
                                 <li>Depth Sensing (@bialpio)
                                 <li>WebXR WebGPU Binding (@toji)
                                 <li>Deteched Elements (@grorg, @AdaRoseCannon)
-                                <li>Image/Face Tracking (@klausw)
+                                <li>Image Tracking (@klausw)
                                 <li>WebXR Test API (@Manishearth, @alcooper91)
                                 <li>Privacy and Security (@johnpallett, @TTrevorFSmith)
                             </ul>
