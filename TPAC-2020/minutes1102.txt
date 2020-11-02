@@ -1,0 +1,457 @@
+2020-11-02 19:00:43	⚡	irc: disconnected from server
+2020-11-02 19:00:54	▷	ada (~ada@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:00:54	⚡	Topic for #immersive-web is "Agenda: https://github.com/immersive-web/administrivia/blob/main/meetings/wg/2020-10-20-Immersive_Web_Working_Group_Teleconference-agenda.md"
+2020-11-02 19:00:54	⚡	Topic set by dino on Tue, 20 Oct 2020 20:06:02
+2020-11-02 19:00:54	⚡	Channel #immersive-web: 18 nicks (0 ops, 0 halfops, 0 voices, 18 normals)
+2020-11-02 15:58:54	ada	Hi
+2020-11-02 19:01:03	cwilso	hello!
+2020-11-02 19:01:12	…	cwilso (running a couple of minutes late)
+2020-11-02 19:01:25	⚡	Channel created on Wed, 10 Jun 2020 11:49:28
+2020-11-02 19:01:33	…	ada sitting a couple of minutes late
+2020-11-02 19:02:15	⚡	irc: disconnected from server
+2020-11-02 19:02:43	▷	ada (~ada@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:02:43	⚡	Topic for #immersive-web is "Agenda: https://github.com/immersive-web/administrivia/blob/main/meetings/wg/2020-10-20-Immersive_Web_Working_Group_Teleconference-agenda.md"
+2020-11-02 19:02:43	⚡	Topic set by dino on Tue, 20 Oct 2020 20:06:02
+2020-11-02 19:02:43	⚡	Channel #immersive-web: 18 nicks (0 ops, 0 halfops, 0 voices, 18 normals)
+2020-11-02 19:01:12	…	cwilso (running a couple of minutes late)
+2020-11-02 19:01:35	…	ada sitting a couple of minutes late
+2020-11-02 19:02:49	…	ada the problem with not using my fancy camera is that youcan see all my toys
+2020-11-02 19:03:05	▷	alcooper (~alcooper@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:03:16	⚡	Channel created on Wed, 10 Jun 2020 11:49:28
+2020-11-02 19:04:00	▷	cabanier (~uid418519@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:04:15	cabanier	What is the address of the zoom meeting?
+2020-11-02 19:05:52	▷	bialpio (~bialpio@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:06:33	▷	madlaina-kalunder (~madlaina-kalunder@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:06:38	…	ada zoom fell over
+2020-11-02 19:06:46	▷	yonet_ (~yonet@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:08:50	ada	https://mit.zoom.us/j/95309507814?pwd=MGl4bXdjdnFqdWREZDJFQ0ptbjIzdz09
+2020-11-02 19:10:23	cabanier	scribenick: cabanier
+2020-11-02 19:11:48	▷	bajones (~bajones@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:11:49	cabanier	ada: let's go through incubations and get their status
+2020-11-02 19:12:04	lgombos	Present+ Laszlo_Gombos
+2020-11-02 19:12:31	cabanier	... where they are and what is happen
+2020-11-02 19:12:44	cabanier	... do we need feedback? Is it blocked?
+2020-11-02 19:13:00	cabanier	... or is it done and bring into the WG?
+2020-11-02 19:13:48	◁	yonet_ (~yonet@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 19:13:51	madlaina-kalunder	Present+
+2020-11-02 19:13:59	bajones	present+
+2020-11-02 19:14:23	…	ada my internet died again
+2020-11-02 19:15:24	cabanier	(Ada's video died)
+2020-11-02 19:15:37	cabanier	bajones: I will just start since Ada's video died
+2020-11-02 19:15:53	cabanier	... for WebXR, everyone has an idea of the state of things
+2020-11-02 19:16:06	cabanier	... so I want to give an update on how it's being used
+2020-11-02 19:16:14	▷	yonet (~yonet@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:16:23	yonet	present+
+2020-11-02 19:16:30	cabanier	... it has shipped in multiple browsers and there is solid support from framework developers
+2020-11-02 19:16:31	⚡	irc: disconnected from server
+2020-11-02 19:16:42	▷	ada (~ada@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:16:42	⚡	Topic for #immersive-web is "Agenda: https://github.com/immersive-web/administrivia/blob/main/meetings/wg/2020-10-20-Immersive_Web_Working_Group_Teleconference-agenda.md"
+2020-11-02 19:16:42	⚡	Topic set by dino on Tue, 20 Oct 2020 20:06:02
+2020-11-02 19:16:42	⚡	Channel #immersive-web: 24 nicks (0 ops, 0 halfops, 0 voices, 24 normals)
+2020-11-02 19:16:30	cabanier	... it has shipped in multiple browsers and there is solid support from framework developers
+2020-11-02 19:16:34	cabanier	present+
+2020-11-02 19:16:44	cabanier	... lots of sites are using it
+2020-11-02 19:17:09	cabanier	... and are making it a core feature. Matterport had a really cool demo where you could walk through a house
+2020-11-02 19:17:13	⚡	Channel created on Wed, 10 Jun 2020 11:49:28
+2020-11-02 19:17:38	cabanier	... we see small cases. For instance KaiXR whose model is to distribute cardboard to classrooms
+2020-11-02 19:18:00	cabanier	... and there is a beatsaber knockoff which has a big following
+2020-11-02 19:18:25	cabanier	... there was contest for making interesting sites under 20kb
+2020-11-02 19:18:59	cabanier	... this is all really cool and it's good to see that they opt into  progressive content so things also work if VR is not available
+2020-11-02 19:19:18	cabanier	... most web users don't have a VR set so it also works for them
+2020-11-02 19:19:40	cabanier	... newer devices had better performance
+2020-11-02 19:19:47	yonet	Agenda: https://github.com/immersive-web/administrivia/tree/main/TPAC-2020
+2020-11-02 19:20:06	cabanier	... on the chrome side we've seen an uptick in the use of the WebXR since OpenXR came along
+2020-11-02 19:20:41	cabanier	... the vast majority is using cardboard from Google's perspective
+2020-11-02 19:20:42	…	ada is looking forward to these cardboard video experiences to use layers
+2020-11-02 19:21:06	cabanier	... we should continue to develop for simple devices and powerful ones
+2020-11-02 19:21:32	cabanier	... the pandemic slowed progress on the spec a bit
+2020-11-02 19:21:52	cabanier	... the biggest hurdles are still the privacy implications which we're close to resolving
+2020-11-02 19:22:05	cabanier	... there isn't much to do to say if it's ready for CR
+2020-11-02 19:22:22	cabanier	... it's becoming part of the accepted web. There's work on improving accessibility
+2020-11-02 19:22:44	cabanier	... I'm planning on being part of it for the long run
+2020-11-02 19:23:16	cabanier	ada: please let us know if you have questions or if there's something that you want to add to the unconference time at the end of the week
+2020-11-02 19:23:19	▷	alexturn (~alexturn@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:23:27	alexturn	q+
+2020-11-02 19:23:27	…	Zakim sees yonet, alexturn on the speaker queue
+2020-11-02 19:23:36	alexturn	present+
+2020-11-02 19:23:40	ada	ack yonet 
+2020-11-02 19:23:40	…	Zakim sees alexturn on the speaker queue
+2020-11-02 19:23:42	ada	ack alexturn 
+2020-11-02 19:23:43	…	Zakim sees no one on the speaker queue
+2020-11-02 19:24:19	cabanier	alexturn: I just wanted to echo what Brandon said and it's great that we end up with devices all along the ability chain
+2020-11-02 19:24:47	cabanier	... we should add more to the acknowledge sections
+2020-11-02 19:24:58	cabanier	... so people can point to what they've done with pride
+2020-11-02 19:25:15	cabanier	bajones: yes, that's a great unconference session
+2020-11-02 19:25:31	cabanier	... we can work out some systems to add it to the full range of modules
+2020-11-02 19:26:29	cabanier	ada: let's talk about anchors
+2020-11-02 19:26:37	cabanier	... who are the representatives?
+2020-11-02 19:27:04	cabanier	bialpio: I think that would be me. I'm unsure if there's a second person
+2020-11-02 19:27:29	cabanier	... there hasn't been much acitivity after the long discussion with Alex and Blair
+2020-11-02 19:27:36	cabanier	... mostly about reference space stability
+2020-11-02 19:27:39	mounir	present+
+2020-11-02 19:27:53	cabanier	... after that got resolved, we shipped anchors in m85 chrome
+2020-11-02 19:28:05	cabanier	... no major issues have been reported after shipping
+2020-11-02 19:28:39	cabanier	... the biggest outstanding thing is to move it to the hit test API
+2020-11-02 19:29:11	cabanier	... the consensus was to wait to reduce confusion for authors
+2020-11-02 19:29:23	cabanier	... I'll look into that soon
+2020-11-02 19:29:32	cabanier	ada: are there any blockers?
+2020-11-02 19:29:53	cabanier	bialpio: I hope there are none because we have shipped them
+2020-11-02 19:30:09	cabanier	... I heard that Edge is looking at implementing them using OpenXR
+2020-11-02 19:30:31	cabanier	ada: is there anyone from the edge team on the call? That way there are 2 contacts
+2020-11-02 19:30:56	cabanier	alexturn: for hololens, we're going to be implementing the anchor implementation
+2020-11-02 19:31:30	▷	klausw (~klausw@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:31:40	klausw	present+
+2020-11-02 19:31:45	cabanier	lachlan: I will be happy to become the second author on this spec
+2020-11-02 19:32:35	cabanier	bialpio: I heard that bajones wants to bring back cloud anchors
+2020-11-02 19:32:52	▷	Lachlan (~Lachlan@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:32:54	cabanier	bajones: I don't have a special interest in that but it's a good idea for conversation
+2020-11-02 19:33:13	cabanier	ada: most people that hear about anchors think that they are cloud anchors
+2020-11-02 19:33:20	cabanier	bialpio: there's an issue about that
+2020-11-02 19:33:30	…	mounir isn't this excluded by the charter?
+2020-11-02 19:33:34	…	ada https://github.com/immersive-web/administrivia/issues/126
+2020-11-02 19:33:36	cabanier	... that was issue 126
+2020-11-02 19:33:43	cabanier	... ttps://github.com/immersive-web/administrivia/issues/126
+2020-11-02 19:33:52	cabanier	ada: is this in our charter?
+2020-11-02 19:34:11	cabanier	bialpio: I think it's explicitly excludes them
+2020-11-02 19:34:20	cabanier	ada: what can we do about that?
+2020-11-02 19:34:21	…	mounir this could be on the previous version actually
+2020-11-02 19:34:54	cabanier	... we can always recharter but we have so much on our plate so it's unlikely to be done soon
+2020-11-02 19:35:03	cabanier	ada: next item: computer vision
+2020-11-02 19:35:29	cabanier	klausw: we have several topics about computer vision. Can we postpone it until then
+2020-11-02 19:35:40	cabanier	ada: ok. Let's do image face tracking.
+2020-11-02 19:35:56	cabanier	... and depth sensing
+2020-11-02 19:36:05	…	ada https://github.com/immersive-web/administrivia/tree/main/TPAC-2020
+2020-11-02 19:36:41	cabanier	... raw image access
+2020-11-02 19:36:56	cabanier	bialpio: that is something that I added to the computer vision repo
+2020-11-02 19:36:59	◁	alexturn (~alexturn@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 19:37:06	cabanier	... the prototype of the API is not in the CG
+2020-11-02 19:37:58	cabanier	klausw: (garbled)
+2020-11-02 19:38:11	cabanier	... I didn't look into face tracking
+2020-11-02 19:38:39	cabanier	... I've asked for a home for the image tracking explainer and API
+2020-11-02 19:39:08	cabanier	... just a quick overview what it looks like now
+2020-11-02 19:39:22	cabanier	... it's similar to what Blair was working on.
+2020-11-02 19:39:34	cabanier	... my goal was to make something that works with handheld AR
+2020-11-02 19:39:41	cabanier	... but it should work with headsets
+2020-11-02 19:39:56	cabanier	... there's an experiment to make it work in chrome canary
+2020-11-02 19:40:03	cabanier	... (demoing example)
+2020-11-02 19:40:34	cabanier	... is there anyone else who wants to takes this one?
+2020-11-02 19:40:44	cabanier	... environment tracking
+2020-11-02 19:41:06	◁	bajones (~bajones@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 19:41:06	cabanier	... we don't have to resolve it now but we want to move forward
+2020-11-02 19:41:09	▷	alexturn (~alexturn@ef89345d.public.cloak) has joined #Immersive-web
+2020-11-02 19:41:29	▷	alexturn_ (~alexturn@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:41:30	cabanier	... developers are really interested. Right now they use the direct camera access
+2020-11-02 19:41:34	alexturn_	q+
+2020-11-02 19:41:34	…	Zakim sees alexturn_ on the speaker queue
+2020-11-02 19:41:41	cabanier	... this API would be more privacy preserving
+2020-11-02 19:42:02	ada	ack alexturn_ 
+2020-11-02 19:42:03	…	Zakim sees no one on the speaker queue
+2020-11-02 19:42:09	cabanier	... and if there's hardware it will be more efficient
+2020-11-02 19:42:24	cabanier	alexturn_: the image tracking we have on hololens is not generic
+2020-11-02 19:42:35	cabanier	... we have QR code tracking built-in.
+2020-11-02 19:42:54	cabanier	... so maybe we can have a base API and add implementations
+2020-11-02 19:43:18	cabanier	... maybe there's image tracking for known classes and we'd be interested on the QR code side
+2020-11-02 19:43:31	cabanier	ada: alexturn_ would you be interested in being a contact?
+2020-11-02 19:43:35	cabanier	alexturn_: yes
+2020-11-02 19:44:10	cabanier	ada: ok. I will set up a new repo for image tracking with Klaus and Alex as the contact s
+2020-11-02 19:44:14	cabanier	ada: ok. I will set up a new repo for image tracking with Klaus and Alex as the contacts
+2020-11-02 19:44:48	cabanier	klausw: it would be interesting to hear what people want to do with a generic API?
+2020-11-02 19:45:07	cabanier	alexturn_: maybe a marker API
+2020-11-02 19:45:34	cabanier	ada: real world geometery
+2020-11-02 19:45:48	cabanier	... is Trevor here today?
+2020-11-02 19:46:04	cabanier	bialpio: I don't think any work was done on this
+2020-11-02 19:46:06	alexturn_	q+
+2020-11-02 19:46:06	…	Zakim sees alexturn_ on the speaker queue
+2020-11-02 19:46:14	cabanier	... the main use case was solved with hit test
+2020-11-02 19:46:33	cabanier	... so it was deprioritized but we want to pick it up again
+2020-11-02 19:46:47	cabanier	ada: does anyone else want to work on this or be a contact?
+2020-11-02 19:46:53	ada	ack alexturn_ 
+2020-11-02 19:46:53	…	Zakim sees no one on the speaker queue
+2020-11-02 19:47:04	cabanier	alexturn_: OpenXR started discussing this
+2020-11-02 19:47:19	cabanier	... we're discussing how to best expose meshes, etc
+2020-11-02 19:47:48	cabanier	... especially over the next couple of months we'll be interested in discussing this
+2020-11-02 19:48:11	◁	alexturn (~alexturn@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 19:48:50	cabanier	ada: computer vision and raw camera access
+2020-11-02 19:49:02	cabanier	bialpio: I believe Blair is listed as the lead
+2020-11-02 19:49:15	cabanier	... raw camera access is still in my personal repo
+2020-11-02 19:49:57	cabanier	... the only feedback is from Blair and about camera's that give back images at a different rate than the requestanimationframe
+2020-11-02 19:50:09	alexturn_	q+
+2020-11-02 19:50:09	…	Zakim sees alexturn_ on the speaker queue
+2020-11-02 19:50:10	cabanier	... on smartphone AR this is not an issue
+2020-11-02 19:50:23	cabanier	... but on headsets this is more complicated
+2020-11-02 19:50:26	ada	ack alexturn_ 
+2020-11-02 19:50:26	…	Zakim sees no one on the speaker queue
+2020-11-02 19:50:36	cabanier	alexturn_: I'm happy to participate here
+2020-11-02 19:50:54	cabanier	... for HL 1 and 2, image come in a the media cadence
+2020-11-02 19:51:03	▷	bajones (~bajones@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 19:51:07	cabanier	... for each frame you get extra data to locate the frame
+2020-11-02 19:51:18	cabanier	... the question is how you would align it to the phone model
+2020-11-02 19:51:33	cabanier	... in our case we align to the render frame rate
+2020-11-02 19:51:49	cabanier	... I'm optimistic that we can come to a resolution
+2020-11-02 19:52:00	cabanier	ada: do you have a link to the PR?
+2020-11-02 19:52:21	bialpio	https://github.com/immersive-web/computer-vision/pull/4
+2020-11-02 19:52:31	klausw	q+
+2020-11-02 19:52:31	…	Zakim sees klausw on the speaker queue
+2020-11-02 19:52:45	ada	ack klausw 
+2020-11-02 19:52:46	…	Zakim sees no one on the speaker queue
+2020-11-02 19:53:00	cabanier	klausw: I had a comment on the computer vision
+2020-11-02 19:53:15	cabanier	... it seems that (garbled)
+2020-11-02 19:53:42	cabanier	... should there be more general support for computer vision to set up pipelines
+2020-11-02 19:54:31	cabanier	ada: the original thinking was to provide algorithms
+2020-11-02 19:55:01	cabanier	klausw: we were going to list the use cases and then design generic analysis pipelines
+2020-11-02 19:55:11	cabanier	... this hasn't seen much activity
+2020-11-02 19:55:31	cabanier	.... but nobody has done this pipeline approach
+2020-11-02 19:56:07	cabanier	... if people are happy with individual approach, that's fine but if people want to do the generic one, they should speak up
+2020-11-02 19:56:20	cabanier	ada: yes, please raise this as a topic to discuss
+2020-11-02 19:56:46	cabanier	... next topic is depth sensing
+2020-11-02 19:56:51	cabanier	bialpio: that's me again
+2020-11-02 19:57:08	cabanier	... quick update: we have an implementation for a depth sensing API
+2020-11-02 19:57:22	cabanier	... it's not publicly available
+2020-11-02 19:57:41	cabanier	... it will be done as an origin trial  to get feedback from developers
+2020-11-02 19:57:58	cabanier	... not many people have looked at it yet
+2020-11-02 19:58:09	ada	q+
+2020-11-02 19:58:09	…	Zakim sees ada on the speaker queue
+2020-11-02 19:58:17	alexturn_	q+q+
+2020-11-02 19:58:17	…	Zakim sees ada, q+ on the speaker queue
+2020-11-02 19:58:21	cabanier	... the only feedback was initially from Rik
+2020-11-02 19:58:29	alexturn_	q+
+2020-11-02 19:58:29	…	Zakim sees ada, q+, alexturn_ on the speaker queue
+2020-11-02 19:58:36	cabanier	... we will learn more on how people interact with the API
+2020-11-02 19:58:38	ada	q- q+
+2020-11-02 19:58:39	…	Zakim sees ada, alexturn_ on the speaker queue
+2020-11-02 19:58:46	cabanier	... please take a look
+2020-11-02 19:58:49	ada	ack ada 
+2020-11-02 19:58:49	…	Zakim sees alexturn_ on the speaker queue
+2020-11-02 19:59:07	cabanier	ada: what is the difference between depth sensing and real world geometry
+2020-11-02 19:59:28	cabanier	bialpio: RWS gives you meshes and planes
+2020-11-02 19:59:57	cabanier	... depth sensing is used differently. it can be used for occlusion
+2020-11-02 20:00:14	cabanier	... it gives out data that's easier to consume by graphics API
+2020-11-02 20:00:29	ada	ack alexturn_ 
+2020-11-02 20:00:29	…	Zakim sees no one on the speaker queue
+2020-11-02 20:00:32	cabanier	... we could merge them together but I would like to hear what people have to say about it
+2020-11-02 20:01:05	cabanier	alexturn_: on our API we have planes and meshes and them people do their hit test against that
+2020-11-02 20:01:20	cabanier	... or people use them for occlusion
+2020-11-02 20:01:45	cabanier	... when people need all the geometry, they need another tier
+2020-11-02 20:01:58	cabanier	... the question is what tiers should exists
+2020-11-02 20:02:11	cabanier	... should we talk about the full set of use cases
+2020-11-02 20:02:28	cabanier	... or are there other breakdowns. We should have a discussion first
+2020-11-02 20:02:48	cabanier	ada: should this be an unconference session?
+2020-11-02 20:03:02	cabanier	alexturn_: yes, let's discuss the module breakdown
+2020-11-02 20:03:32	cwilso	scribenick: cwilso
+2020-11-02 20:03:37	cwilso	scribe: Chris Wilson
+2020-11-02 20:04:09	cwilso	Ada: next topic, detached elements, but Dean isn't here, so let's come back to that.
+2020-11-02 20:04:26	cwilso	... DOM overlays.  Klaus?
+2020-11-02 20:05:11	cwilso	Klaus: there's an editor's draft out, and an explainer.
+2020-11-02 20:05:31	◁	alexturn_ (~alexturn@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 20:05:31	bajones	Kudos to Klaus for going out of his way to put together even some minimal slides for the incubations he's covering!
+2020-11-02 20:05:37	cwilso	...there's still some confusion as to how this fits in with XR, so that's on me to provide context.
+2020-11-02 20:05:59	cwilso	...It's been in Chrome for handheld AR since v84.  Has anyone else shown interest?
+2020-11-02 20:06:05	ada	q+ to ask about VR dom overlays
+2020-11-02 20:06:05	…	Zakim sees ada on the speaker queue
+2020-11-02 20:06:08	▷	alexturn (~alexturn@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 20:06:19	lgombos	q+
+2020-11-02 20:06:19	…	Zakim sees ada, lgombos on the speaker queue
+2020-11-02 20:06:32	cwilso	...a fairly large fraction of the AR sites have started using it.
+2020-11-02 20:07:02	cwilso	...(shows demo)
+2020-11-02 20:07:11	alexturn	q+
+2020-11-02 20:07:11	…	Zakim sees ada, lgombos, alexturn on the speaker queue
+2020-11-02 20:07:38	cwilso	...there are some issues that will not translate well to headsets; that's been clear since the beginning, so I'd really like to get back to that discussion.
+2020-11-02 20:08:01	ada	ack ada
+2020-11-02 20:08:01	Zakim	ada, you wanted to ask about VR dom overlays
+2020-11-02 20:08:02	…	Zakim sees lgombos, alexturn on the speaker queue
+2020-11-02 20:08:23	cwilso	Ada: has there been any additional thought within Google for implementing in VR as well, or just AR?
+2020-11-02 20:08:50	cwilso	Klaus: I did an initial prototype in VR, but that's been de-emphasized; technically possible, but not a priority.
+2020-11-02 20:08:53	ada	ack lgombos 
+2020-11-02 20:08:53	…	Zakim sees alexturn on the speaker queue
+2020-11-02 20:09:22	cwilso	Lazlo: we're looking into implementing next year.
+2020-11-02 20:09:25	ada	ack alexturn 
+2020-11-02 20:09:26	…	Zakim sees no one on the speaker queue
+2020-11-02 20:10:44	cwilso	Alex: really heartening to see DOM overlay get pickup.  Was worried people would do UI in 3D.
+2020-11-02 20:11:03	cwilso	Ada: we only have one point of contact for DOM overlays.  Any volunteers?
+2020-11-02 20:11:15	cwilso	Alex: I'll volunteer.
+2020-11-02 20:11:20	cwilso	Lazlo: I can also help out
+2020-11-02 20:12:04	cwilso	Klaus: we could have a discussion here about how this would translate to headsets if you like
+2020-11-02 20:12:17	cwilso	Alex: +1 to the hotspot topic
+2020-11-02 20:12:34	cwilso	...(more interested in headset than VR)
+2020-11-02 20:13:18	cwilso	Ada: geo-alignment.  Blair or Trevor aren't here.
+2020-11-02 20:14:13	◁	alexturn (~alexturn@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 20:14:14	cwilso	Piotr: issue on moving anchor hit-test results.
+2020-11-02 20:14:59	cwilso	Piotr: Also, hit tests are more like rays than poses, so need to over-specify what hit test results mean
+2020-11-02 20:15:17	cwilso	...right now, the specification doesn't say how to construct poses.
+2020-11-02 20:15:25	klausw	FYI, it appears that Blair is at VRST2020 this week: https://twitter.com/blairmacintyre/status/1323296767249682434
+2020-11-02 20:15:48	cwilso	...also, hit-test shipping in Chrome since v81.
+2020-11-02 20:16:04	cwilso	Ada: any questions for hit-testing, or other unconference topics?
+2020-11-02 20:16:10	cwilso	Ada: on to Layers.
+2020-11-02 20:17:09	cwilso	Rik: we're continuing to iterate on the spec, regular calls on this spec.  Talking with WebGL WG, got their buyin on our specified behavior.  Oculus browser is shipping an experimental version, and getting some feedback (and demos)
+2020-11-02 20:18:13	cwilso	...we've recently made some changes, but the spec is basically done in terms of functionality.  Still need to flesh out some parts (TAG said explainer is not sufficient).  Moved to WG, still waiting for FPWD.
+2020-11-02 20:18:28	cwilso	... Edge is interested and working on impl
+2020-11-02 20:18:32	klausw	q+
+2020-11-02 20:18:32	…	Zakim sees klausw on the speaker queue
+2020-11-02 20:18:38	ada	ack klausw 
+2020-11-02 20:18:38	…	Zakim sees no one on the speaker queue
+2020-11-02 20:18:57	cwilso	Klaus: I haven't been following closely, but I think we both have DOM layers...
+2020-11-02 20:19:16	cwilso	... but they're not in the Layers spec.
+2020-11-02 20:19:36	cwilso	Rik: right.  DOM layers have some security challenges, so we started with WebGL layers.
+2020-11-02 20:19:52	cwilso	Klaus: would be helpful if you would join the unconf on DOM layers
+2020-11-02 20:21:02	cwilso	Ada: added an "intersection of Layers and DOM layers" to unconf
+2020-11-02 20:21:20	cwilso	Rik: I had a 45-min session on Thursday to discuss
+2020-11-02 20:21:23	klausw	s/DOM layers/DOM Overlay/
+2020-11-02 20:21:27	yonet	q+
+2020-11-02 20:21:27	…	Zakim sees yonet on the speaker queue
+2020-11-02 20:21:37	ada	ack yonet 
+2020-11-02 20:21:37	…	Zakim sees no one on the speaker queue
+2020-11-02 20:22:11	…	lgombos prefers Thursday as well 
+2020-11-02 20:22:41	cwilso	Ada: on to lighting estimation.
+2020-11-02 20:23:42	cwilso	Brandon: poor, poor lighting estimation.  Movement on this is slow.  We've had a prototype (under a flag) in Chrome for a while.  Difficult to gauge support for the API's shape, recently lost Kip as a dedicated contributor.  :(
+2020-11-02 20:23:55	cwilso	... seems relatively uncontroversial.
+2020-11-02 20:24:06	cwilso	...ReflectionMap is biggest API challenge.
+2020-11-02 20:24:34	cwilso	...Metal API docs were updated after the Seattle FTF, though, so yay!
+2020-11-02 20:25:31	cwilso	...on Chrome side, we're still moving forward.
+2020-11-02 20:26:11	cwilso	...difficult to work LE in if you're just doing an additive model.  But we'd love to hear opinions from the headset world
+2020-11-02 20:26:27	cwilso	Ada:  Any questions?\
+2020-11-02 20:26:54	cwilso	...Moving on, my faaaaaaaaavorite topic:  Navigation!
+2020-11-02 20:27:31	cwilso	...  Unfortunately, Diego is not on the call.  Anyone interested in having an unconference session on Navigation?
+2020-11-02 20:27:50	cwilso	Brandon: I don't think there's any movement on this, but perhaps still a good unconf discussion?
+2020-11-02 20:28:39	cwilso	Ada: Next topic, performance improvements.  Repo assigned to Trevor; is anyone interested in taking this up?
+2020-11-02 20:29:01	ada	https://github.com/immersive-web/performance-improvements/issues
+2020-11-02 20:29:11	cwilso	Brandon: I think a bunch of this got rolled into Layers; we should revisit the repo and check.
+2020-11-02 20:29:57	cwilso	Ada: Sounds good, set an unconf topic for that.
+2020-11-02 20:30:45	cwilso	Ada: spatial favicons.  Ravi is no longer at ML; Dean is interested, so I'm reassigning to him.
+2020-11-02 20:31:49	cwilso	Brandon: [dog barks]
+2020-11-02 20:32:28	cwilso	Ada: Web GPU binding
+2020-11-02 20:32:51	cwilso	Brandon: everyone is really interested in the WebGPU here; there are a few additons like swap-chain-like primitives.
+2020-11-02 20:33:25	cwilso	... That's fed back into the Layers spec, which is to the benefit of both
+2020-11-02 20:33:41	…	ada : synergy makes me happy
+2020-11-02 20:33:51	cwilso	... hoping to be prototyping in Chrome sometime soon.  (Probably only Windows-only to begin with)
+2020-11-02 20:34:20	cwilso	Ada.  Any other unconference topics?
+2020-11-02 20:34:48	cwilso	Brandon: if there are any Layers topics, it's natural to fold WebGPU into them.
+2020-11-02 20:34:57	▷	alexturn (~alexturn@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 20:35:16	cwilso	Ada: AR module topic:
+2020-11-02 20:35:32	cwilso	Brandon: not much going on here.  It was always pretty minimal on top of XR core.
+2020-11-02 20:35:56	cwilso	... lots of support from the libraries (3js, Babylon, et al) incorporating this.
+2020-11-02 20:36:13	cwilso	... Not much trying to shove AR and VR into the same content, which is good.
+2020-11-02 20:36:59	klausw	q+
+2020-11-02 20:36:59	…	Zakim sees klausw on the speaker queue
+2020-11-02 20:37:11	alexturn	q+
+2020-11-02 20:37:11	…	Zakim sees klausw, alexturn on the speaker queue
+2020-11-02 20:37:45	cwilso	... Most developers seem to be choosing appropriately.
+2020-11-02 20:38:33	cwilso	... AR is almost used with hit-test; perhaps we should consider merging?
+2020-11-02 20:39:27	cwilso	...also frequently merged with DOM overlay.  I don't think that should be merged into AR core, since it's mobile-centric, but it's nice to see people taking advantage of that.
+2020-11-02 20:39:55	cwilso	...the model-viewer component has been seeing great success.  (Doesn't always use WebXR, but gaining momentum.)
+2020-11-02 20:40:01	…	ada was buying a bath the other day and saw a model viewer AR example, it made me happy
+2020-11-02 20:40:15	ada	ack klausw 
+2020-11-02 20:40:15	…	Zakim sees alexturn on the speaker queue
+2020-11-02 20:40:46	cwilso	klaus: to follow up on apps choosing appropriately... devs shouldn't assume immersive AR is the same as handset AR.
+2020-11-02 20:41:38	cwilso	Ada: sounds like an unconference topic
+2020-11-02 20:42:13	ada	ack alexturn 
+2020-11-02 20:42:13	…	Zakim sees no one on the speaker queue
+2020-11-02 20:43:11	cwilso	Alex: on AR module requiring/incorporating hit-test: IO'm happy to say "use of AR module requires hit-test", sounds fine to me.  I wouldn't want to require immersive-ar in order to use hit-test.
+2020-11-02 20:43:17	…	Manishearth is kinda against hit test being required for immersive-ar
+2020-11-02 20:44:32	cwilso	Alex: for DOM overlay, I think it's probably critical for AR to get this as broadly as possible.  Devs should have no excuse to not do things in another way.
+2020-11-02 20:44:48	klausw	q+
+2020-11-02 20:44:48	…	Zakim sees klausw on the speaker queue
+2020-11-02 20:45:12	ada	ack klausw 
+2020-11-02 20:45:12	…	Zakim sees no one on the speaker queue
+2020-11-02 20:46:09	cwilso	Klaus: that could add a heavy burden to implementation, so I wouldn't want to require this for a new implementation.
+2020-11-02 20:46:45	▷	Dave_Hill (~Dave_Hill@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 20:47:29	cwilso	Alex: Would still like it to be a de facto part of the standard.
+2020-11-02 20:48:04	cwilso	Ada: Web XR Gamepad
+2020-11-02 20:48:23	cwilso	Brandon: not much movement since last year.  (And I really miss seeing you all in person!)
+2020-11-02 20:48:33	…	ada misses seeing everyone in person, does not miss the long flights
+2020-11-02 20:48:44	cwilso	...not really a problem, since we're seeing significant usage and not much negative feedback!
+2020-11-02 20:49:43	cwilso	...devs love the representations with the profiles as well
+2020-11-02 20:50:02	cwilso	...in 3js, this is like three lines of code.  So good.
+2020-11-02 20:50:51	cwilso	...openXR is jealous of our repository of models.  (Continuing to see new submissions, like the Oculus Touch 3 controllers that ship with the Quest 2)
+2020-11-02 20:51:06	cwilso	...this is also another thing we might want to merge back into the core spec.
+2020-11-02 20:51:37	cwilso	...API seems to be working well for just about everybody.
+2020-11-02 20:51:39	Lachlan	q+
+2020-11-02 20:51:39	…	Zakim sees Lachlan on the speaker queue
+2020-11-02 20:51:45	ada	ack Lachlan 
+2020-11-02 20:51:45	…	Zakim sees no one on the speaker queue
+2020-11-02 20:52:19	alexturn	q+
+2020-11-02 20:52:19	…	Zakim sees alexturn on the speaker queue
+2020-11-02 20:52:27	▷	yonet_ (~yonet@ef89345d.public.cloak) has joined #immersive-web
+2020-11-02 20:52:42	ada	ack alexturn 
+2020-11-02 20:52:42	…	Zakim sees no one on the speaker queue
+2020-11-02 20:53:20	cwilso	Zoom just crashed on me
+2020-11-02 20:53:35	ada	scribe:ada
+2020-11-02 20:53:46	cwilso	Can someone pick up note taking until I get reconnected?
+2020-11-02 20:53:47	◁	Dave_Hill (~Dave_Hill@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 20:53:49	ada	We may need to reformat the blobs for binary glbs
+2020-11-02 20:54:05	ada	as the nodes are inconsistent
+2020-11-02 20:55:19	ada	it would be handy to add some more meta data because then parts of the implementation can be generated from the metadata
+2020-11-02 20:56:00	…	cwilso thanks Ada.
+2020-11-02 20:56:06	ada	brandon: cleaning the models is not a problem
+2020-11-02 20:56:25	ada	alexturn:just agreeing on the node names would be very handy
+2020-11-02 20:56:36	◁	yonet (~yonet@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 20:56:38	cwilso	Brandon: I tend to agree
+2020-11-02 20:57:20	cabanier	q+
+2020-11-02 20:57:20	…	Zakim sees cabanier on the speaker queue
+2020-11-02 20:57:21	cwilso	...was worried naming the nodes would be an undue burden, but seems that people are willing to do that, and the conventions seem to work.
+2020-11-02 20:57:34	ada	ack cabanier 
+2020-11-02 20:57:35	…	Zakim sees no one on the speaker queue
+2020-11-02 20:57:57	cwilso	Rik: we're also looking into providing a hand model for the Hands API.
+2020-11-02 20:58:21	cwilso	...we had some issues for the v3 model, because we had animations.  We might want to consider adding support for animated buttons.
+2020-11-02 20:58:57	cwilso	Ada: on to Hand Input.
+2020-11-02 21:00:04	cwilso	Lachlan: Hands is at FPWD.  People are using it in the wild; seem to like it, based on quick Twitter survey I did.  There are some issues I haven't been through yet, but need to get done.
+2020-11-02 21:00:22	cwilso	...will go through later
+2020-11-02 21:00:28	cwilso	...API does need TAG review.
+2020-11-02 21:01:08	cwilso	...spoke with Rossen (MS rep on TAG), addressed some issues.
+2020-11-02 21:01:18	ada	q+ to talk about tag review reqs
+2020-11-02 21:01:19	…	Zakim sees ada on the speaker queue
+2020-11-02 21:01:40	ada	ack ada 
+2020-11-02 21:01:40	Zakim	ada, you wanted to talk about tag review reqs
+2020-11-02 21:01:41	…	Zakim sees no one on the speaker queue
+2020-11-02 21:01:45	alexturn	q+
+2020-11-02 21:01:45	…	Zakim sees alexturn on the speaker queue
+2020-11-02 21:01:54	cabanier	q+
+2020-11-02 21:01:54	…	Zakim sees alexturn, cabanier on the speaker queue
+2020-11-02 21:01:59	ada	ack alexturn 
+2020-11-02 21:02:00	…	Zakim sees cabanier on the speaker queue
+2020-11-02 21:02:16	…	Manishearth Lachlan: i have some comments on grasp that i hope to post tonight
+2020-11-02 21:02:57	cwilso	Alex: we have a session on Thursday
+2020-11-02 21:03:13	yonet_	scribe: yonet
+2020-11-02 21:03:36	ada	q?
+2020-11-02 21:03:37	…	Zakim sees cabanier on the speaker queue
+2020-11-02 21:03:39	ada	ack cabanier 
+2020-11-02 21:03:39	…	Zakim sees no one on the speaker queue
+2020-11-02 21:03:48	yonet_	alexturn: Please join us thursday at 1pm PST for Hand input discussion
+2020-11-02 21:04:37	yonet_	cabanier: we shipped the hand and the feedback has been good. I am looking forward to the Thursday session. I wish we could ship non-experimental
+2020-11-02 21:04:46	◁	bajones (~bajones@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 21:05:05	…	Manishearth is excite for hands ð
+2020-11-02 21:05:16	yonet_	ada: the very last thing on the list is privacy and security repo but Travis is not here, is there anyone else working on the repo
+2020-11-02 21:06:33	yonet_	brandon: I don't think anyone else is working on the repo. We have been talking to the security group and we had good discussions. It would be nice if we can update the repo
+2020-11-02 21:07:37	yonet_	brandon: the arifacts are useful to have in the documentation. It is on us to make sure they are in the repo and implemented off of them.
+2020-11-02 21:07:44	yonet_	ada: anyone else?
+2020-11-02 21:08:20	yonet_	Ada: this has been the last topic. We have a long list of unconference topics which we will put in the agenda Wednesda, Thursday and Friday
+2020-11-02 21:08:58	yonet_	...there is no meetings tomorrow. The unconference topics we will have is acknowledgement, anchors, use cases for image tracking
+2020-11-02 21:09:30	yonet_	...depth sensing and module breakdown, dom overlay with hot spots and how it works with HDM
+2020-11-02 21:10:02	yonet_	...navigation, which is my favorite, performance improvement, if we need to archive the repo.
+2020-11-02 21:10:34	alexturn	q+
+2020-11-02 21:10:34	…	Zakim sees alexturn on the speaker queue
+2020-11-02 21:10:35	yonet_	...final one is required dependencies. What should be required for different modules
+2020-11-02 21:11:06	yonet_	...that is it for this evening. We will talk about XR accessibility documentation on Thursday.
+2020-11-02 21:11:33	ada	ack alexturn 
+2020-11-02 21:11:33	…	Zakim sees no one on the speaker queue
+2020-11-02 21:11:39	yonet_	...Does anybody else have anything else?
+2020-11-02 21:12:14	yonet_	alexturn: It is great that we have this time for unconference. How would we decide when we slide in this unconference things?
+2020-11-02 21:12:34	yonet_	ada: that's a good point. We can do doodle poll.
+2020-11-02 21:13:04	yonet_	alexturn: it might be hard to move things around, how can we do something similar to sticky notes exercise.
+2020-11-02 21:13:27	yonet_	ada: I am going to spin up a public document now so we can all do this now.
+2020-11-02 21:13:48	ada	https://docs.google.com/document/d/1yEzJx7ZioNZne531QmZ8TRZI01kS8sTif_W8PL8j1ls/edit?usp=sharing
+2020-11-02 21:14:04	yonet_	...this is the first time we have to do this without actually post-its. I've pasted the doc in the irc
+2020-11-02 21:14:38	yonet_	...I am going to start writing the headers, feel free to fill out the times that you are interested in.
+2020-11-02 21:15:51	yonet_	klausw: unless anyone object objects we can combine the DOM Overlay topics into layers topic.
+2020-11-02 21:16:26	yonet_	ada: everyone feel free to change the headers.
+2020-11-02 21:18:46	◁	Lachlan (~Lachlan@ef89345d.public.cloak) has quit (Ping timeout: 180 seconds)
+2020-11-02 21:21:26	yonet_	ada: I think the current description for AR, was it AR use cases?
+2020-11-02 21:22:06	yonet_	brandon: I think it was mobile vs headset and controllers vs no controllers.
+2020-11-02 21:23:18	yonet_	ada: people mark in the document, which particular sessions they would like to go to, it would be usefull
+2020-11-02 21:23:43	yonet_	...I am the only one that is signed for navigation
+2020-11-02 21:24:09	yonet_	alexturn: I want to go to all of them but I want to see others who are interested in the topics/
+2020-11-02 21:33:02	yonet_	ada: thank you so much for coming everyone, this was super productive, I hope to see you again on Wednesday. Bye.
+2020-11-02 21:34:16	yonet_	RRSAgent, make minutes
+2020-11-02 21:36:06	yonet_	RRSagent, make log public
+2020-11-02 21:36:44	yonet_	rrsagent, draft minutes
+2020-11-02 21:42:43	ada	shoot we did not invite the bot
+2020-11-02 21:43:06	ada	i log everything locally so i'll save out a copy
