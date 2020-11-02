@@ -42,10 +42,8 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
                                 <li>Deteched Elements (@grorg, @AdaRoseCannon)
                                 <li>Image/Face Tracking (@klausw)
                                 <li>WebXR Test API (@Manishearth, @alcooper91)
-                                <li>Privacy and Security (@johnpallett, @TTrevorFSmith)
+                                <li>Privacy and Security (@TTrevorFSmith)
                             </ul>
-                        <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
-                        <li>XR Accesibility (@Yonet) (45 minutes) <b>1:00 - 1:45 PM PST</b>
                     </ul>
                 </td>
                 <tr><td> Boston (U.S.A. - Massachusetts) <td> Monday, November 2, 2:00 - 5:00 PM EST
@@ -75,7 +73,9 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
                 <tr><td> San Francisco (U.S.A. - California) <td> Thursday, November 5, 10:00 AM - 2:00 PM PST 
                 <td rowspan="6">
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 1:00 PM PST</b>
+                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 12:00 PM PST</b>
+                        <li>XR Accesibility (@Yonet) (50 minutes) <b>12:00 - 12:50 PM PST</b>
+                        <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
                         <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(45 minutes) <b>1:00-1:45 PM PST</b>
                     </ul>
                 </td>
