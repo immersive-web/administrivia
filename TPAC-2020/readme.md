@@ -11,14 +11,24 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
 <table>
     <thead>
         <tr> 
-        <th> Location </th> 
-        <th> Date/Time </th> 
+        <th> Date, Time (PST) </th> 
+        <th> Time by locations </th> 
         <th> Agenda </th> </tr>
          </thead>
     <tbody>
             <tr>
-                <tr><td> San Francisco (U.S.A. - California) <td> Monday, November 2, 11:00 AM - 2PM PST 
-                <td rowspan="6">
+              <td>Day 1 (Monday, November 2)<br>11:00 AM - 2:00 PM (PST; 3 hours)</td>
+              <td>
+                <ul>
+                  <li>San Francisco (U.S.A. - California): 11:00 AM - 2:00 PM PST</li>
+                  <li>Boston (U.S.A. - Massachusetts): 2:00 - 5:00 PM EST</li>
+                  <li>London (United Kingdom - England): 7:00 - 10:00 PM GMT</li>
+                  <li>Paris (France): 8:00 - 11:00 PM GMT+1</li>
+                  <li>Tokyo (Japan): (Next day) 4:00 - 7:00 AM JST/GMT+9</li>
+                  <li>Corresponding UTC (GMT): 7:00 - 10:00 PM UTC</li>
+                </ul>
+              </td>
+              <td>
                     <ul>
                         <li>Incubations and Specs overviews (110 minutes)  <b>11:00 AM - 12:50PM PST</b>
                             <ul>
@@ -48,15 +58,24 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
                         <li>XR Accesibility (@Yonet) (45 minutes) <b>1:00 - 1:45 PM PST</b>
                     </ul>
                 </td>
-                <tr><td> Boston (U.S.A. - Massachusetts) <td> Monday, November 2, 2:00 - 5:00 PM EST
-                <tr><td> London (United Kingdom - England) <td> Monday, November 2, 7:00 - 10 PM GMT
-                <tr><td> Paris (France) <td> Monday, November 2, 8:00 - 11 PM GMT+1
-                <tr><td> Tokyo (Japan) <td> Tuesday, November 3, 4:00 - 7:00 AM GMT+9
-                <tr><td> Corresponding UTC (GMT) <td> Monday, November 2, 7:00 - 10 PM UTC
             </tr>
             <tr>
-                <tr><td> San Francisco (U.S.A. - California) <td> Wednesday, November 4, 8:00 AM - 12:00 PM PST
-                <td rowspan="6">
+              <td>Day 2 (Tuesday, November 3)</td>
+              <td colspan="2">Cancelled</td>
+            </tr>
+            <tr>
+              <td>Day 3 (Wednesday, November 4)<br>8:00 AM - 12:00 PM (PST; 4 hours)</td>
+              <td>
+                <ul>
+                  <li> San Francisco (U.S.A. - California): 8:00 AM - 12:00 PM PST</li>
+                  <li> Boston (U.S.A. - Massachusetts): 11:00 AM - 3:00 PM EST</li>
+                  <li> London (United Kingdom - England): 4:00 - 7:00 PM GMT</li>
+                  <li> Paris (France): 5:00 - 9:00 PM GMT+1</li>
+                  <li> Tokyo (Japan): (Next day) 1:00 - 5:00 AM JST/GMT+9</li>
+                  <li> Corresponding UTC (GMT): 4:00 - 8:00 PM UTC</li>
+                </ul>
+              </td>
+              <td>
                     <ul>
                         <li>Open for Unconference sessions, demos and lightining talks <b>8:00-9-30AM PST</b>
                         <li>Lighting Estimation (@toji) <b>9:30-10:00 AM PST</b>
@@ -65,38 +84,43 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
                         <li>WebXR WebGPU Binding (@toji) (45 minutes) <b>11:00-11:45 AM PST</b>
                     </ul>
                 </td>
-                <tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday, November 4, 11:00 AM - 3:00 PM EST
-                <tr><td> London (United Kingdom - England) <td> Wednesday, November 4, 4:00 - 7:00 PM GMT
-                <tr><td> Paris (France) <td> Wednesday, November 4, 5:00 - 9:00 PM GMT+1
-                <tr><td> Tokyo (Japan) <td> Thursday, November 5, 1:00 - 5:00 AM GMT+9
-                <tr><td> Corresponding UTC (GMT) <td> Wednesday, November 4, 4:00 - 8:00 PM UTC
             </tr>
             <tr>
-                <tr><td> San Francisco (U.S.A. - California) <td> Thursday, November 5, 10:00 AM - 2:00 PM PST 
-                <td rowspan="6">
+              <td>Day 4 (Thursday, November 5)<br>10:00 AM - 2:00 PM (PST; 4 hours)</td>
+              <td>
+                <ul>
+                  <li> San Francisco (U.S.A. - California): 10:00 AM - 2:00 PM PST </li>
+                  <li> Boston (U.S.A. - Massachusetts): 1:00 - 5:00 PM EST</li>
+                  <li> London (United Kingdom - England): 6:00 - 10:00 PM GMT</li>
+                  <li> Paris (France): 7:00 - 11:00 PM GMT+1</li>
+                  <li> Tokyo (Japan): (Next day) 3:00 - 7:00 AM JST/GMT+9</li>
+                  <li> Corresponding UTC (GMT): 6:00 - 10:00 PM UTC</li>
+                </ul>
+              </td>
+              <td>
                     <ul>
                         <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 1:00 PM PST</b>
                         <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(45 minutes) <b>1:00-1:45 PM PST</b>
                     </ul>
                 </td>
-                <tr><td> Boston (U.S.A. - Massachusetts) <td> Thursday, November 5, 1:00 PM EST
-                <tr><td> London (United Kingdom - England) <td> Thursday, November 5, 6:00 PM GMT
-                <tr><td> Paris (France) <td> Thursday, November 5, 7:00 PM GMT+1
-                <tr><td> Tokyo (Japan) <td> Friday, November 6, 3:00 AM GMT+9
-                <tr><td> Corresponding UTC (GMT) <td> Thursday, November 5, 6:00 PM UTC
             </tr>
-                        <tr>
-                <tr><td> San Francisco (U.S.A. - California) <td> Friday, November 6, 10:00 AM PST 
-                <td rowspan="6">
+            <tr>
+              <td>Day 5 (Friday, November 6)<br>10:00 AM - 2:00 PM (PST; 4 hours)</td>
+              <td>
+                <ul>
+                  <li> San Francisco (U.S.A. - California): 10:00 AM - 2:00 PM PST </li>
+                  <li> Boston (U.S.A. - Massachusetts): 1:00 - 5:00 PM EST</li>
+                  <li> London (United Kingdom - England): 6:00 - 10:00 PM GMT</li>
+                  <li> Paris (France): 7:00 - 11:00 PM GMT+1</li>
+                  <li> Tokyo (Japan): (Next day) 3:00 - 7:00 AM JST/GMT+9</li>
+                  <li> Corresponding UTC (GMT): 6:00 - 10:00 PM UTC</li>
+                </ul>
+              </td>
+              <td>
                     <ul>
                         <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 2:00 PM PST</b>
                     </ul>
                 </td>
-                <tr><td> Boston (U.S.A. - Massachusetts) <td> Friday, November 6, 1:00 PM EST
-                <tr><td> London (United Kingdom - England) <td> Friday, November 6, 6:00 PM GMT
-                <tr><td> Paris (France) <td> Friday, November 6, 7:00 PM GMT+1
-                <tr><td> Tokyo (Japan) <td> Saturday, November 7, 3:00 AM GMT+9
-                <tr><td> Corresponding UTC (GMT) <td> Friday, November 6, 6:00 PM UTC
             </tr>
 
  </tbody>
