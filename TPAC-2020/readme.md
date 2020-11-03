@@ -4,7 +4,8 @@ Check out our [Code of Conduct](https://www.w3.org/Consortium/cepc/) for positiv
 
 ### IRC Notes/Back Channel
 
-IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
+- IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
+- [Zoom meeting invite email](https://lists.w3.org/Archives/Public/public-immersive-web-wg/2020Oct/0006.html)
 
 ### TPAC Schedule
 
