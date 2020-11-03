@@ -75,11 +75,12 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
               </td>
               <td>
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks <b>8:00-9-30AM PST</b>
-                        <li>Lighting Estimation (@toji) <b>9:30-10:00 AM PST</b>
-                        <li>Layers (@cabanier)  <b>10-10:45 AM PST</b>
-                        <li>Break (15 minutes) <b>10:45-11:00 AM PST</b>
-                        <li>WebXR WebGPU Binding (@toji) (45 minutes) <b>11:00-11:45 AM PST</b>
+                        <li>Spatial Capture (Ben Erwin?) (60 minutes)<b>8:00 - 9:00 AM PST</b>
+                        <li>Acknowledgements (20 minutes)<b>9:00 - 9:20 AM PST</b>
+                        <li>Break (10 minutes) <b>9:20 - 9:30 AM PST</b>
+                        <li>Lighting Estimation (@toji) (30 minutes) <b>9:30 - 10:00 AM PST</b>
+                        <li>Break (15 minutes) <b>10:00 - 10:15 AM PST</b>
+                        <li>Layers + Dom Overlay Hotspots in Head Mounted  & Dom Overlay(@cabanier, @klausw)  <b>10:15 - 12:00 PM PST</b>
                     </ul>
                 </td>
             </tr>
@@ -97,10 +98,15 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
               </td>
               <td>
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 12:00 PM PST</b>
-                        <li>XR Accesibility (@Yonet) (30 minutes) <b>12:20 - 12:50 PM PST</b>
+                        <li>Navigation (@toji, @manish, @cabanier) (35 Minutes)  <b>10:00 - 10:35 AM PST</b>
+                        <li>Break (5 minutes) <b>10:35 - 10:40 AM PST</b>  
+                        <li>Required Dependencies. Example: Should Hit Test be made part of the AR module? (@toji, @klausw) (45 minutes)  <b>10:40 - 11:25 AM PST</b>
+                        <li>Break (5 minutes) <b>11:25 - 11:30 AM PST</b>
+                        <li>WebXR WebGPU Binding (@toji) (45 minutes)  <b>11:30 AM - 12:15 PM PST</b>
+                        <li>Break (5 minutes) <b>12:15 - 12:20 PM PST</b>
+                        <li>XR Accesibility (@Manish, @Yonet) (30 minutes) <b>12:20 - 12:50 PM PST</b>
                         <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
-                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(45 minutes) <b>1:00-1:45 PM PST</b>
+                        <li>WebXR Hand Input (@Manishearth, @fordacious, @thetuvix)(60 minutes) <b>1:00 - 2:00 PM PST</b>
                     </ul>
                 </td>
             </tr>
@@ -118,7 +124,15 @@ IRC: [irc.w3.org](http://irc.w3.org/?channels=#immersive-web) #immersive-web [In
               </td>
               <td>
                     <ul>
-                        <li>Open for Unconference sessions, demos and lightining talks <b>10:00 AM - 2:00 PM PST</b>
+                        <li>Performance Improvements (@toji, @manish, @cabanier) (35 Minutes)  <b>10:00 - 10:35 AM PST</b>
+                        <li>Break (5 minutes) <b>10:35 - 10:40 AM PST</b>  
+                        <li>Anchors (@bialpio, @fordacious) (45 minutes)  <b>10:40 - 11:25 AM PST</b>
+                        <li>Break (5 minutes) <b>11:25 - 11:30 AM PST</b>
+                        <li>RWG + Depth Sensing, Module Breakdown (@toji) (45 minutes)  <b>11:30 AM - 12:15 PM PST</b>
+                        <li>Break (5 minutes) <b>12:15 - 12:20 PM PST</b>
+                        <li>Marker/Image Tracking (@klausw) (40 minutes) <b>12:20 - 1:00 PM PST</b>
+                        <li>Break (10 minutes) <b>1:00 - 1:10 PM PST</b>
+                        <li>AR Use Cases (50 minutes) <b>1:10 - 2:00 PM PST</b>
                     </ul>
                 </td>
             </tr>
