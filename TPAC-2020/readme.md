@@ -79,7 +79,7 @@ Check out our [Code of Conduct](https://www.w3.org/Consortium/cepc/) for positiv
                         <li>Spatial Capture (Ben Erwin?) (60 minutes)<b>8:00 - 9:00 AM PST</b>
                         <li>Acknowledgements (20 minutes)<b>9:00 - 9:20 AM PST</b>
                         <li>Break (10 minutes) <b>9:20 - 9:30 AM PST</b>
-                        <li>Lighting Estimation (@toji) (30 minutes) <b>9:30 - 10:00 AM PST</b>
+                        <li>Lighting Estimation (@toji) (30 minutes, <a href="https://docs.google.com/presentation/d/1kvmA6YGWhE6bwoCa9OYNxIJ_skA_pYFAHrkKJPRQglw/edit?usp=sharing">Slides</a>) <b>9:30 - 10:00 AM PST</b>
                         <li>Break (15 minutes) <b>10:00 - 10:15 AM PST</b>
                         <li>Layers + Dom Overlay Hotspots in Head Mounted  & Dom Overlay(@cabanier, @klausw)  <b>10:15 - 12:00 PM PST</b>
                     </ul>
