@@ -103,7 +103,7 @@ Check out our [Code of Conduct](https://www.w3.org/Consortium/cepc/) for positiv
                         <li>Break (5 minutes) <b>10:35 - 10:40 AM PST</b>  
                         <li>Required Dependencies. Example: Should Hit Test be made part of the AR module? (@toji, @klausw) (45 minutes)  <b>10:40 - 11:25 AM PST</b>
                         <li>Break (5 minutes) <b>11:25 - 11:30 AM PST</b>
-                        <li>WebXR WebGPU Binding (@toji) (45 minutes)  <b>11:30 AM - 12:15 PM PST</b>
+                        <li>WebXR WebGPU Binding (@toji) (45 minutes, <a href="https://docs.google.com/presentation/d/17_YzJAavUluGFNBOY8-N2itdaV02cCQhu7iBoOx00E4/edit?usp=sharing">Slides</a>)  <b>11:30 AM - 12:15 PM PST</b>
                         <li>Break (5 minutes) <b>12:15 - 12:20 PM PST</b>
                         <li>XR Accesibility (@Manish, @Yonet) (30 minutes) <b>12:20 - 12:50 PM PST</b>
                         <li>Break (10 minutes) <b>12:50 - 1:00 PM PST</b>
