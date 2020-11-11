@@ -1,6 +1,6 @@
 ### Call Agenda
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/cg/2020-11-10-Immersive_Web_Community_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/cg/2020-11-10-Immersive_Web_Community_Group_Teleconference-agenda.md). [Minutes](https://www.w3.org/2020/11/10-immersive-web-minutes.html) are available from irc scribe.
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
