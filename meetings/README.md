@@ -26,3 +26,15 @@ for [WG](./wg) and [CG](./cg).
 * [Zakim IRC bot](https://www.w3.org/2001/12/zakim-irc-bot.html)
 * [World clock meeting planner](http://www.timeanddate.com/worldclock/meeting.html)
 
+## TPAC or Face 2 Face meetings
+
+Checklist for organizing TPAC or face 2 face meetings, in person or online:
+
+* -60 days before the event, reach other W3C groups like Accessibility or WebGPU to see if there is interest for a common session for TPAC. 
+* -45 create a doodle poll for times attendees prefer to meet. 
+* -30 share calendar invites for online or in person sessions with the decided date, so people can mark their calendar.
+* -15 days schedule an unconferencing meeting and have time for attendies to fill out the form for sessions, suggesting or requesting a session. 
+* -7 days, share the detailed session schedules.
+* Add more breaks, lunch break maybe or to stay and chat.
+
+
