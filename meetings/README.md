@@ -37,4 +37,4 @@ Checklist for organizing TPAC or face 2 face meetings, in person or online:
 * -7 days, share the detailed session schedules.
 * Add more breaks, lunch break maybe or to stay and chat.
 
-
+For more information check out [W3C Process Guidelines on meetings](https://www.w3.org/2020/Process-20200915/#GeneralMeetings).
