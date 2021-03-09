@@ -19,19 +19,21 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 ### Immersive Web Working Group Teleconference - 2021-03-16
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, March 16, 12:00 AM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, March 16, 3:00 AM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, 16 March, 07:00 GMT
-<tr><td> Paris (France) <td> Tuesday, 16 March, 08:00 CET
-<tr><td> Tokyo (Japan) <td> Tuesday, 16 March, 16:00 GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, 16 March, 07:00 UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, March 9, 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, March 9, 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> Tuesday, 9 March, 19:00 GMT
+<tr><td> Paris (France) <td> Tuesday, 9 March, 20:00 CET
+<tr><td> Tokyo (Japan) <td> Tuesday, 10 March, 00:00 GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, 9 March, 19:00 UTC
 </table>
 
 ### Logistics
 
 Chair: Ada Rose Cannon
 
-Scribe:
+Scribe: Jeff Gilbert
+
+Minutes: https://www.w3.org/2021/03/09-immersive-web-minutes.html
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
 
