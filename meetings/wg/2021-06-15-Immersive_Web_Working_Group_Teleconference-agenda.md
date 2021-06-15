@@ -9,6 +9,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [administrivia#157 Solve A11y as a group](https://github.com/immersive-web/administrivia/issues/157) - AdaRoseCannon
 > This is the big ticket item that may take most/all of the meeting since it is one of the big blockers for moving WebXR into CR, we need to help Brandon write the a11y doc. There is lots of context spread around that needs to be gathered together. This will be a group drafting activity to bring a document mostly together. 
 
+Here is the document we will colaboratively edit: https://docs.google.com/document/d/1U-SuIGtQtqobdOyoc218CnJKqxuoimhpIGjGyx7fQg4/edit?usp=sharing
+
+Feel free to drop in notes before the meeting. If there is an issue with using a Google doc please tell me and we can swap to anotehr collaborartive editing tool. 
+
 If there is time, these may have to get pushed back to the next meeting, sorry Rik.
 
 * [navigation#3 Next steps for Navigation](https://github.com/immersive-web/navigation/issues/3) [requested by cabanier](https://github.com/immersive-web/navigation/issues/3#issuecomment-831586081)
