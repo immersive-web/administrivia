@@ -6,8 +6,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [webxr#1211 Predicted Display/Vsync Timestamp](https://github.com/immersive-web/webxr/issues/1211) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/1211#issuecomment-887744821)
 > To discuss this at the next meeting
->
->@Squareys would you be willing to drive the discussion for this? @AdaRoseCannon can send you an invite for the meeting. Otherwise I guess Rik or Brandon can drive this.
 
 ### Immersive Web Working Group Teleconference - 2021-08-17
 
