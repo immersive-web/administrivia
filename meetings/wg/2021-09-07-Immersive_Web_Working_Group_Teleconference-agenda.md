@@ -7,9 +7,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [marker-tracking#5 Marker / image tracking spec status](https://github.com/immersive-web/marker-tracking/issues/5) [requested by klausw](https://github.com/immersive-web/marker-tracking/issues/5#issuecomment-905043142)
 > to discuss draft image tracking specification
 
-* [webxr#1207 XRFrame attributes for an inactive frame](https://github.com/immersive-web/webxr/issues/1207) [requested by Manishearth](https://github.com/immersive-web/webxr/issues/1207#issuecomment-896231054)
-> to figure out what to do here
-
 * [webxr#1219 Finalise accessibility-considerations-explainer.md](https://github.com/immersive-web/webxr/issues/1219) - AdaRoseCannon
 > /agenda The `accessibility-considerations-explainer.md` is very close to being complete it would be great to go through as a group to finish this off.
 
