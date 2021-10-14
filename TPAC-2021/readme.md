@@ -1,3 +1,19 @@
+For more info on TPAC: https://www.w3.org/2021/10/TPAC/
+
+## Group Sessions October 14-15th
+
+See [Day 1](https://www.w3.org/events/meetings/9fef5ab9-5d2f-4e08-a74e-5b037109695f) and [Day 2](https://www.w3.org/events/meetings/b5b00cb7-98e5-4ae2-9df2-ba04b9f2650f) calendar for meeting instructions.
+IRC: irc.w3.org:6667 #immersive-web Instructions
+
+Call Details can be found on the Internal Mailing List
+
+If you are unable to login to view the call details please ask on the IRC before the call.
+
+For assistance go to https://mit.webex.com/mit/mc and on the left navigation bar, click "Support".
+
+### Agenda
+
+
 | Title                                                                              	| Date                         	| Length 	| Link                                                           	| Repo                 	| Rockets 	|
 |------------------------------------------------------------------------------------	|------------------------------	|--------	|----------------------------------------------------------------	|----------------------	|---------	|
 | Solve a11y 4eva (Cover some new work and polish document)                          	| October 14, 2021 9:30-9:55   	| 30     	|                                                                	| administrivia        	| 2 🚀     	|
@@ -26,3 +42,10 @@
 | Review WebGPU API design at TPAC                                                   	| October 15, 2021 13:15-13:40 	| 25     	| https://github.com/immersive-web/WebXR-WebGPU-Binding/issues/3 	| WebXR-WebGPU-Binding 	| 3 🚀     	|
 | A feature that toggle stereo on runtime.                                           	| October 15, 2021 13:40-14:00 	| 20     	| https://github.com/immersive-web/layers/issues/265             	| layers               	| 1 🚀     	|
 | Discussion with OGC Geo Pose Standard Working Group                                	| October 15, 2021 14:00-14:10 	| 10     	| https://github.com/immersive-web/geo-alignment/issues/8        	| geo-alignment        	| 2 🚀     	|
+
+
+## Joint Group Meetings
+
+[OGC GeoPose SWG & IW meeting](https://www.w3.org/events/meetings/2e719bc5-d003-4de3-ae3c-d525b0994123) October 29th, 2021
+
+
