@@ -13,12 +13,15 @@ For assistance, go to http://support.zoom.us/ and click blue icon at right botto
 
 ### Agenda
 
-[Day 1 table](#agenda_day1) and [Day 2 table](#agenda_day2)
+* [Day 1 table](#agenda-day1), [minutes](https://www.w3.org/2021/10/14-immersive-web-minutes.html)
+* [Day 2 table](#agenda-day2), [minutes](https://www.w3.org/2021/10/15-immersive-web-minutes.html)
+
+Time in San Francisco (UTC -7)
 
 #### Agenda day1
 
 
-| Title                                                                              	| Date                         	| Length 	| Link                                                           	| Repo                 	| Rockets 	|
+| Title                                                                              	| Time                         	| Length 	| Link                                                           	| Repo                 	| Rockets 	|
 |------------------------------------------------------------------------------------	|------------------------------	|--------	|----------------------------------------------------------------	|----------------------	|---------	|
 | Solve a11y 4eva (Cover some new work and polish document)                          	| 9:30-9:55   	| 30     	|                                                                	| administrivia        	| 2 🚀     	|
 | Charter progress update and Charter 3:The Chartering                               	| 10:00-10:25 	| 25     	| [administrivia #166](https://github.com/immersive-web/administrivia/issues/166)      	| administrivia        	| 1 🚀     	|
@@ -39,18 +42,18 @@ For assistance, go to http://support.zoom.us/ and click blue icon at right botto
 
 | Title                                                                              	| Date                         	| Length 	| Link                                                           	| Repo                 	| Rockets 	|
 |------------------------------------------------------------------------------------	|------------------------------	|--------	|----------------------------------------------------------------	|----------------------	|---------	|
-| New proposal ideas?                                                                	| 10:00-10:30 	| 30     	| https://github.com/immersive-web/proposals/issues/70           	| proposals            	| 2 🚀     	|
-| Potential AR feature - point clouds                                                	| 10:30-10:50 	| 20     	| https://github.com/immersive-web/proposals/issues/71           	| proposals            	| 0 🚀     	|
+| New proposal ideas?                                                                	| 10:00-10:30 	| 30     	| [proposals #70](https://github.com/immersive-web/proposals/issues/70)           	| proposals            	| 2 🚀     	|
+| Potential AR feature - point clouds                                                	| 10:30-10:50 	| 20     	| [proposals #71](https://github.com/immersive-web/proposals/issues/71)           	| proposals            	| 0 🚀     	|
 | Break                                                                              	| 10:50-11:00 	|        	|                                                                	|                      	|         	|
-| Allow dynamic frame timing                                                         	| 11:00-11:25 	| 25     	| https://github.com/immersive-web/webxr/issues/1233             	| webxr                	| 1 🚀     	|
-| Feasibility and desirability of persisting anchors                                 	| 11:25-11:50 	| 25     	| https://github.com/immersive-web/anchors/issues/69             	| anchors              	| 2 🚀     	|
+| Allow dynamic frame timing                                                         	| 11:00-11:25 	| 25     	| [webxr #1233](https://github.com/immersive-web/webxr/issues/1233)             	| webxr                	| 1 🚀     	|
+| Feasibility and desirability of persisting anchors                                 	| 11:25-11:50 	| 25     	| [anchors #69](https://github.com/immersive-web/anchors/issues/69)             	| anchors              	| 2 🚀     	|
 | Break                                                                              	| 11:50-12:00 	|        	|                                                                	|                      	|         	|
-| TPAC Discussion: HTMLModelElement                                                  	| 12:00-12:45 	| 45     	| https://github.com/immersive-web/proposals/issues/69           	| proposals            	| 4 🚀     	|
+| TPAC Discussion: HTMLModelElement                                                  	| 12:00-12:45 	| 45     	| [proposals #69](https://github.com/immersive-web/proposals/issues/69)           	| proposals            	| 4 🚀     	|
 | Break                                                                              	| 12:45-12:55 	| 10     	|                                                                	|                      	|         	|
-| Provide statistics to help guide performance                                       	| 12:55-13:15 	| 20     	| https://github.com/immersive-web/webxr/issues/1203             	| webxr                	| 1 🚀     	|
-| Review WebGPU API design at TPAC                                                   	| 13:15-13:40 	| 25     	| https://github.com/immersive-web/WebXR-WebGPU-Binding/issues/3 	| WebXR-WebGPU-Binding 	| 3 🚀     	|
-| A feature that toggle stereo on runtime.                                           	| 13:40-14:00 	| 20     	| https://github.com/immersive-web/layers/issues/265             	| layers               	| 1 🚀     	|
-| Discussion with OGC Geo Pose Standard Working Group                                	| 14:00-14:10 	| 10     	| https://github.com/immersive-web/geo-alignment/issues/8        	| geo-alignment        	| 2 🚀     	|
+| Provide statistics to help guide performance                                       	| 12:55-13:15 	| 20     	| [webxr #1203](https://github.com/immersive-web/webxr/issues/1203)             	| webxr                	| 1 🚀     	|
+| Review WebGPU API design at TPAC                                                   	| 13:15-13:40 	| 25     	| [WebXR-WebGPU-Binding #3](https://github.com/immersive-web/WebXR-WebGPU-Binding/issues/3) 	| WebXR-WebGPU-Binding 	| 3 🚀     	|
+| A feature that toggle stereo on runtime.                                           	| 13:40-14:00 	| 20     	| [layers #265](https://github.com/immersive-web/layers/issues/265)             	| layers               	| 1 🚀     	|
+| Discussion with OGC Geo Pose Standard Working Group                                	| 14:00-14:10 	| 10     	| [geo-alignment #8](https://github.com/immersive-web/geo-alignment/issues/8)        	| geo-alignment        	| 2 🚀     	|
 
 
 ## Joint Group Meetings
