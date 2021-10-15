@@ -16,6 +16,8 @@ For assistance, go to http://support.zoom.us/ and click blue icon at right botto
 * [Day 1 table](#agenda-day1), [minutes](https://www.w3.org/2021/10/14-immersive-web-minutes.html)
 * [Day 2 table](#agenda-day2), [minutes](https://www.w3.org/2021/10/15-immersive-web-minutes.html)
 
+minutes will be available once call ends.
+
 Time in San Francisco (UTC -7)
 
 #### Agenda day1
