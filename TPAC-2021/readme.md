@@ -13,6 +13,11 @@ For assistance go to https://mit.webex.com/mit/mc and on the left navigation bar
 
 ### Agenda
 
+Additional materials
+
+* [Expose a way to query a session about the supported features - need to reconsider? - webxr #1205 (Day1 #09)](slide-day1-09.pdf)
+* [Projection matrices differ between WebGL and WebGPU - webxr #894 (Day1 #10)](slide-day1-10.pdf)
+
 
 | Title                                                                              	| Date                         	| Length 	| Link                                                           	| Repo                 	| Rockets 	|
 |------------------------------------------------------------------------------------	|------------------------------	|--------	|----------------------------------------------------------------	|----------------------	|---------	|
