@@ -2,7 +2,8 @@ For more info on TPAC: https://www.w3.org/2021/10/TPAC/
 
 ## Group Sessions October 14-15th
 
-See [Day 1](https://www.w3.org/events/meetings/9fef5ab9-5d2f-4e08-a74e-5b037109695f) and [Day 2](https://www.w3.org/events/meetings/b5b00cb7-98e5-4ae2-9df2-ba04b9f2650f) calendar for meeting instructions.
+See [Day 1](https://www.w3.org/events/meetings/9fef5ab9-5d2f-4e08-a74e-5b037109695f) and [Day 2](https://www.w3.org/events/meetings/b5b00cb7-98e5-4ae2-9df2-ba04b9f2650f) calendar for meeting instructions. [Day 1](https://www.w3.org/2021/10/14-immersive-web-minutes.html) and [day 2 minutes](https://www.w3.org/2021/10/15-immersive-web-minutes.html)  are available through Scribe.
+
 IRC: irc.w3.org:6667 #immersive-web Instructions
 
 Call Details can be found on the Internal Mailing List
