@@ -2,7 +2,8 @@ For more info on TPAC: https://www.w3.org/2021/10/TPAC/
 
 ## Group Sessions October 14-15th
 
-See [Day 1](https://www.w3.org/events/meetings/9fef5ab9-5d2f-4e08-a74e-5b037109695f) and [Day 2](https://www.w3.org/events/meetings/b5b00cb7-98e5-4ae2-9df2-ba04b9f2650f) calendar for meeting instructions.
+See [Day 1](https://www.w3.org/events/meetings/9fef5ab9-5d2f-4e08-a74e-5b037109695f) and [Day 2](https://www.w3.org/events/meetings/b5b00cb7-98e5-4ae2-9df2-ba04b9f2650f) calendar for meeting instructions. [Day 1](https://www.w3.org/2021/10/14-immersive-web-minutes.html) and [day 2 minutes](https://www.w3.org/2021/10/15-immersive-web-minutes.html)  are available through Scribe.
+
 IRC: irc.w3.org:6667 #immersive-web Instructions
 
 Call Details can be found on the Internal Mailing List
@@ -16,9 +17,12 @@ For assistance, go to http://support.zoom.us/ and click blue icon at right botto
 * [Day 1 table](#agenda-day1), [minutes](https://www.w3.org/2021/10/14-immersive-web-minutes.html)
 * [Day 2 table](#agenda-day2), [minutes](https://www.w3.org/2021/10/15-immersive-web-minutes.html)
 
-minutes will be available once call ends.
-
 Time in San Francisco (UTC -7)
+
+Additional materials
+
+* [Expose a way to query a session about the supported features - need to reconsider? - webxr #1205 (Day1 #09)](slide-day1-09.pdf)
+* [Projection matrices differ between WebGL and WebGPU - webxr #894 (Day1 #10)](slide-day1-10.pdf)
 
 #### Agenda day1
 
