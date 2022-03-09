@@ -1,7 +1,9 @@
 # Dates
 
 April 21-22nd, 2022 (Thursday and Friday)</br>
-[Calendar link](https://www.w3.org/events/meetings/49c83780-eb0d-4d0a-a619-4d8f0637f7dd)
+[Calendar link](https://www.w3.org/events/meetings/49c83780-eb0d-4d0a-a619-4d8f0637f7dd)</br>
+
+Please rsvp here if you are planning to join in person: https://forms.gle/LdHiXJLUqDBXHZjS6
 
 # Location Information
 
