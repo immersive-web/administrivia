@@ -1,6 +1,7 @@
 # Dates
 
-April 21-22nd, 2022 (Thursday and Friday)</br>
+- April 20th, 2022 [WebXR San Francisco Meetup](https://www.meetup.com/Web-VR/events/285074729/)
+- April 21-22nd, 2022 (Thursday and Friday)</br>
 [Calendar link](https://www.w3.org/events/meetings/49c83780-eb0d-4d0a-a619-4d8f0637f7dd)</br>
 
 ### If you are planning to join in person
