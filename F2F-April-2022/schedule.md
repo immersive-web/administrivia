@@ -16,8 +16,8 @@
 | 10:45 AM |                                      | 10:45 AM | Implementation Report           |
 | 11:00 AM | Successes                            | 11:00 AM |                                 |
 | 11:15 AM |                                      | 11:15 AM | XRWebGLLayer                    |
-| 11:30 AM | Marker tracking                      | 11:30 AM | Navigation                      |
-| 11:45 AM |                                      | 11:45 AM |                                 |
+| 11:30 AM | Break                                | 11:30 AM | Navigation                      |
+| 11:45 AM | Raw camera access API                | 11:45 AM |                                 |
 | 12:00 PM |                                      | 12:00 PM |                                 |
 | 12:15 PM |                                      | 12:15 PM |                                 |
 | 12:30 PM | Lunch                                | 12:30 PM | Lunch                           |
@@ -31,9 +31,9 @@
 | 2:30 PM  | Does WebXR need a permission prompt? | 2:30 PM  |                                 |
 | 2:45 PM  |                                      | 2:45 PM  | DOM Layer                       |
 | 3:00 PM  | Break                                | 3:00 PM  |                                 |
-| 3:15 PM  | Raw Camera Access API                | 3:15 PM  | Webview in WebXR session        |
+| 3:15 PM  | Scent based peripherals              | 3:15 PM  | Webview in WebXR session        |
 | 3:30 PM  |                                      | 3:30 PM  |                                 |
-| 3:45 PM  | Scent based peripherals              | 3:45 PM  | UA projection layers            |
+| 3:45 PM  | Marker tracking                      | 3:45 PM  | UA projection layers            |
 | 4:00 PM  |                                      | 4:00 PM  |                                 |
 | 4:15 PM  |                                      | 4:15 PM  |                                 |
 | 4:30 PM  | Unconference Topics                  | 4:30 PM  | Unconference Topics             |
