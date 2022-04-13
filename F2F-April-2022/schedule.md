@@ -40,6 +40,8 @@
 | 4:45 PM  |                                      | 4:45 PM  |                                 |
 | 5:00 PM  |                                      | 5:00 PM  |
 
+![Color coded schedule](https://github.com/immersive-web/administrivia/blob/main/F2F-April-2022/f2fApril22Schedule.png)
+
 ## If you are planning to join in person
 
 1. Please rsvp here : https://forms.gle/LdHiXJLUqDBXHZjS6
