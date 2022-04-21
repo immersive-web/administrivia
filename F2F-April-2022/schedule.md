@@ -10,30 +10,30 @@
 
 | Thursday |                                      | Friday   |                                 |
 | -------- | ------------------------------------ | -------- | ------------------------------- |
-| 10:00 AM | Meet and greet/unconference          | 10:00 AM | Inline AR                       |
-| 10:15 AM |                                      | 10:15 AM | Are 8-bit outputs sRGB encoded? |
+| 10:00 AM | Meet and greet/unconference          | 10:00 AM | [Inline AR](https://github.com/immersive-web/webxr-ar-module/issues/77)                      |
+| 10:15 AM |                                      | 10:15 AM | [Are 8-bit outputs sRGB encoded?](https://github.com/immersive-web/webxr/issues/988) |
 | 10:30 AM | Metaverse Workshop - Dom             | 10:30 AM |                                 |
-| 10:45 AM |                                      | 10:45 AM | Implementation Report           |
+| 10:45 AM |                                      | 10:45 AM | [Implementation Report](https://github.com/immersive-web/webxr/issues/1275)           |
 | 11:00 AM | Successes                            | 11:00 AM |                                 |
-| 11:15 AM |                                      | 11:15 AM | XRWebGLLayer                    |
-| 11:30 AM | Break                                | 11:30 AM | Navigation                      |
+| 11:15 AM |                                      | 11:15 AM | [XRWebGLLayer](https://github.com/immersive-web/webxr/issues/1272)                    |
+| 11:30 AM | Break                                | 11:30 AM | [Navigation](https://github.com/immersive-web/navigation/issues/13)                   |
 | 11:45 AM | Raw camera access API                | 11:45 AM |                                 |
-| 12:00 PM |                                      | 12:00 PM | Persistant Anchors              |
+| 12:00 PM |                                      | 12:00 PM | [Persistant Anchors](https://github.com/immersive-web/anchors/issues/71)             |
 | 12:15 PM |                                      | 12:15 PM |                                 |
 | 12:30 PM | Lunch                                | 12:30 PM | Lunch                           |
 | 12:45 PM |                                      | 12:45 PM |                                 |
 | 1:00 PM  |                                      | 1:00 PM  |                                 |
-| 1:15 PM  | Depth Sensing & Occlusion            | 1:15 PM  | Model-element                   |
+| 1:15 PM  | Depth Sensing & Occlusion            | 1:15 PM  | [Model-element](https://github.com/immersive-web/model-element/issues/2)                  |
 | 1:30 PM  |                                      | 1:30 PM  |                                 |
 | 1:45 PM  |                                      | 1:45 PM  |                                 |
 | 2:00 PM  | Lower Friction to Enter              | 2:00 PM  |                                 |
 | 2:15 PM  |                                      | 2:15 PM  | Break                           |
 | 2:30 PM  | Does WebXR need a permission prompt? | 2:30 PM  |                                 |
-| 2:45 PM  |                                      | 2:45 PM  | DOM Layer                       |
+| 2:45 PM  |                                      | 2:45 PM  | [DOM Layer](https://github.com/immersive-web/layers/issues/280)                       |
 | 3:00 PM  | Break                                | 3:00 PM  |                                 |
-| 3:15 PM  | Scent based peripherals              | 3:15 PM  | Webview in WebXR session        |
+| 3:15 PM  | Scent based peripherals              | 3:15 PM  | [Webview in WebXR session](https://github.com/immersive-web/administrivia/issues/185)        |
 | 3:30 PM  |                                      | 3:30 PM  |                                 |
-| 3:45 PM  | Marker tracking                      | 3:45 PM  | UA projection layers            |
+| 3:45 PM  | Marker tracking                      | 3:45 PM  | [UA projection layers](https://github.com/immersive-web/proposals/issues/75)            |
 | 4:00 PM  |                                      | 4:00 PM  |                                 |
 | 4:15 PM  |                                      | 4:15 PM  |                                 |
 | 4:30 PM  | Unconference Topics                  | 4:30 PM  |[Space warp support](https://github.com/immersive-web/layers/issues/272) |
