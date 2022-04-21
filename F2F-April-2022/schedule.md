@@ -18,7 +18,7 @@
 | 11:15 AM |                                      | 11:15 AM | XRWebGLLayer                    |
 | 11:30 AM | Break                                | 11:30 AM | Navigation                      |
 | 11:45 AM | Raw camera access API                | 11:45 AM |                                 |
-| 12:00 PM |                                      | 12:00 PM |                                 |
+| 12:00 PM |                                      | 12:00 PM | Persistant Anchors              |
 | 12:15 PM |                                      | 12:15 PM |                                 |
 | 12:30 PM | Lunch                                | 12:30 PM | Lunch                           |
 | 12:45 PM |                                      | 12:45 PM |                                 |
