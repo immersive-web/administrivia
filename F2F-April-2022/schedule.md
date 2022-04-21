@@ -36,7 +36,7 @@
 | 3:45 PM  | Marker tracking                      | 3:45 PM  | UA projection layers            |
 | 4:00 PM  |                                      | 4:00 PM  |                                 |
 | 4:15 PM  |                                      | 4:15 PM  |                                 |
-| 4:30 PM  | Unconference Topics                  | 4:30 PM  |[Space wrap support](https://github.com/immersive-web/layers/issues/272) |
+| 4:30 PM  | Unconference Topics                  | 4:30 PM  |[Space warp support](https://github.com/immersive-web/layers/issues/272) |
 | 4:45 PM  |                                      | 4:45 PM  |Unconference Topics              |
 | 5:00 PM  |                                      | 5:00 PM  |
 
