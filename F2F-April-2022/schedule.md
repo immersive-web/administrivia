@@ -6,6 +6,7 @@
 
 ## Schedule
 
+[Day 1](https://www.w3.org/2022/04/21-immersive-web-minutes.html) & [Day 2](https://www.w3.org/2022/04/22-immersive-web-minutes.html) minutes are available through scribe.
 
 
 | Thursday |                                      | Friday   |                                 |
