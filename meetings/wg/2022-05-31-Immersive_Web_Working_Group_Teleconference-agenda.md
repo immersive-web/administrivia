@@ -10,12 +10,12 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 ### Immersive Web Working Group Teleconference - 2022-05-31
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Wednesday, June 8, 12:00 PM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday, June 8, 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Wednesday, June 8, 8:00 PM GMT+1
-<tr><td> Paris (France) <td> Wednesday, June 8, 9:00 PM GMT+2
-<tr><td> Tokyo (Japan) <td> Thursday, June 9, 4:00 AM GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Wednesday, June 8, 7:00 PM UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, May 31, 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, May 31, 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> May, May 31, 8:00 PM GMT+1
+<tr><td> Paris (France) <td> Tuesday, May 31, 9:00 PM GMT+2
+<tr><td> Tokyo (Japan) <td> Wednesday, June 1, 4:00 AM GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, May 31, 7:00 PM UTC
 </table>
 
 ### Logistics
