@@ -4,9 +4,11 @@
 - April 21-22nd, 2022 (Thursday and Friday)</br>
 [Calendar link](https://www.w3.org/events/meetings/49c83780-eb0d-4d0a-a619-4d8f0637f7dd)</br>
 
-## Schedule
+## Minutes
 
 [Day 1](https://www.w3.org/2022/04/21-immersive-web-minutes.html) & [Day 2](https://www.w3.org/2022/04/22-immersive-web-minutes.html) minutes are available through scribe.
+
+## Schedule
 
 
 | Thursday |                                      | Friday   |                                 |
