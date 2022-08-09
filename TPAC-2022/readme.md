@@ -2,7 +2,7 @@ For more info on TPAC: https://www.w3.org/2022/09/TPAC/
 
 ## Group Sessions September 12-16th
 
-Please mark your calendar for the meeting dates and remember to tag the issues you would like to discuss with "TPAC".
+Please mark your calendar for the meeting dates and remember to tag the issues you would like to discuss with /TPAC and file new issues if there aren't any. You can see the [current tagged TPAC issues](https://issues-by-label.glitch.me/?label=TPAC&command=/tpac)
 
 Reach out to chairs by email to immersive-web-chairs@w3.org
 
