@@ -16,7 +16,7 @@ For assistance, go to http://support.zoom.us/ and click blue icon at right botto
 
 ## Immersive Web Working & Community Group Meetings September 15-16th, 2022
 
-See [Day 1 Immersive Web Working Group including Joint meeting with Web Real-Time Communications Working Group](https://www.w3.org/events/meetings/be31f7fb-cdb4-4d27-9c21-ca6672aa5714) and [Day 2](https://www.w3.org/events/meetings/8c799fc5-0c2c-4797-997d-7e0540fa20be) calendar for meeting instructions. 
+See [Day 1 Immersive Web Working & Community Group](https://www.w3.org/events/meetings/be31f7fb-cdb4-4d27-9c21-ca6672aa5714) and [Day 2 calendar](https://www.w3.org/events/meetings/8c799fc5-0c2c-4797-997d-7e0540fa20be) calendar for meeting instructions. 
 
 
 ### Agenda
