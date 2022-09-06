@@ -54,3 +54,15 @@ Time TBD
 | Break                                                                                                                           | 11:00 | 0:15:00 |                                                                                                                      |               |         |
 | [Accessibility: ARIA integration and HTML Accessibility API Mappings](https://github.com/immersive-web/model-element/issues/39) | 11:15 | 0:30:00 | [https://github.com/immersive-web/model-element/issues/39](https://github.com/immersive-web/model-element/issues/39) | model-element |         |
 | Lunch Break                                                                                                                     | 11:45 |         |                                                                                                                      |               |
+
+
+### IRC Channel
+
+IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/master/IRC.md)
+
+### Setup Steps
+
+- Check AV
+- Remind that there is a Code of Conduct
+- Introductions
+- Find scribe
