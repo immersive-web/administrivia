@@ -53,8 +53,8 @@ Time TBD
 | Navigation                                                                                                                      | 10:30 | 0:30:00 | [https://github.com/immersive-web/navigation](https://github.com/immersive-web/navigation)                           |               |         |
 | Break                                                                                                                           | 11:00 | 0:15:00 |                                                                                                                      |               |         |
 | [Accessibility: ARIA integration and HTML Accessibility API Mappings](https://github.com/immersive-web/model-element/issues/39) | 11:15 | 0:30:00 | [https://github.com/immersive-web/model-element/issues/39](https://github.com/immersive-web/model-element/issues/39) | model-element |         |
-| Lunch Break                                                                                                                     | 11:45 |         |                                                                                                                      |               |
-
+| Lunch Break                                                                                                                     | 11:45 | 1:15:00 |                                                                                                                      |                 |         |
+| Marker tracking                                                                                                                 | 13:00 | 0:30:00 | [https://github.com/immersive-web/marker-tracking](https://github.com/immersive-web/marker-tracking)                 | marker-tracking |
 
 ### IRC Channel
 
