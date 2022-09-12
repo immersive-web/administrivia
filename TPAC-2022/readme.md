@@ -21,9 +21,9 @@ See [Day 1 Immersive Web Working & Community Group](https://www.w3.org/events/me
 
 ### Agenda
 
-#### WebRTC/Immersive Web Joint Meeting September 12th, 2022
+#### WebRTC/Immersive Web Joint Meeting September 15th, 2022
 
-Time TBD
+Joint meeting will be held with Media group between 15:30-17:30, see the details on the [meeting page](https://www.w3.org/events/meetings/bc28a876-4512-488e-95ba-99c91d8c4d49).
 
 #### Day 1  September 15th, 2022
 
@@ -40,6 +40,8 @@ Time TBD
 | [Which formats?](https://github.com/immersive-web/model-element/issues/18)                                       | 11:45 | 40      | [https://github.com/immersive-web/model-element/issues/18](https://github.com/immersive-web/model-element/issues/18)                                                                                                                 | model-element |         |
 | Lunch Break                                                                                                      | 12:25 | 1:15    |                                                                                                                                                                                                                                      |               |         |
 | [Require CORS for all <model>-initiated fetches](https://github.com/immersive-web/model-element/issues/56)       | 13:40 | 20      | [https://github.com/immersive-web/model-element/issues/56https://github.com/immersive-web/model-element/issues/56](https://github.com/immersive-web/model-element/issues/56https://github.com/immersive-web/model-element/issues/56) | model-element |
+| Break                                                                                                            | 14:00 | 1:15    |  
+| WebRTC joint meeting                                                                                             | 15:30 | 2:00    |  https://www.w3.org/events/meetings/bc28a876-4512-488e-95ba-99c91d8c4d49
 
   
   
