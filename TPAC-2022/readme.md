@@ -49,6 +49,7 @@ Joint meeting will be held with Media group between 15:30-17:30, see the details
   
   #### Day 2  September 16th, 2022
   
+  [Aria joint meeting minutes](https://www.w3.org/2022/09/16-aria-minutes.html) and [IW minutes](https://www.w3.org/2022/09/16-immersive-web-minutes.html) are available through scribe
   
 | Title                                                                                                                           | Time  | Length  | Link                                                                                                                 | Repo          | Rockets |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------- | ------- |
