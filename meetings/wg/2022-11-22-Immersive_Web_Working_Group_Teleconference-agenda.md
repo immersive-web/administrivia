@@ -6,9 +6,6 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [navigation#3 Next steps for Navigation](https://github.com/immersive-web/navigation/issues/3) [requested by cabanier](https://github.com/immersive-web/navigation/issues/3#issuecomment-1276689984)
-> discuss same origin navigation (again)
-
 * [proposals#30 Virtual Keyboard API](https://github.com/immersive-web/proposals/issues/30) [requested by cabanier](https://github.com/immersive-web/proposals/issues/30#issuecomment-1304324677)
 > We are making progress on enabling the native keyboard during an immersive session. As  mentioned before, it will be triggered by focusing an element just like on a 2D page.
 >I'm wondering if we need a flag to indicate that the UA supports this. Most implementations won't have this feature and there would be no way for an author to know if a keyboard was shown. (Listening to blur events could work but feels hacky)
