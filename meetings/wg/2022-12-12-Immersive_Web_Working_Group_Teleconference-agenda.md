@@ -16,7 +16,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [webxr#1305 Should we Remove XRPermissionStatus?](https://github.com/immersive-web/webxr/issues/1305) - alcooper91
 > XRPermissionStatus (and the integration with the Permissions API) is something that has been in the core spec for a little while; however, to my knowledge no one has currently implemented it. Indeed, the way that we actually do include it seems to be in direct contradiction to the [Permissions spec](https://w3c.github.io/permissions/#specifying-a-powerful-feature) we purport to integrate with:
- >
+
+
+* https://cabanier.github.io/webxr-face-tracking-1/
+> @cabanier created a proposal and a [README](https://github.com/cabanier/webxr-face-tracking-1) and would like people to review and comment.
 
 ### Immersive Web Working Group Teleconference - 2022-12-12
 
