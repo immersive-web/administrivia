@@ -1,6 +1,7 @@
 # Dates
 
 - April 24-25th 2023 (Monday and Tuesday), [Calendar link](https://www.w3.org/events/meetings/dafb4b2a-82eb-4453-a607-43bf31e857b2#participants)
+- [Information for attendee, including gathering on site, dinner, etc.](https://lists.w3.org/Archives/Public/public-immersive-web-wg/2023Apr/0005.html)
 
 ## Schedule
 
