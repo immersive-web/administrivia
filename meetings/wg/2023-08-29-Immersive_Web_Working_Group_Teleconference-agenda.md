@@ -23,15 +23,13 @@ Chair: Ada Rose Cannon
 
 Scribe:
 
-IRC: [irc.w3.org](http://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
+IRC: [irc.w3.org](https://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
 
 Call Details can be found in the Immersive Web Event Calendars: [WG](https://www.w3.org/groups/wg/immersive-web/calendar/)/[CG](https://www.w3.org/groups/cg/immersive-web/calendar/)
 
-You subscribe to these calendars with your calendar application of choice for more convenient access to the call details.
+You subscribe to these calendars with your calendar application of choice for more convenient access to the call details. See details at Export options section in [WG](https://www.w3.org/groups/wg/immersive-web/calendar/#export)/[CG](https://www.w3.org/groups/cg/immersive-web/calendar/#export).
 
 If you are unable to login to view the call details please ask on the IRC before the call.
-
-For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
 
 ### Help Wanted
 
