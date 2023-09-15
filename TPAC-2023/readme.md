@@ -8,7 +8,7 @@ You can find the information to join the Immersive Web Working Group calendar fo
 
 - [Day 1 - September 11, 2023](https://www.w3.org/events/meetings/f1dd67cb-9322-472e-92d4-a34a2f4bf2d6/): 14:30–18:30 Central European Summer Time [Minutes](https://www.w3.org/2023/09/11-immersive-web-minutes.html)
 - [Day 2- September 12, 2023](https://www.w3.org/events/meetings/543e6388-05f4-4334-bd4d-4839ec021fc5/): 14:30–18:30 Central European Summer Time [Minutes](https://www.w3.org/2023/09/12-immersive-web-minutes.html)
-- [Day 3- September 15, 2023](https://www.w3.org/events/meetings/7e00b17e-b4ef-471b-96c1-21a2c9d77c92/): 11:30–16:30 Central European Summer Time
+- [Day 3- September 15, 2023](https://www.w3.org/events/meetings/7e00b17e-b4ef-471b-96c1-21a2c9d77c92/): 11:30–16:30 Central European Summer Time [Minutes](https://www.w3.org/2023/09/15-immersive-web-minutes.html)
 
 **Remember that each day's meeting might have different rooms and Zoom link.**
 
