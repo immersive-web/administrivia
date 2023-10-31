@@ -7,6 +7,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [depth-sensing#37 WebXR Depth Sensing Module: What is DepthInfo.normDepthBufferFromNormView matrix? ](https://github.com/immersive-web/depth-sensing/issues/37) [requested by cabanier](https://github.com/immersive-web/depth-sensing/issues/37#issuecomment-1758641246)
 > do we need normDepthBufferFromNormView?
 
+* [real-world-geometry#40 Providing a clear signal for when we should call initiateRoomCapture](https://github.com/immersive-web/real-world-geometry/issues/40) [requested by cabanier](https://github.com/immersive-web/real-world-geometry/issues/40#issuecomment-1783615036)
+> define a signal to tell the developer that room setup finished iniitializing
+
 * [depth-sensing#43 Add depthNear and depthFar to XRDepthInformation ](https://github.com/immersive-web/depth-sensing/issues/43) - cabanier
 > I noticed that the IDL for XRDepthInformation in Chromium has `depthNear` and `depthFar` but they are not defined in the spec. @bialpio, should we document those?
  >OpenXR depth sensing also exposes them so it seems they're needed.
@@ -15,20 +18,21 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > While writing the depth sensing spec, @toji remarked that we need to handle the case where there can be more than 2 textures for certain devices. Currently the spec only handles at more 2.
  >/agenda how should we assign indices for texture arrays if there are more than 2 views?
 
+
 ### Immersive Web Working Group Teleconference - 2023-10-31
 
 <table>
 <tr><td> San Francisco (U.S.A. - California) <td> Tuesday, October 31 at 12:00 PM PDT
 <tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, October 31 at 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, 31 October at 19:00 GMT
-<tr><td> Paris (France) <td> Tuesday, 31 October at 20:00 CET
-<tr><td> Tokyo (Japan) <td> Wednesday, 1 November at 04:00 GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, 31 October at 19:00 UTC
+<tr><td> London (United Kingdom - England) <td> Tuesday, October 31 at 7:00 PM GMT
+<tr><td> Paris (France) <td> Tuesday, October 31 at 8:00 PM GMT+1
+<tr><td> Tokyo (Japan) <td> Wednesday, November 1 at 4:00 AM GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, October 31 at 7:00 PM UTC
 </table>
 
 ### Logistics
 
-Chair: Ada Rose Cannon
+Chair: Ayşegül Yönet
 
 Scribe:
 
