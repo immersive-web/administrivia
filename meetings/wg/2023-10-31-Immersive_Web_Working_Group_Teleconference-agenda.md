@@ -15,9 +15,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > While writing the depth sensing spec, @toji remarked that we need to handle the case where there can be more than 2 textures for certain devices. Currently the spec only handles at more 2.
  >/agenda how should we assign indices for texture arrays if there are more than 2 views?
 
-* [webxr#1349 Initial attempt at a comfortSpace](https://github.com/immersive-web/webxr/pull/1349) [requested by AdaRoseCannon](https://github.com/immersive-web/webxr/pull/1349#issuecomment-1742738973)
-> to get feedback
-
 ### Immersive Web Working Group Teleconference - 2023-10-31
 
 <table>
