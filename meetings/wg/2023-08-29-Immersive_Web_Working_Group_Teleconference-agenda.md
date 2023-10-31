@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/wg/2023-08-29-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2023/08/29-immersive-web-minutes.html) are available through scribe.
 
 TPAC Agenda-ing
 
