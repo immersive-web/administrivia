@@ -8,6 +8,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > A common feature request is to give developers access to the user's body.
  >I made a proposal here: https://cabanier.github.io/webxr-body-tracking/
 
+* [model-element#75 `ready` and `complete` events/Promises for responding to source file availability etc](https://github.com/immersive-web/model-element/issues/75) [requested by zachernuk](https://github.com/immersive-web/model-element/issues/75#issuecomment-1904724017)
+> Irrespective of where it goes in the future, a V1 <model> element should obtain its contents through an asset file. In order for an author to construct a compelling experience, they'll need to know both:
+ >* when the bytes of an asset file are loaded,
+
 ### Immersive Web Working Group Teleconference - 2024-01-23
 
 <table>
