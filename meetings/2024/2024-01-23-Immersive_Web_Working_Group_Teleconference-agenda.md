@@ -8,7 +8,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > A common feature request is to give developers access to the user's body.
  >I made a proposal here: https://cabanier.github.io/webxr-body-tracking/
 
-### Immersive Web Working Group Teleconference - 2024-01-30
+### Immersive Web Working Group Teleconference - 2024-01-23
 
 <table>
 <tr><td> San Francisco (U.S.A. - California) <td> Tuesday, January 23 at 11:00 AM PST
