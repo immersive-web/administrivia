@@ -11,12 +11,12 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 ### Immersive Web Working Group Teleconference - 2024-01-30
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, January 30 at 11:00 AM PST
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, January 30 at 2:00 PM EST
-<tr><td> London (United Kingdom - England) <td> Tuesday, January 30 at 7:00 PM GMT
-<tr><td> Paris (France) <td> Tuesday, January 30 at 8:00 PM GMT+1
-<tr><td> Tokyo (Japan) <td> Wednesday, January 31 at 4:00 AM GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, January 30 at 7:00 PM UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, January 23 at 11:00 AM PST
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, January 23 at 2:00 PM EST
+<tr><td> London (United Kingdom - England) <td> Tuesday, January 23 at 7:00 PM GMT
+<tr><td> Paris (France) <td> Tuesday, January 23 at 8:00 PM GMT+1
+<tr><td> Tokyo (Japan) <td> Wednesday, January 24 at 4:00 AM GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Tuesday, January 23 at 7:00 PM UTC
 </table>
 
 ### Logistics
