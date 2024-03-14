@@ -1,5 +1,5 @@
 # Dates
-24-25th March, 2024
+25-26th March, 2024
 
 ## Schedule
 TBD
