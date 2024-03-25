@@ -47,4 +47,6 @@ Meta Bellevue Office
 1288 123rd Ave NE, Bellevue, WA 98005
 
 ### Remote Access
-TBD
+You can find the Zoom link on the [calendar event](https://www.w3.org/events/meetings/0d4590ed-b6f4-4fc9-b771-88d8e966042c/20240325T090000/)
+irc: https://irc.w3.org/
+room: immersive-web
