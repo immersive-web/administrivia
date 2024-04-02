@@ -3,6 +3,8 @@
 
 ## Schedule
 
+Minutes are available through scribe for [day one](https://www.w3.org/2024/03/25-immersive-web-minutes.html) & [day two](https://www.w3.org/2024/03/26-immersive-web-minutes.html)
+
 | Time Slot | Time Slot | Monday 24th                                                                                                                                      | Tuesday 25th                                                                                                                                    |
 | --------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------    |
 | 09:00     | 09:15     | Gathering and Coffee                                                                                                                             | Gathering and Coffee                                                                                                                            |
