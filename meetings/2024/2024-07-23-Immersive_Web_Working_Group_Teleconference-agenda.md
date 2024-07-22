@@ -21,24 +21,13 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 >
 >That being said, this obviously needs some clearer text all around, and regardless of my speculating above I think the more important consideration at this point is what are implementations currently doing and how might existing content break if we make changes here. As such I think this is a great topic for our next meeting.
 
-* [model-element#88 Fresh run at the introduction section](https://github.com/immersive-web/model-element/pull/88) [requested by zachernuk](https://github.com/immersive-web/model-element/pull/88#issuecomment-2215469193)
-> Re-framed the scope of what a declarative element being managed directly by the user agent actually has the ability to achieve!
- >
-
-* [model-element#89 Expand and revise examples section](https://github.com/immersive-web/model-element/pull/89) [requested by zachernuk](https://github.com/immersive-web/model-element/pull/89#issuecomment-2215496417)
-> Added the examples already sketched out in the document and added some more based on a tentative approach to MVP functionality.
- >
-
-* [hit-test#117 Use of FrozenArray<>s for return types of methods is probably unnecessary](https://github.com/immersive-web/hit-test/issues/117) [requested by toji](https://github.com/immersive-web/hit-test/issues/117#issuecomment-2150866464)
-> I think the intent WAS for this to be an optimization. It's worth discussing with the larger group, so queuing this topic up for a future call.
-
-* [administrivia#207 TPAC 2024 Meetings](https://github.com/immersive-web/administrivia/issues/207) - Yonet
-> Remind to Sign up link:  https://www.w3.org/2024/09/TPAC/
- >
-
 * [webxr#1377 Spec is unclear how a reference space event is handled](https://github.com/immersive-web/webxr/issues/1377) - cabanier
 > A reference space even is supposed to have a event that fires if it is reset (ie by holding down the meta button on quest).
  >This event has a transform that indicates the delta pose between the previous space.
+
+* [administrivia#207 TPAC 2024 Meetings](https://github.com/immersive-web/administrivia/issues/207) - Yonet
+> Remind to Sign up link:  https://www.w3.org/2024/09/TPAC/
+>
 
 ### Immersive Web Working Group Teleconference - 2024-07-23
 
