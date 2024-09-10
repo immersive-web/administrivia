@@ -17,7 +17,12 @@ You can find the information to join the Immersive Web Working Group calendar fo
 
 Please reach out to the chairs for any requests or questions at immersive-web-chairs@w3.org.
 
+## Unconference Topics
+ * [Conversation about the current state of native applications working alongside WebXR](https://github.com/immersive-web/proposals/issues/15)
+
 ## Agenda
+
+This schedule is not set in stone, if you would like changes please raise an issue or contact the chairs.
 
 |               | Tuesday 24/9   | Wednesday 25/9 | Thursday 26/9 |
 | ------------- | -------------- | -------------- | ------------- |
