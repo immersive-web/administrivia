@@ -30,8 +30,8 @@ This schedule is not set in stone, if you would like changes please raise an iss
 | 9:30          | Depth Sensing  |                |               |
 | 10:00         | Depth Sensing  |                |               |
 | 10:30         | Break          | Break          | Break         |
-| 11:00         | [Web Apps Joint Meeting](https://www.w3.org/events/meetings/e3724be4-18f0-4846-93c4-ddf0f0839697/)|                |               |
-| 11:30         | [Web Apps Joint Meeting](https://www.w3.org/events/meetings/e3724be4-18f0-4846-93c4-ddf0f0839697/)|           |               |
+| 11:00         |                |                |               |
+| 11:30         |                |                |               |
 | 12:00         |                |                |               |
 | 12:30         | Lunch          | Lunch          | Lunch         |
 | 13:00         |                |                |               |
