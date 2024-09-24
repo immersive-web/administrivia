@@ -36,7 +36,7 @@ This schedule is not set in stone, if you would like changes please raise an iss
 | 12:30         | Lunch          | Lunch          | Lunch         |
 | 13:00         |                |                |               |
 | 13:30         |                |                |               |
-| 14:00         | Body Tracking  |                | WebXR-WebGPU  |
+| 14:00         | [Body Tracking](https://cabanier.github.io/webxr-body-tracking/)  |                | WebXR-WebGPU  |
 | 14:30         | Body Tracking  |                | WebXR-WebGPU  |
 | 15:00         | Model          |                | WebXR-WebGPU  |
 | 15:30         | Model          |                | Unconference  |
