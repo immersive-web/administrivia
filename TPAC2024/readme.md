@@ -26,6 +26,7 @@ This schedule is not set in stone, if you would like changes please raise an iss
 
 |               | Tuesday 24/9   | Wednesday 25/9 | Thursday 26/9 |
 | ------------- | -------------- | -------------- | ------------- |
+| 8:30          |                | [Model Breakout](https://www.w3.org/events/meetings/beb1a75f-bc12-42c0-9691-6d73be98632b/)| | 
 | 9:00          | Introduction   | TBD            |               |
 | 9:30          | Depth Sensing  |                |               |
 | 10:00         | Depth Sensing  |                |               |
