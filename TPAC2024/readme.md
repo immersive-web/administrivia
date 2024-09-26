@@ -21,7 +21,7 @@ Please reach out to the chairs for any requests or questions at immersive-web-ch
  * [Conversation about the current state of native applications working alongside WebXR](https://github.com/immersive-web/proposals/issues/15)
 
 ## Agenda
-
+[Day 1](https://www.w3.org/2024/09/24-immersive-web-minutes.html) and [Day 3 minutes](https://www.w3.org/2024/09/26-immersive-web-minutes.html) are available through scribe.
 This schedule is not set in stone, if you would like changes please raise an issue or contact the chairs.
 
 |               | Tuesday 24/9   | Wednesday 25/9 | Thursday 26/9 |
