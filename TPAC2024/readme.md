@@ -12,10 +12,14 @@ You can find the information to join the Immersive Web Working Group calendar fo
 - [Day 2- September 25, 2024 - Technical Planary Day](): TBD
 - [Day 3- September 26, 2024 - Immersive Web Working Group](https://www.w3.org/events/meetings/59c03681-a916-4f8e-a8b0-9cfaff8e5cdc/): 14:00–18:00 Pacific Daylight Time
 
-
 **Remember that each day's meeting might have different rooms and Zoom link.**
 
 Please reach out to the chairs for any requests or questions at immersive-web-chairs@w3.org.
+
+### minutes
+
+- Sep 24: https://www.w3.org/2024/09/24-immersive-web-minutes.html
+- Sep 26: https://www.w3.org/2024/09/26-immersive-web-minutes.html
 
 ## Unconference Topics
  * [Conversation about the current state of native applications working alongside WebXR](https://github.com/immersive-web/proposals/issues/15)
