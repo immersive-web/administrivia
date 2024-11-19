@@ -14,7 +14,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > There have been many rumors that the VisionPro headset may be discontinued [1], [2]. Since much of the original justification for model element was based on requirements of the VisionPro, is it appropriate to take another look at the requirements and use cases to make sure we are still working on the correct problem.
  >
 
-### Immersive Web Working Group Teleconference - 2024-11-19
+### Immersive Web Community Group Teleconference - 2024-11-19
 
 <table>
 <tr><td> San Francisco (U.S.A. - California) <td> Tuesday, November 19 at 11:00 AM PST
