@@ -43,8 +43,7 @@
 
 ## Location Information
 
-System of a Down
-900 Alta Ave, Mountain View, CA 94043
+Lobby: 1600 Amphitheatre Pkwy Building 43, Mountain View, CA 94043
 
 ## Remote Access
 
