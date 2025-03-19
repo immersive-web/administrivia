@@ -1,7 +1,7 @@
 # Dates
 
 18-19th March, 2025
-
+Minutes are available through scribe for [day one](https://www.w3.org/2025/03/18-immersive-web-minutes.html) & [day two](https://www.w3.org/2025/03/19-immersive-web-minutes.html)
 
 ## Schedule
 
