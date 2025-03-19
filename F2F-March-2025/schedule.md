@@ -2,6 +2,7 @@
 
 18-19th March, 2025
 
+
 ## Schedule
 
 |       |         | 18/3                                                                                                          | 19/3                                                                                                          |
@@ -19,15 +20,15 @@
 | 11:15 | 11:30   | [Break]                                                                                                       | [Break]                                                                                                       |
 | 11:30 | 11:45   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | [Model: Default Styling](https://github.com/immersive-web/model-element/issues/27)                            |
 | 11:45 | 12:00   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | [Model: Default Styling](https://github.com/immersive-web/model-element/issues/27)                            |
-| 12:00 | 12:15   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | Model Element: AOB                                                                                            |
-| 12:15 | 12:30   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | Model Element: AOB                                                                                            |
+| 12:00 | 12:15   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | Model Element: [Define interactivity](https://github.com/immersive-web/model-element/issues/25)                                                                                           |
+| 12:15 | 12:30   | [Hint for VR in AR WebXR sessions. #1402<br>](https://github.com/immersive-web/webxr/issues/1402)             | Model Element: [Define interactivity](https://github.com/immersive-web/model-element/issues/25)                                                                                             |
 | 12:30 | 12:45   | [lunch]                                                                                                       | [lunch]                                                                                                       |
 | 12:45 | 13:00   | [lunch]                                                                                                       | [lunch]                                                                                                       |
 | 13:00 | 13:15   | [lunch]                                                                                                       | [lunch]                                                                                                       |
 | 13:15 | 13:30   | [lunch]                                                                                                       | [lunch]                                                                                                       |
 | 13:30 | 13:45   | [lunch]                                                                                                       | [lunch]                                                                                                       |
 | 13:45 | 14:00   | [Depth Sensing: Raw vs Smooth Depth](https://github.com/immersive-web/depth-sensing/issues/51)                |                                                                                                               |
-| 14:00 | 14:15   | [Depth Sensing: Raw vs Smooth Depth](https://github.com/immersive-web/depth-sensing/issues/51)                | Unconference                                                                                                  |
+| 14:00 | 14:15   | [Depth Sensing: Raw vs Smooth Depth](https://github.com/immersive-web/depth-sensing/issues/51)                | Model Element: [Require https?](https://github.com/immersive-web/model-element/issues/109)                                                                                                  |
 | 14:15 | 14:30   | [Depth Sensing: Raw vs Smooth Depth](https://github.com/immersive-web/depth-sensing/issues/51)                | Unconference                                                                                                  |
 | 14:30 | 14:45   | [Depth Sensing: Pause/Resume Depth Data](https://github.com/immersive-web/depth-sensing/issues/52)            | Unconference                                                                                                  |
 | 14:45 | 15:00   | [Depth Sensing: Pause/Resume Depth Data](https://github.com/immersive-web/depth-sensing/issues/52)            | Unconference                                                                                                  |
