@@ -2,10 +2,8 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-05-20-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2025/05/20-immersive-web-minutes.html) are available through scribe.
 
-* [raw-camera-access#22 Allow camera-access on `inline` sessions](https://github.com/immersive-web/raw-camera-access/issues/22) [requested by tangobravo](https://github.com/immersive-web/raw-camera-access/issues/22#issuecomment-2875610739)
-> I'd appreciate a discussion on this to understand any reasoning behind the current wording in the spec and the chances of changing that.
 >
 >I'm willing to put some time into a chromium implementation of it if there's interest in moving it forward.
 
