@@ -1,36 +1,31 @@
-### Call Agenda
+# Agenda for 2025-08-26
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-08-26-Immersive_Web_Working_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on Github. Minutes are available through scribe. 
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+- [model-element#127  Model scale uniformity - requested by mkeblx](https://api.github.com/repos/immersive-web/model-element/issues/127)
 
-* [model-element#127 Model scale uniformity #127
-](https://github.com/immersive-web/model-element/issues/127#issuecomment-3221641340) [requested by mkeblx](https://github.com/immersive-web/model-element/issues/127#issuecomment-3221641340)
-> Should model explicitly support an entityTransform that has a non-uniform scale?
+> Should model explicitly support an `entityTransform` that has a non-uniform scale? 
+
+- [administrivia#220  Archive webvrrocks repository? - requested by himorin](https://api.github.com/repos/immersive-web/administrivia/issues/220)
+
+> domain seems expired, and contents are quite old compared than webxr-samples repository. (nor listed at the top of this organization?)
 
 
-### Immersive Web Group Teleconference - 2025-08-26
 
-<table>
-<tr><td> San Francisco (U.S.A. - California) <td> Wednesday, April 23 at 12:00 PM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday, April 23 at 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Wednesday, April 23 at 8:00 PM GMT+1
-<tr><td> Paris (France) <td> Wednesday, April 23 at 9:00 PM GMT+2
-<tr><td> Tokyo (Japan) <td> Thursday, April 24 at 4:00 AM GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Wednesday, April 23 at 7:00 PM UTC
-</table>
 
-### Logistics
+ ### Logistics 
 
-Chair: Aysegul Yonet
+Time: 2025-08-26 11am Pacific Time 
 
-Scribe:
+Chair: Ayșegül Yönet 
+
+Scribe: TBD 
 
 IRC: [irc.w3.org](https://irc.w3.org/):6667 #immersive-web [Instructions](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
 
 Call Details can be found in the Immersive Web Event Calendars: [WG](https://www.w3.org/groups/wg/immersive-web/calendar/)/[CG](https://www.w3.org/groups/cg/immersive-web/calendar/)
 
-You subscribe to these calendars with your calendar application of choice for more convenient access to the call details. See details at Export options section in [WG](https://www.w3.org/groups/wg/immersive-web/calendar/#export)/[CG](https://www.w3.org/groups/cg/immersive-web/calendar/#export).
+You subscribe to these calendars with your calendar application of choice for more convenient access to the call details. See details at Export options section in WG/CG.
 
 If you are unable to login to view the call details please ask on the IRC before the call.
 
