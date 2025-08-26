@@ -1,16 +1,17 @@
 # Agenda for 2025-08-26
 
+
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-08-26-Immersive_Web_Group_Teleconference-agenda.md). Minutes are available through scribe. 
 
-- [layers#314  createQuad/Cylinder/Equirect/CubeLayer init param cannot be optional - requested by toji](https://api.github.com/repos/immersive-web/layers/issues/314)
+- [layers#314  createQuad/Cylinder/Equirect/CubeLayer init param cannot be optional - requested by toji](https://github.com/immersive-web/layers/issues/314)
 
 > The layers spec shows that the `init` param to the [creation functions](https://immersive-web.github.io/layers/#XRWebGLBindingtype) for most layer types is optional, defaulting to `{}`. However each of these init types are inherited from [`XRLayerInit`](https://immersive-web.github.io/layers/#dictdef-xrlayerinit) dictionary, which has three `required` args:
 
-- [model-element#127  Model scale uniformity - requested by mkeblx](https://api.github.com/repos/immersive-web/model-element/issues/127)
+- [model-element#127  Model scale uniformity - requested by mkeblx](https://github.com/immersive-web/model-element/issues/127)
 
 > Should model explicitly support an `entityTransform` that has a non-uniform scale? 
 
-- [administrivia#220  Archive webvrrocks repository? - requested by himorin](https://api.github.com/repos/immersive-web/administrivia/issues/220)
+- [administrivia#220  Archive webvrrocks repository? - requested by himorin](https://github.com/immersive-web/administrivia/issues/220)
 
 > domain seems expired, and contents are quite old compared than webxr-samples repository. (nor listed at the top of this organization?)
 
