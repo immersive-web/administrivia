@@ -1,6 +1,6 @@
 # Agenda for 2025-09-30
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-09-30-Immersive_Web_Group_Teleconference-agenda.md). Minutes are available through scribe. 
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-09-30-Immersive_Web_Group_Teleconference-agenda.md). [Minutes](https://www.w3.org/2025/09/30-immersive-web-minutes.html) are available through scribe. 
 
 - [webxr#1414  WebXR integration with HTML-in-canvas - requested by cabanier](https://github.com/immersive-web/webxr/issues/1414)
 
