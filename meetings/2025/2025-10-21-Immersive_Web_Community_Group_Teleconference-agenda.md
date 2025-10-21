@@ -7,6 +7,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [administrivia#223 Raise Safari Backdrop Explainer](https://github.com/immersive-web/administrivia/issues/223) - AdaRoseCannon
 > Raising this to the groups attention and to answer questions
 
+* Updating ImmersiveWeb.dev to include <model> - what would people like to see
+
 ### Immersive Web Community Group Teleconference - 2025-10-21
 
 <table>
