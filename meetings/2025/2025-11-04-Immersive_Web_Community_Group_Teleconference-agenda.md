@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2025/2025-11-04-Immersive_Web_Community_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2025/11/04-immersive-web-minutes.html) are available through scribe.
 
 * [model-element#129 Rejecting stateful model content](https://github.com/immersive-web/model-element/issues/129) - zachernuk
 > Some 3D resources have encoding of stateful behavior - e.g. the [glTF Interactivity proposal](https://www.khronos.org/blog/gltf-interactivity-specification-released-for-public-comment) and the now-defunct (but still honored) `Preliminary_Action` API introduced in Reality Composer 2019. 
