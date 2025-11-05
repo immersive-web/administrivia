@@ -20,5 +20,5 @@
 
 ## Remote Access
 
-See events at [Immersive Web WG events calendar](https://www.w3.org/groups/wg/immersive-web/calendar/) for remote access link.
+See events ([Day1](https://www.w3.org/events/meetings/aae0c507-186d-4a3e-a4cb-5722437a9a33/), [Day2](https://www.w3.org/events/meetings/d2dd06e9-d967-4940-aea0-7c6528471719/)) at [Immersive Web WG events calendar](https://www.w3.org/groups/wg/immersive-web/calendar/) for remote access link.
 For [non-WG participants](https://www.w3.org/policies/process/#ref-for-GeneralChairs%E2%91%A0), contact [co-chairs](immersive-web-chairs@w3.org) to scribe events.
