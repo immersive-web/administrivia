@@ -6,7 +6,6 @@
 * [RSVP](https://lists.w3.org/Archives/Public/public-immersive-web-wg/2025Oct/0002.html)
 
 ## Schedule
-
 |       |         | 20/11                                                                                                              | 21/11                                                                                                                                      |
 | ----- | ------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 |       |         | THURSDAY                                                                                                           | FRIDAY                                                                                                                                     |
@@ -17,8 +16,8 @@
 | 10:30 | 10:45   | [Monoscopic/untracked considerations for Model element](https://github.com/immersive-web/model-element/issues/131) | [Scene Description API for automation and a11y](https://github.com/immersive-web/webxr/issues/1363)                                        |
 | 10:45 | 11:00   | Break                                                                                                              | Break                                                                                                                                      |
 | 11:00 | 11:15   | Break                                                                                                              | Break                                                                                                                                      |
-| 11:15 | 11:30   | Web3D (.x3d) Talk                                                                                                  | [WebXR Expression Tracking](https://github.com/immersive-web/administrivia/issues/227)                                                     |
-| 11:30 | 11:45   | Web3D (.x3d) Talk                                                                                                  | [WebXR Expression Tracking](https://github.com/immersive-web/administrivia/issues/227)                                                     |
+| 11:15 | 11:30   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | Web3D (.x3d) Talk                                                                                                                          |
+| 11:30 | 11:45   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | Web3D (.x3d) Talk                                                                                                                          |
 | 11:45 | 12:00   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [State of WebXR cross-vendor testing](https://github.com/immersive-web/webxr-test-api/issues/90)                                           |
 | 12:00 | 12:15   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [State of WebXR cross-vendor testing](https://github.com/immersive-web/webxr-test-api/issues/90)                                           |
 | 12:15 | 12:30   | LUNCH                                                                                                              | LUNCH                                                                                                                                      |
@@ -31,16 +30,20 @@
 | 14:00 | 14:15   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [Feature Request: Cubemap texture support for native media layers. Multi-tile feature](https://github.com/immersive-web/webxr/issues/1419) |
 | 14:15 | 14:30   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [Dynamic Foveation](https://github.com/immersive-web/webxr/issues/1420)                                                                    |
 | 14:30 | 14:45   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [Dynamic Foveation](https://github.com/immersive-web/webxr/issues/1420)                                                                    |
-| 14:45 | 15:00   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | OfferSession chat                                                                                                                          |
+| 14:45 | 15:00   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | [Camera intrinsics](https://github.com/immersive-web/administrivia/issues/228)                                                             |
 | 15:00 | 15:15   | [Spatial CSS Interest](https://github.com/immersive-web/proposals/issues/91)                                       | Break                                                                                                                                      |
 | 15:15 | 15:30   | Break                                                                                                              | Break                                                                                                                                      |
-| 15:30 | 15:45   | Break                                                                                                              | [Immersive Web Developer Site Rebuild](https://github.com/immersive-web/immersiveweb.dev/issues/108)                                       |
-| 15:45 | 16:00   | [More expressive syntax for environment map](https://github.com/immersive-web/model-element/issues/132)            | [Immersive Web Developer Site Rebuild](https://github.com/immersive-web/immersiveweb.dev/issues/108)                                       |
+| 15:30 | 15:45   | Break                                                                                                              | [WebXR Expression Tracking](https://github.com/immersive-web/administrivia/issues/227)                                                     |
+| 15:45 | 16:00   | [More expressive syntax for environment map](https://github.com/immersive-web/model-element/issues/132)            | [WebXR Expression Tracking](https://github.com/immersive-web/administrivia/issues/227)                                                     |
 | 16:00 | 16:15   | [More expressive syntax for environment map](https://github.com/immersive-web/model-element/issues/132)            | [Surface hand meshes](https://github.com/immersive-web/webxr-hand-input/issues/127)                                                        |
 | 16:15 | 16:30   | Unconference Time                                                                                                  | [Surface hand meshes](https://github.com/immersive-web/webxr-hand-input/issues/127)                                                        |
 | 16:30 | 16:45   | Unconference Time                                                                                                  | Unconference Time                                                                                                                          |
 | 16:45 | 17:00   | Unconference Time                                                                                                  | Unconference Time                                                                                                                          |
 | 18:30 | Evening | [Post Face to Face Dinner November 2025](https://github.com/immersive-web/administrivia/issues/225)                |
+
+## Current unconference topics
+* OfferSession - Ada
+* [Rebuilding the website](https://github.com/immersive-web/immersiveweb.dev/issues/108)
 
 
 ## Location Information
