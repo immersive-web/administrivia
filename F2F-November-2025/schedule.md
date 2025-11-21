@@ -1,6 +1,6 @@
 # Immersive Web WG November 2025 Face to Face Meeting
 
-[Day 1](https://www.w3.org/2025/11/20-immersive-web-minutes.html) and [Day 2]() minutes are available through scribe.
+[Day 1](https://www.w3.org/2025/11/20-immersive-web-minutes.html) and [Day 2](https://www.w3.org/2025/11/21-immersive-web-minutes.html) minutes are available through scribe.
 
 ## Dates
 
