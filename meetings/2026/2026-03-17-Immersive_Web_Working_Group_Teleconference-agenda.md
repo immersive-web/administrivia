@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-03-17-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2026/03/17-immersive-web-minutes.html) are available through scribe.
 
 
 * [administrivia#235 Sync on current OpenXR multi-app developments](https://github.com/immersive-web/administrivia/issues/235) - fordacious
