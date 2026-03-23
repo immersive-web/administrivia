@@ -15,11 +15,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > In https://github.com/immersive-web/webxr/issues/1423 I asked about better haptics support.
  >A lot of movement happened in haptics since I made that suggestion and it seems that most platforms now support some sort of audio based haptics API.
 
-* [layers#324 Width and height of XRQuadLayer are actually half width and half height](https://github.com/immersive-web/layers/issues/324) [requested by cabanier](https://github.com/immersive-web/layers/issues/324#issuecomment-4047649412)
-> discuss incorrect width/height behavior
 
-* [webxr#1396 Confusion around actual and internal visiblity](https://github.com/immersive-web/webxr/issues/1396) [requested by ibytergj](https://github.com/immersive-web/webxr/issues/1396#issuecomment-4006379250)
-> So my use case right now is in VR when the user takes off their headset. I want to signal to the system that the avatar should go into an idle pose so that the avatar is just not collapsing, whichever way the handset and controllers happen to be put down. If the headset supports the information like the quest  3 does, it would be very useful if this information was available to us to implement for a better user experience.
 
 ### Immersive Web Community Group Teleconference - 2026-03-24
 
