@@ -1,4 +1,4 @@
-# Immersive Web WG November 2025 Face to Face Meeting
+# Immersive Web WG November 2026 Face to Face Meeting
 
 [Day 1](https://www.w3.org/2026/05/19-immersive-web-minutes.html) and [Day 2 minutes](https://www.w3.org/2026/05/20-immersive-web-minutes.html) are available via irc scribe.
 
