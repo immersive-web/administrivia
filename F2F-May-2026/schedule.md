@@ -9,6 +9,10 @@
 
 ## Schedule
 
+* Slide materials during face-to-face meeting
+  * [Open Metaverse Browser Initiative (OMBI)](MSF-Open-Metaverse-Browser-Initiative-W3C.pdf) The Case for a Metaverse Browser Engine (MSF)
+  * [The Web of Worlds](MSF-The-Web-of-Words.pdf) (MSF)
+
 |          | 5/19                                                                                                                                                   | 5/20                                                                                                                     |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 |          | TUESDAY                                                                                                                                                | WEDNESDAY                                                                                                                |
