@@ -7,8 +7,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [webxr#1439 toggleOverlay proposal](https://github.com/immersive-web/webxr/pull/1439) [requested by cabanier](https://github.com/immersive-web/webxr/pull/1439#issuecomment-5094965320)
 > discuss toggleOverlay after developer feedback
 >
-> * [webxr#1439 toggleOverlay proposal](https://github.com/immersive-web/webxr/pull/1439) [requested by cabanier](https://github.com/immersive-web/webxr/pull/1439#issuecomment-5094965320)
-> discuss toggleOverlay after developer feedback
+* [webxr-webgpu-binding#37 Define WebGPU layer creation and texture lifecycle](https://github.com/immersive-web/webxr-webgpu-binding/pull/37) [requested by cabanier](https://github.com/immersive-web/webxr-webgpu-binding/pull/37#issuecomment-5170316909)
+> discuss layer support for WebGPU
 
 ### Immersive Web Working Group Teleconference - 2026-08-04
 
