@@ -1,10 +1,13 @@
 ### Call Agenda
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-08-04-Immersive_Web_Working_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-08-04-Immersive_Web_Working_Group_Teleconference-agenda.md). [Minutes](https://www.w3.org/2026/08/04-immersive-web-minutes.html) are available through scribe.
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [webxr#1439 toggleOverlay proposal](https://github.com/immersive-web/webxr/pull/1439) [requested by cabanier](https://github.com/immersive-web/webxr/pull/1439#issuecomment-5094965320)
+> discuss toggleOverlay after developer feedback
+>
+> * [webxr#1439 toggleOverlay proposal](https://github.com/immersive-web/webxr/pull/1439) [requested by cabanier](https://github.com/immersive-web/webxr/pull/1439#issuecomment-5094965320)
 > discuss toggleOverlay after developer feedback
 
 ### Immersive Web Working Group Teleconference - 2026-08-04
