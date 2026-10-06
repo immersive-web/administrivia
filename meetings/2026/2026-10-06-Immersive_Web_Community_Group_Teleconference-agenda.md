@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-10-06-Immersive_Web_Community_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2026/10/06-immersive-web-irc) are available through scribe.
 
 * [marker-tracking#19 Draft spec](https://github.com/immersive-web/marker-tracking/pull/19) [requested by m-alkalbani](https://github.com/immersive-web/marker-tracking/pull/19#issuecomment-5873792585)
 > First attempt at the marker-tracking spec (draft)
