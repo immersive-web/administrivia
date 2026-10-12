@@ -4,13 +4,6 @@ This agenda can be viewed and updated on [Github](https://github.com/immersive-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [marker-tracking#19 Draft spec](https://github.com/immersive-web/marker-tracking/pull/19) [requested by m-alkalbani](https://github.com/immersive-web/marker-tracking/pull/19#issuecomment-5873792585)
-> First attempt at the marker-tracking spec (draft)
- >
-
-* [webxr-hand-input#129 Hand tracking frequency hint](https://github.com/immersive-web/webxr-hand-input/pull/129) [requested by cabanier](https://github.com/immersive-web/webxr-hand-input/pull/129#issuecomment-5899130317)
-> We'd like to add the option to get high frequency tracking.
- >Currently, we request the default from the OS but for certain experiences that requires precise movements, high frequence tracking is required. This makes it an optional session parameter in the same way we do options for depth sensing.
 
 * [model-element#155 What is the default length unit for <model> APIs](https://github.com/immersive-web/model-element/issues/155) [requested by cabanier](https://github.com/immersive-web/model-element/issues/155#issuecomment-6089316254)
 > There are a number of APIs such as `entityTransform`, `boundingBoxExtents` and `boundingBoxCenter` that work with length values but it's unclear whether they should be pixels or meters. Some of the Safari examples show that the unit is meters but the specification doesn't actually specify. Additionally it's unclear if the units are [CSS meters or real world meter](https://www.w3.org/Style/Examples/007/units.en.html).
