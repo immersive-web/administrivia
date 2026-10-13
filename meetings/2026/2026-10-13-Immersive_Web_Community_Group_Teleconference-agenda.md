@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-10-13-Immersive_Web_Community_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda. [Minutes](https://www.w3.org/2026/10/13-immersive-web-minutes.html) are available through scribe.
 
 * [model-element#155 What is the default length unit for <model> APIs](https://github.com/immersive-web/model-element/issues/155) [requested by cabanier](https://github.com/immersive-web/model-element/issues/155#issuecomment-6089316254)
 > There are a number of APIs such as `entityTransform`, `boundingBoxExtents` and `boundingBoxCenter` that work with length values but it's unclear whether they should be pixels or meters. Some of the Safari examples show that the unit is meters but the specification doesn't actually specify. Additionally it's unclear if the units are [CSS meters or real world meter](https://www.w3.org/Style/Examples/007/units.en.html).
