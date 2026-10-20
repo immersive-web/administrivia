@@ -1,8 +1,16 @@
 ### Call Agenda
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-10-20-Immersive_Web_Working_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-10-21-Immersive_Web_Working_Group_Teleconference-agenda.md).
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
+
+* [webxr-hand-input#129 Hand tracking frequency hint](https://github.com/immersive-web/webxr-hand-input/pull/129) [requested by cabanier](https://github.com/immersive-web/webxr-hand-input/pull/129#issuecomment-6274607963)
+> We'd like to add the option to get high frequency tracking.
+ >Currently, we request the default from the OS but for certain experiences that requires precise movements, high frequence tracking is required. This makes it an optional session parameter in the same way we do options for depth sensing.
+
+* [webxr-webgpu-binding#41 WebGPU equivalent of foveateBoundTexture](https://github.com/immersive-web/webxr-webgpu-binding/issues/41) - mwyrzykowski
+> The WebGL backend has this function:
+ >[ foveateBoundTexture](https://www.w3.org/TR/webxrlayers-1/#dom-xrwebglbinding-foveateboundtexture)
 
 * [model-element#109 Require HTTPS?](https://github.com/immersive-web/model-element/issues/109) [requested by cabanier](https://github.com/immersive-web/model-element/issues/109#issuecomment-6258627691)
 > One of the goals of Model is to not require any sensitive data from the user/UA to display the content. On the other hand, it seems like there is a general enthusiasm for encouraging new features to require HTTPS. It's also the case that model content (be it USDZ, glTF or any other rich definition) is also a more complicated resource to parse and pull apart, so it might be understood to need HTTPS for that reason too. 
@@ -20,15 +28,15 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > A `model` with no author-provided environment map is rendered with a default environment map. And `model` should render consistently across platforms, _roughly_. For this consistent rendering we would need to specify the default environment map.
  >
 
-### Immersive Web Working Group Teleconference - 2026-10-20
+### Immersive Web Working Group Teleconference - 2026-10-21
 
 <table>
-<tr><td> San Francisco (U.S.A. - California) <td> Tuesday, October 20 at 12:00 PM PDT
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tuesday, October 20 at 3:00 PM EDT
-<tr><td> London (United Kingdom - England) <td> Tuesday, October 20 at 8:00 PM GMT+1
-<tr><td> Paris (France) <td> Tuesday, October 20 at 9:00 PM GMT+2
-<tr><td> Tokyo (Japan) <td> Wednesday, October 21 at 4:00 AM GMT+9
-<tr><td> Corresponding UTC (GMT) <td> Tuesday, October 20 at 7:00 PM UTC
+<tr><td> San Francisco (U.S.A. - California) <td> Wednesday, October 21 at 12:00 PM PDT
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Wednesday, October 21 at 3:00 PM EDT
+<tr><td> London (United Kingdom - England) <td> Wednesday, October 21 at 8:00 PM GMT+1
+<tr><td> Paris (France) <td> Wednesday, October 21 at 9:00 PM GMT+2
+<tr><td> Tokyo (Japan) <td> Thursday, October 22 at 4:00 AM GMT+9
+<tr><td> Corresponding UTC (GMT) <td> Wednesday, October 21 at 7:00 PM UTC
 </table>
 
 ### Logistics
