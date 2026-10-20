@@ -1,6 +1,6 @@
 ### Call Agenda
 
-This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-06-30-Immersive_Web_Community_Group_Teleconference-agenda.md).
+This agenda can be viewed and updated on [Github](https://github.com/immersive-web/administrivia/blob/main/meetings/2026/2026-06-30-Immersive_Web_Community_Group_Teleconference-agenda.md). ([meeting cancelled per agenda proposer unavailable](https://lists.w3.org/Archives/Public/public-immersive-web-wg/2026Jun/0004.html))
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
