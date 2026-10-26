@@ -17,7 +17,7 @@ Please reach out to the chairs for any requests or questions at immersive-web-ch
 
 ### minutes
 
-- 
+- [Day 1](https://www.w3.org/2026/10/26-immersive-web-minutes.html)
 
 ## Unconference Topics
 
