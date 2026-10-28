@@ -24,7 +24,7 @@ Please reach out to the chairs for any requests or questions at immersive-web-ch
 
 - [Spatial CSS issues](https://github.com/WebKit/explainers/issues?q=is%3Aissue+state%3Aopen+%5Bcss-spatial%5D)
 - [Spatial 3D models lifted off the page #172](https://github.com/immersive-web/model-element/issues/172)
-- [Stereo surfaces from the browser to the compositor: flat 3D displays without per-site output code](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/docs/proofs/waterfox-stereo-m3.md)
+- [VR and stereo surfaces from the browser to the compositor: WebXR sessions, 180° and 360° video, stereo photos and video, shown on headsets and flat 3D displays without per-site output code](https://github.com/Sparky-OS/sparky-stereo-os/blob/main/docs/proofs/waterfox-stereo-m3.md)
 
 ## Agenda
 [Day 1](https://www.w3.org/2026/10/26-immersive-web-minutes.html), [Day 2](https://www.w3.org/2026/10/27-immersive-web-minutes.html) and [Day 3 minutes]([Day 1](https://www.w3.org/2026/10/29-immersive-web-minutes.html)) will be available through scribe.
