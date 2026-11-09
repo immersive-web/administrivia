@@ -13,8 +13,14 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > announce that new Group/Status (of bikeshed) is available for CG spec at immersive-web.github.io
 
 * [webxr#1449 Revisit updateTargetFrameRate() promise behavior](https://github.com/immersive-web/webxr/issues/1449) - toji
-> This came in a discussion on https://crrev.com/c/8473130/comment/11a13b90_4f367b17/ where the frame rate API is being implemented in Chrome. I voiced some concern that the behavior of the promise resolution in the patch may lead to it triggering for frame rate changes that don't match the requested rate. Neil Kronlage from Meta was looped into the conversation to help clarify the Meta Browser's current behavior. 
+> This came in a discussion on https://crrev.com/c/8473130/comment/11a13b90_4f367b17/ where the frame rate API is being implemented in Chrome. I voiced some concern that the behavior of the promise resolution in the patch may lead to it triggering for frame rate changes that don't match the requested rate. Neil Kronlage from Meta was looped into the conversation to help clarify the Meta Browser's current behavior.
+
+> * [model-element#30 Integration with `preload`](https://github.com/immersive-web/model-element/issues/30) [requested by cabanier](https://github.com/immersive-web/model-element/issues/30#issuecomment-6494106137)
+> Need to specify Integration with [preload](https://html.spec.whatwg.org/multipage/links.html#link-type-preload) link relationships.
  >
+
+ * [model-element#53 Configure Background of model (transparency?)](https://github.com/immersive-web/model-element/issues/53) [requested by cabanier](https://github.com/immersive-web/model-element/issues/53#issuecomment-6466039942)
+> I think it would be nice if we could render the model on top of a provided image.
 
 ### Immersive Web Working Group Teleconference - 2026-11-10
 
